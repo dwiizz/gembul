@@ -11,10 +11,11 @@
 "JSON_POPUP_WAIT" : "Server Ready . . . ",
 
 // Redirect ke apps lain 
-"REDIRECT_TRAFFIC" : true,
+"REDIRECT_TRAFFIC" : false,
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.ydf.samoline",
 
 // main ads ke backup ads 
+
 "MODE_BACKUP_ADS" : true,
 "MODE_NO_ADS" : true,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
