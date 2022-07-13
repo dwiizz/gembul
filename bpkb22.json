@@ -2,15 +2,15 @@
 
 "Ads": [
     {
-      "select_main_ads": "UNITY",
-      "select_backup_ads":"STARTAPP",
-      "main_ads_banner": "Banner_Android",
-      "main_ads_intertitial":"Interstitial_Android",
+      "select_main_ads": "STARTAPP",
+      "select_backup_ads":"",
+      "main_ads_banner": "123456",
+      "main_ads_intertitial":"123456",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "interval_intertitial": 3,
-      "initialize_sdk":"4107441",
-      "initialize_sdk_backup_ads":"203773357",
+      "initialize_sdk":"203773357",
+      "initialize_sdk_backup_ads":"null",
       "url_webiste":"file:///android_asset/2022/index.html",
       "high_paying_keyword_1": "hyundai",
       "high_paying_keyword_2": "wuling",
