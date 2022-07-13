@@ -3,7 +3,7 @@
 "Ads": [
     {
       "select_main_ads": "UNITY",
-      "select_backup_ads":"STARAPP",
+      "select_backup_ads":"STARTAPP",
       "main_ads_banner": "Banner_Android",
       "main_ads_intertitial":"Interstitial_Android",
       "backup_ads_banner":"",
@@ -24,12 +24,12 @@
     "More":
   [
     {
-      "title":"MP3 Multi Ads",
+      "title":"gembilMP3 Multi Ads",
       "image":"https://aliendroid.dev/wp-content/uploads/2020/05/92574196_261157678610912_115796497303339008_o.jpg",
       "link":"https://www.facebook.com/aliendroidstudio/posts/261159425277404"
     },
     {
-      "title":"Wallpaper Json",
+      "title":"gembulWallpaper Json",
       "image":"https://aliendroid.dev/wp-content/uploads/2020/05/92571715_255544925838854_5503643562077585408_o.jpg",
       "link":"https://www.facebook.com/aliendroidstudio/posts/255549092505104"
     },
