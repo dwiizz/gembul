@@ -2,7 +2,7 @@
 
 "Ads": [
     {
-      "select_main_ads": "ADMOB-",
+      "select_main_ads": "ADMOB",
       "select_backup_ads":"STARTAPP",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
@@ -25,17 +25,17 @@
   [
     {
       "title":"Dangdut Koplo Religi Sholawat",
-      "image":"https://play-lh.googleusercontent.com/SUwRYWkJPfXIneIABj0B57wHBR-U_i8cvk3MKTRqyGX-0EKoFaZN0cqLOlcpKpWwquE=w526-h296",
+      "image":"https://play-lh.googleusercontent.com/lXLOpOP8DAowO-UMAKUoKeDYLbi0UnxccTvfTBa7uoOBo26SoF8h2LeogoayjYeGs64=w240-h480",
       "link":"https://play.google.com/store/apps/details?id=com.gembul.dangdutrelresso"
     },
     {
-      "title":"Cek PAjak Kendaraan",
-      "image":"https://play-lh.googleusercontent.com/Q4-7j1bO4-42iFWaj2hm14rMLtKcx_Ab47BGR32knd_cY1g9sLVpZH32aJBC577XSyk=w526-h296",
+      "title":"Cek Pajak Kendaraan",
+      "image":"https://play-lh.googleusercontent.com/jlUhtcn6ardIyUPFBVUbl-P7C4QSIVTMdgjW1jn_VCKAye0CYmxiL_-dGGoik9bgMXc=w240-h480",
       "link":"https://play.google.com/store/apps/details?id=com.gembul.samsatonlinenasional"
     },
     {
       "title":"500Lagu Nostalgia Dangdut Lawas",
-      "image":"https://play-lh.googleusercontent.com/fR2qRaohGuud8l5-URtcwGeiqBNjkawbqiDd_WgwMB6SqVL5ionrei837ZR-FBh9waw=w526-h296",
+      "image":"https://play-lh.googleusercontent.com/e9mDWe5r2KCQ-Bd9fpuj-6RYB9lkbcR0SqEDGxcMDKj9lrSy46rUcxXd2n0E_AY2Hk1e=w240-h480",
       "link":"https://play.google.com/store/apps/details?id=com.gembul.spotifymusic"
     },
    
