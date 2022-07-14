@@ -2,13 +2,13 @@
 
 "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "ADMOB-",
       "select_backup_ads":"STARTAPP",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "backup_ads_banner":"123456",
       "backup_ads_intertitial":"123456",
-      "interval_intertitial": 5,
+      "interval_intertitial": 7,
       "initialize_sdk":"null",
       "initialize_sdk_backup_ads":"203773357",
       "url_webiste":"file:///android_asset/2022/index.html",
@@ -24,29 +24,20 @@
     "More":
   [
     {
-      "title":"gembilMP3 Multi Ads",
-      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/92574196_261157678610912_115796497303339008_o.jpg",
-      "link":"https://www.facebook.com/aliendroidstudio/posts/261159425277404"
+      "title":"Dangdut Koplo Religi Sholawat",
+      "image":"https://play-lh.googleusercontent.com/SUwRYWkJPfXIneIABj0B57wHBR-U_i8cvk3MKTRqyGX-0EKoFaZN0cqLOlcpKpWwquE=w526-h296",
+      "link":"https://play.google.com/store/apps/details?id=com.gembul.dangdutrelresso"
     },
     {
-      "title":"gembulWallpaper Json",
-      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/92571715_255544925838854_5503643562077585408_o.jpg",
-      "link":"https://www.facebook.com/aliendroidstudio/posts/255549092505104"
+      "title":"Cek PAjak Kendaraan",
+      "image":"https://play-lh.googleusercontent.com/Q4-7j1bO4-42iFWaj2hm14rMLtKcx_Ab47BGR32knd_cY1g9sLVpZH32aJBC577XSyk=w526-h296",
+      "link":"https://play.google.com/store/apps/details?id=com.gembul.samsatonlinenasional"
     },
     {
-      "title":"Guide Json",
-      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/91080900_251144816278865_2820888782906064896_o.jpg",
-      "link":"https://www.facebook.com/aliendroidstudio/posts/251155719611108"
+      "title":"500Lagu Nostalgia Dangdut Lawas",
+      "image":"https://play-lh.googleusercontent.com/fR2qRaohGuud8l5-URtcwGeiqBNjkawbqiDd_WgwMB6SqVL5ionrei837ZR-FBh9waw=w526-h296",
+      "link":"https://play.google.com/store/apps/details?id=com.gembul.spotifymusic"
     },
-    {
-      "title":"Guide Blogspot",
-      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/89941644_236400271086653_8098666792345403392_o.jpg",
-      "link":"https://www.facebook.com/aliendroidstudio/posts/236402677753079"
-    },
-    {
-      "title":"Wallpaper Blogspot",
-      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/94314724_271704954222851_8758771117910392832_o.jpg",
-      "link":"https://www.facebook.com/aliendroidstudio/posts/230801341646546"
-    }
+   
   ]
 }
