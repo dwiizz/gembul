@@ -2,8 +2,8 @@
 
 "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"STARTAPP",
+      "select_main_ads": "ADMOB-",
+      "select_backup_ads":"STARTAPP-",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "backup_ads_banner":"123456",
@@ -48,10 +48,26 @@
       "image":"https://upload.wikimedia.org/wikipedia/commons/1/15/Question-mark-red-orange-animated.gif",
       "link":"https://api.whatsapp.com/send?phone=6281226055368&text=%C2%AESAMSAT%20ONLINE%20NASIONAL%C2%AE%0A%0A*%99Nama*%20%3A%0A*Propinsi*%20%3A%0A*%99NomorPlat*%20%3A%0A%20Pertanyaan%20%3A"
     },
+      {
+      "title":"Si Imut Honda N-Box dan N-One",
+      "image":"https://imgx.gridoto.com/crop/0x0:0x0/700x465/filters:watermark(file/2017/gridoto/img/watermark.png,5,5,60)/photo/2022/05/24/honda-n-box-dan-n-one-kei-car-da-20220524080315.jpeg",
+      "link":"https://www.youtube.com/watch?v=P2BVfgI-aJ8"
+    },
+      {
+      "title":"Pesaing Berat Yamaha N-Max dan Honda PCX",
+      "image":"https://paultan.org/image/2022/06/Malaguti-Madison-150-2022-Thailand-11-e1655940819775.jpeg",
+      "link":"https://www.youtube.com/watch?v=EP7E-lHa594"
+    },
     {
       "title":"CEK PAJAK DKI",
       "image":"https://play-lh.googleusercontent.com/jlUhtcn6ardIyUPFBVUbl-P7C4QSIVTMdgjW1jn_VCKAye0CYmxiL_-dGGoik9bgMXc=w240-h480",
       "link":"https://samsat-pkb2.jakarta.go.id/"
+    },
+      
+      {
+      "title":"Inilah Daihatsu Taft Reborn",
+      "image":"https://statik.tempo.co/data/2020/04/11/id_930062/930062_720.jpg",
+      "link":"https://www.youtube.com/watch?v=5NrRDisofgI"
     }
   ]
 }
