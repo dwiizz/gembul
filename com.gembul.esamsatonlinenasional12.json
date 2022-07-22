@@ -62,12 +62,12 @@
       "title":"CEK PAJAK DKI",
       "image":"https://play-lh.googleusercontent.com/jlUhtcn6ardIyUPFBVUbl-P7C4QSIVTMdgjW1jn_VCKAye0CYmxiL_-dGGoik9bgMXc=w240-h480",
       "link":"https://samsat-pkb2.jakarta.go.id/"
-//    },
+    },
       
- //     {
-  //    "title":"Inilah Daihatsu Taft Reborn",
- //     "image":"https://statik.tempo.co/data/2020/04/11/id_930062/930062_720.jpg",
-   //   "link":"https://www.youtube.com/watch?v=5NrRDisofgI"
+      {
+      "title":"Inilah Daihatsu Taft Reborn",
+      "image":"https://statik.tempo.co/data/2020/04/11/id_930062/930062_720.jpg",
+      "link":"https://www.youtube.com/watch?v=5NrRDisofgI"
     }
   ]
 }
