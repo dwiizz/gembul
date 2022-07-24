@@ -23,11 +23,11 @@
   ],
     "More":
   [
- //   {
- //     "title":"Dangdut Koplo Religi Sholawat",
- //     "image":"https://play-lh.googleusercontent.com/WOWeYRPR4-s8DQt5DT3cpcCqmUfqyJJ_nMHaN6BTnOWXFqe2UUs-8x_N89kmmWXvMts=w2560-h1440",
-  //    "link":"https://play.google.com/store/apps/details?id=com.gembul.dangdutrelresso"
- //   },
+    {
+      "title":"Dangdut Koplo Religi Sholawat",
+      "image":"https://play-lh.googleusercontent.com/WOWeYRPR4-s8DQt5DT3cpcCqmUfqyJJ_nMHaN6BTnOWXFqe2UUs-8x_N89kmmWXvMts=w2560-h1440",
+      "link":"https://play.google.com/store/apps/details?id=com.gembul.dangdutrelresso"
+    },
  //   {
  //     "title":"Cek BPKB Online",
  //     "image":"https://play-lh.googleusercontent.com/ucZiZNiTtjTkNRG8PjoapeJEzEMeJuRJIVAKzN5bO_51GB8ngecNYhRQuLAzIueQSQ=w240-h480",
@@ -43,6 +43,11 @@
   //    "image":"https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/b6a5a5b280fd49edb678a4e67f938e16.jpg",
  //     "link":"https://www.youtube.com/watch?v=_TA7LhJSenI"
  //   },
+      {
+      "title":"CEK PAJAK BANTEN",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/5/52/Coat_of_arms_of_Banten.svg",
+      "link":"http://infopajakbanten.online/"
+    },
     {
       "title":"PERTANYAAN",
       "image":"https://upload.wikimedia.org/wikipedia/commons/1/15/Question-mark-red-orange-animated.gif",
@@ -60,7 +65,7 @@
  //   },
     {
       "title":"CEK PAJAK DKI",
-      "image":"https://play-lh.googleusercontent.com/jlUhtcn6ardIyUPFBVUbl-P7C4QSIVTMdgjW1jn_VCKAye0CYmxiL_-dGGoik9bgMXc=w240-h480",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Coat_of_arms_of_Jakarta.svg/1200px-Coat_of_arms_of_Jakarta.svg.png",
       "link":"https://samsat-pkb2.jakarta.go.id/"
     },
       
