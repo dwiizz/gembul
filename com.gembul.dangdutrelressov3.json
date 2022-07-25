@@ -2,10 +2,10 @@
 
 "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"STARTAPP",
-      "main_ads_banner": "ca-app-pub-9488296014066778/9075022935",
-      "main_ads_intertitial":"ca-app-pub-9488296014066778/6257287906",
+      "select_main_ads": "ADMOB-",
+      "select_backup_ads":"STARTAPP-",
+      "main_ads_banner": "ca-app-pub-2365282461254996/4724329940",
+      "main_ads_intertitial":"ca-app-pub-2365282461254996/8472003268",
       "backup_ads_banner":"123456",
       "backup_ads_intertitial":"123456",
       "interval_intertitial": 15,
