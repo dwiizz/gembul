@@ -28,16 +28,16 @@
    //   "image":"https://play-lh.googleusercontent.com/WOWeYRPR4-s8DQt5DT3cpcCqmUfqyJJ_nMHaN6BTnOWXFqe2UUs-8x_N89kmmWXvMts=w2560-h1440",
    //   "link":"https://play.google.com/store/apps/details?id=com.gembul.dangdutrelresso"
   //  },
- //   {
- //     "title":"Cek BPKB Online",
- //     "image":"https://play-lh.googleusercontent.com/ucZiZNiTtjTkNRG8PjoapeJEzEMeJuRJIVAKzN5bO_51GB8ngecNYhRQuLAzIueQSQ=w240-h480",
- //     "link":"https://play.google.com/store/apps/details?id=com.gembul.cekbpkbonline"
-  //  },
-  //  {
-  //    "title":"500Lagu Nostalgia Dangdut Lawas",
-  //    "image":"https://play-lh.googleusercontent.com/fR2qRaohGuud8l5-URtcwGeiqBNjkawbqiDd_WgwMB6SqVL5ionrei837ZR-FBh9waw=w2560-h1440",
-  //    "link":"https://play.google.com/store/apps/details?id=com.gembul.spotifymusic"
-  //  },
+    {
+      "title":"Cek BPKB Online",
+      "image":"https://play-lh.googleusercontent.com/ucZiZNiTtjTkNRG8PjoapeJEzEMeJuRJIVAKzN5bO_51GB8ngecNYhRQuLAzIueQSQ=w240-h480",
+      "link":"https://play.google.com/store/apps/details?id=com.gembul.cekbpkbonline"
+    },
+    {
+      "title":"500Lagu Nostalgia Dangdut Lawas",
+      "image":"https://play-lh.googleusercontent.com/fR2qRaohGuud8l5-URtcwGeiqBNjkawbqiDd_WgwMB6SqVL5ionrei837ZR-FBh9waw=w2560-h1440",
+      "link":"https://play.google.com/store/apps/details?id=com.gembul.spotifymusic"
+    },
   //    {
  //     "title":"Pesaing Berat Kawasaki Ninja 250 cc Mono",
   //    "image":"https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/b6a5a5b280fd49edb678a4e67f938e16.jpg",
