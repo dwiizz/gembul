@@ -37,7 +37,7 @@
       "title":"500Lagu Nostalgia Dangdut Lawas",
       "image":"https://play-lh.googleusercontent.com/fR2qRaohGuud8l5-URtcwGeiqBNjkawbqiDd_WgwMB6SqVL5ionrei837ZR-FBh9waw=w2560-h1440",
       "link":"https://play.google.com/store/apps/details?id=com.gembul.spotifymusic"
-    },
+    }
   //    {
  //     "title":"Pesaing Berat Kawasaki Ninja 250 cc Mono",
   //    "image":"https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/b6a5a5b280fd49edb678a4e67f938e16.jpg",
@@ -52,7 +52,7 @@
   //    "title":"PERTANYAAN",
   //    "image":"https://upload.wikimedia.org/wikipedia/commons/1/15/Question-mark-red-orange-animated.gif",
   //    "link":"https://api.whatsapp.com/send?phone=6281226055368&text=%C2%A_2022_%ESAMSAT%20ONLINE%20NASIONAL%(24.7.Sun.15:00)%C2%AE%0A%0A*%99Nama*%20%3A%0A*Propinsi*%20%3A%0A*%99NomorPlat*%20%3A%0A%20Pertanyaan%20%3A"
-    },
+  // },
  //     {
   //    "title":"Si Imut Honda N-Box dan N-One",
  //     "image":"https://imgx.gridoto.com/crop/0x0:0x0/700x465/filters:watermark(file/2017/gridoto/img/watermark.png,5,5,60)/photo/2022/05/24/honda-n-box-dan-n-one-kei-car-da-20220524080315.jpeg",
@@ -69,10 +69,10 @@
   //    "link":"https://samsat-pkb2.jakarta.go.id/"
 //    },
       
-      {
-      "title":"Inilah Daihatsu Taft Reborn",
-      "image":"https://statik.tempo.co/data/2020/04/11/id_930062/930062_720.jpg",
-      "link":"https://www.youtube.com/watch?v=5NrRDisofgI"
-    }
+ //     {
+ //     "title":"Inilah Daihatsu Taft Reborn",
+  //    "image":"https://statik.tempo.co/data/2020/04/11/id_930062/930062_720.jpg",
+ //     "link":"https://www.youtube.com/watch?v=5NrRDisofgI"
+ //   }
   ]
 }
