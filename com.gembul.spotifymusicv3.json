@@ -1,0 +1,69 @@
+{  
+
+"Ads": [
+    {
+      "select_main_ads": "ADMOB-",
+      "select_backup_ads":"STARTAPP-",
+      "main_ads_banner": "ca-app-pub-2365282461254996/9298370909",
+      "main_ads_intertitial":"ca-app-pub-2365282461254996/7602409187",
+      "backup_ads_banner":"123456",
+      "backup_ads_intertitial":"123456",
+      "interval_intertitial": 15,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"203773357",
+      "url_webiste":"file:///android_asset/music/index.html",
+      "high_paying_keyword_1": "hyundai",
+      "high_paying_keyword_2": "mitsubishi",
+      "high_paying_keyword_3": "wuling",
+      "high_paying_keyword_4": "honda",
+      "high_paying_keyword_5": "yamaha",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "More":
+  [
+    {
+      "title":"Dangdut Koplo Religi Sholawat",
+      "image":"https://play-lh.googleusercontent.com/WOWeYRPR4-s8DQt5DT3cpcCqmUfqyJJ_nMHaN6BTnOWXFqe2UUs-8x_N89kmmWXvMts=w2560-h1440",
+      "link":"https://play.google.com/store/apps/details?id=com.gembul.dangdutrelresso"
+    },
+      {
+      "title":"Cek Pajak Kendaraan",
+      "image":"https://play-lh.googleusercontent.com/3Zi7zcc4knPjWJk_30fbiFey6zQYhB_hrtHm7fOeJ54qHGNR2lFGv-BLWS4i_rOQS0E=w240-h480",
+      "link":"https://play.google.com/store/apps/details?id=com.gembul.samsatonlinenasional"
+    },
+    {
+      "title":"Cek BPKB Online",
+      "image":"https://play-lh.googleusercontent.com/ucZiZNiTtjTkNRG8PjoapeJEzEMeJuRJIVAKzN5bO_51GB8ngecNYhRQuLAzIueQSQ=w240-h480",
+      "link":"https://play.google.com/store/apps/details?id=com.gembul.cekbpkbonline"
+    }
+ //   {
+  //    "title":"500Lagu Nostalgia Dangdut Lawas",
+  //    "image":"https://play-lh.googleusercontent.com/fR2qRaohGuud8l5-URtcwGeiqBNjkawbqiDd_WgwMB6SqVL5ionrei837ZR-FBh9waw=w2560-h1440",
+ //     "link":"https://play.google.com/store/apps/details?id=com.gembul.spotifymusic"
+  //  }
+  //    {
+ //     "title":"Pesaing Berat Kawasaki Ninja 250 cc Mono",
+  //    "image":"https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/b6a5a5b280fd49edb678a4e67f938e16.jpg",
+ //     "link":"https://www.youtube.com/watch?v=_TA7LhJSenI"
+ //   },
+ 
+ //     {
+  //    "title":"Si Imut Honda N-Box dan N-One",
+ //     "image":"https://imgx.gridoto.com/crop/0x0:0x0/700x465/filters:watermark(file/2017/gridoto/img/watermark.png,5,5,60)/photo/2022/05/24/honda-n-box-dan-n-one-kei-car-da-20220524080315.jpeg",
+  //    "link":"https://www.youtube.com/watch?v=P2BVfgI-aJ8"
+//    },
+//      {
+ //     "title":"Pesaing Berat Yamaha N-Max dan Honda PCX",
+ //     "image":"https://paultan.org/image/2022/06/Malaguti-Madison-150-2022-Thailand-11-e1655940819775.jpeg",
+ //     "link":"https://www.youtube.com/watch?v=EP7E-lHa594"
+ //   },
+
+ //     {
+ //     "title":"Inilah Daihatsu Taft Reborn",
+  //    "image":"https://statik.tempo.co/data/2020/04/11/id_930062/930062_720.jpg",
+ //     "link":"https://www.youtube.com/watch?v=5NrRDisofgI"
+ //   }
+  ]
+}
