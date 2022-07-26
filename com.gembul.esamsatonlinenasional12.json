@@ -43,11 +43,11 @@
   //    "image":"https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/b6a5a5b280fd49edb678a4e67f938e16.jpg",
  //     "link":"https://www.youtube.com/watch?v=_TA7LhJSenI"
  //   },
-      {
-      "title":"CEK PAJAK BANTEN",
-      "image":"https://upload.wikimedia.org/wikipedia/commons/5/52/Coat_of_arms_of_Banten.svg",
-      "link":"http://infopajakbanten.online/"
-    },
+ //     {
+   //   "title":"CEK PAJAK BANTEN",
+     // "image":"https://upload.wikimedia.org/wikipedia/commons/5/52/Coat_of_arms_of_Banten.svg",
+     // "link":"http://infopajakbanten.online/"
+   // },
     {
       "title":"PERTANYAAN",
       "image":"https://upload.wikimedia.org/wikipedia/commons/1/15/Question-mark-red-orange-animated.gif",
