@@ -43,15 +43,15 @@
   //    "image":"https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/b6a5a5b280fd49edb678a4e67f938e16.jpg",
  //     "link":"https://www.youtube.com/watch?v=_TA7LhJSenI"
  //   },
- //     {
-   //   "title":"CEK PAJAK BANTEN",
-     // "image":"https://upload.wikimedia.org/wikipedia/commons/5/52/Coat_of_arms_of_Banten.svg",
-     // "link":"http://infopajakbanten.online/"
-   // },
+      {
+      "title":"CEK PAJAK BANTEN",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/5/52/Coat_of_arms_of_Banten.svg",
+      "link":"http://infopajakbanten.online/"
+    },
     {
       "title":"PERTANYAAN",
       "image":"https://upload.wikimedia.org/wikipedia/commons/1/15/Question-mark-red-orange-animated.gif",
-      "link":"https://api.whatsapp.com/send?phone=6281226055368&text=%C2%A_2022_%_ESAMSAT%20ONLINE%20NASIONAL%(26.7.Mon.19:20)%C2%AE%0A%0A*%99Nama*%20%3A%0A*Propinsi*%20%3A%0A*%99NomorPlat*%20%3A%0A%20Pertanyaan%20%3A"
+      "link":"https://api.whatsapp.com/send?phone=6281226055368&text=%20%3A_2022_%_ESAMSAT%20ONLINE%20NASIONAL%(27.7.Wed.09:10)%C2%AE%0A%0A*%99Nama*%20%3A%0A*Propinsi*%20%3A%0A*%99NomorPlat*%20%3A%0A%20Pertanyaan%20%3A"
     },
  //     {
   //    "title":"Si Imut Honda N-Box dan N-One",
