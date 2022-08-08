@@ -45,14 +45,14 @@
     {
       "id": 1,
       "category": "Hari Nasional",
-      "title": "Hari Batik Nasional",
-      "image_link": "frame/batik.webp"
+      "title": "HUT RI ke 77",
+      "image_link": "baru/1.png"
     },
     {
       "id": 2,
-      "category": "Hari Raya",
-      "title": "Idul Fitri",
-      "image_link": "frame/idul.webp"
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/2.png"
     },
     {
       "id": 3,
@@ -101,6 +101,36 @@
       "category": "Lainnya",
       "title": "Ayo Divaksin",
       "image_link": "frame/vaksin.webp"
+    },
+    {
+      "id": 11,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/3.png"
+    },
+    {
+      "id": 12,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/4.png"
+    },
+    {
+      "id": 13,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/5.png"
+    },
+    {
+      "id": 14,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/6.png"
+     },
+     {
+      "id": 15,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/7.png"
     }
 
 
