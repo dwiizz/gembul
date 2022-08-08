@@ -45,14 +45,14 @@
     {
       "id": 1,
       "category": "Hari Nasional",
-      "title": "HUT RI ke 77",
-      "image_link": "baru/1.png"
+      "title": "Hari Batik Nasional",
+      "image_link": "frame/batik.webp"
     },
     {
       "id": 2,
-      "category": "Hari Nasional",
-      "title": "HUT RI ke 77",
-      "image_link": "baru/2.png"
+      "category": "Hari Raya",
+      "title": "Idul Fitri",
+      "image_link": "frame/idul.webp"
     },
     {
       "id": 3,
@@ -131,7 +131,91 @@
       "category": "Hari Nasional",
       "title": "HUT RI ke 77",
       "image_link": "baru/7.png"
-    }
+    },
+    {
+      "id": 16,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/1.png"
+     },
+     {
+      "id": 17,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/8.png"
+     },
+     {
+      "id": 18,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/9.png"
+     },
+     {
+      "id": 19,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/10.png"
+     },
+     {
+      "id": 20,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/11.png"
+     },
+     {
+      "id": 21,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/12.png"
+     },
+     {
+      "id": 22,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/13.png"
+     },
+     {
+      "id": 23,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/14.png"
+     },
+     {
+      "id": 24,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/15.png"
+     },
+     {
+      "id": 25,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/16.png"
+     },
+     {
+      "id": 26,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/17.png"
+     },
+     {
+      "id": 27,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/18.png"
+     },
+     {
+      "id": 28,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/19.png"
+     },
+     {
+      "id": 29,
+      "category": "Hari Nasional",
+      "title": "HUT RI ke 77",
+      "image_link": "baru/20.png"
+     }
 
 
   ]
