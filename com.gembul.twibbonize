@@ -35,6 +35,11 @@
 
     },
     {
+      "category": "HUT RI RMS",
+      "image_link": "https://samolnas.files.wordpress.com/2022/08/y.png?w=1024"
+
+    },
+    {
       "category": "Lainnya",
       "image_link": "frame/ribut.webp"
 
@@ -344,25 +349,25 @@
      },
       {
       "id": 51,
-      "category": "Hari Nasional",
+      "category": "HUT RI RMS",
       "title": "RMS HUT RI",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/v.png?w=1024"
      },
      {
       "id": 52,
-      "category": "Hari Nasional",
+      "category": "HUT RI RMS",
       "title": "RMS1 HUT RI",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/w.png?w=1024"
      },
       {
       "id": 53,
-      "category": "Hari Nasional",
+      "category": "HUT RI RMS",
       "title": "RMS2 HUT RI",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/x.png?w=1024"
      },
      {
       "id": 54,
-      "category": "Hari Nasional",
+      "category": "HUT RI RMS",
       "title": "RMS3 HUT RI",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/y.png?w=1024"
      },
