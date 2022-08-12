@@ -40,7 +40,12 @@
 
     },
     {
-      "category": "Lainnya",
+      "category": "HUT RI Ormas",
+      "image_link": "https://samolnas.files.wordpress.com/2022/08/an2n.png?w=1024"
+
+    },
+    {
+      "category": "Tema Lainnya",
       "image_link": "frame/ribut.webp"
 
     }
@@ -85,13 +90,13 @@
     },
     {
       "id": 7,
-      "category": "Lainnya",
+      "category": "Tema Lainnya",
       "title": "PKKTB 2021",
       "image_link": "frame/pkktb.webp"
     },
     {
       "id": 8,
-      "category": "Lainnya",
+      "category": "Tema Lainnya",
       "title": "Ribut Bikin Kangen",
       "image_link": "frame/ribut.webp"
     },
@@ -103,7 +108,7 @@
     },
     {
       "id": 10,
-      "category": "Lainnya",
+      "category": "Tema Lainnya",
       "title": "Ayo Divaksin",
       "image_link": "frame/vaksin.webp"
     },
@@ -223,43 +228,43 @@
      },
      {
       "id": 30,
-      "category": "Hari Nasional",
+      "category": "HUT RI",
       "title": "HUT RI ke 77-20",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/b.png?w=1024"
      },
      {
       "id": 31,
-      "category": "Hari Nasional",
+      "category": "HUT RI",
       "title": "HUT RI ke 77-21",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/c.png?w=1024"
      },
      {
       "id": 32,
-      "category": "Hari Nasional",
+      "category": "HUT RI",
       "title": "HUT RI ke 77-22",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/d.png?w=1024"
      },
      {
       "id": 33,
-      "category": "Hari Raya",
+      "category": "HUT RI",
       "title": "Maulid Nabi",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/a.png?w=1024"
      },
      {
       "id": 34,
-      "category": "Hari Nasional",
+      "category": "Pendidikan",
       "title": "HUT Pramuka",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/e.png?w=1024"
      },
      {
       "id": 35,
-      "category": "Hari Nasional",
+      "category": "HUT RI Ormas",
       "title": "HUT RI ke 77-FBR",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/f.png?w=1024"
      },
       {
       "id": 36,
-      "category": "Hari Nasional",
+      "category": "HUT RI",
       "title": "HUT RI ke 77-24",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/g.png?w=1024"
      },
@@ -271,79 +276,79 @@
      },
      {
       "id": 38,
-      "category": "Hari Nasional",
+      "category": "HUT RI",
       "title": "HUT RI ke 77-26",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/i.png?w=1024"
      },
       {
       "id": 39,
-      "category": "Hari Nasional",
+      "category": "HUT RI",
       "title": "HUT RI ke 77-27",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/j.png?w=1024"
      },
      {
       "id": 40,
-      "category": "Hari Nasional",
+      "category": "HUT RI",
       "title": "HUT RI ke 77-28",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/k.png?w=1024"
      },
       {
       "id": 41,
-      "category": "Hari Nasional",
+      "category": "HUT RI",
       "title": "HUT RI ke 77-29",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/l.png?w=1024"
      },
      {
       "id": 42,
-      "category": "Hari Nasional",
+      "category": "HUT RI",
       "title": "HUT RI ke 77-30",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/m.png?w=1024"
      },
       {
       "id": 43,
-      "category": "Hari Nasional",
+      "category": "HUT RI",
       "title": "HUT RI ke 77-31",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/n.png?w=1024"
      },
      {
       "id": 44,
-      "category": "Hari Nasional",
+      "category": "HUT RI",
       "title": "HUT RI ke 77-32",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/o.png?w=1024"
      },
       {
       "id": 45,
-      "category": "Hari Nasional",
+      "category": "HUT RI",
       "title": "HUT RI ke 77-33",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/p.png?w=1024"
      },
      {
       "id": 46,
-      "category": "Hari Nasional",
+      "category": "HUT RI",
       "title": "HUT RI ke 77-34",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/q.png?w=1024"
      },
       {
       "id": 47,
-      "category": "Hari Nasional",
+      "category": "HUT RI",
       "title": "HUT RI ke 77-35",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/r.png?w=1024"
      },
      {
       "id": 48,
-      "category": "Hari Nasional",
+      "category": "HUT RI",
       "title": "HUT RI ke 77-36",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/s.png?w=1024"
      },
       {
       "id": 49,
-      "category": "Hari Nasional",
+      "category": "HUT RI",
       "title": "HUT RI ke 77-37",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/t.png?w=1024"
      },
      {
       "id": 50,
-      "category": "Hari Nasional",
+      "category": "HUT RI",
       "title": "HUT RI ke 77-38",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/u.png?w=1024"
      },
@@ -373,38 +378,38 @@
      },
       {
       "id": 55,
-      "category": "Hari Nasional",
+      "category": "HUT RI",
       "title": "HUT RI ke 77-39",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/z.png?w=1024"
      },
       {
       "id": 56,
-      "category": "Hari Nasional",
+      "category": "HUT RI Ormas",
       "title": "Ansor Blederan HUT RI",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/an.png?w=1024"
      },
       {
       "id": 57,
-      "category": "Hari Nasional",
-      "title": "Ansor Blederan HUT RI",
+      "category": "HUT RI Ormas",
+      "title": "Ansor Blederan2 HUT RI",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/an2.png?w=1024"
      },
       {
       "id": 58,
-      "category": "Hari Nasional",
+      "category": "HUT RI Ormas",
       "title": "NU HUT RI",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/an2n.png?w=1024"
      },
       {
       "id": 59,
-      "category": "Hari Nasional",
+      "category": "HUT RI Ormas",
       "title": "Ansor HUT RI",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/an2a.png?w=1024"
      },
      {
       "id": 60,
-      "category": "Hari Nasional",
-      "title": "Ansor HUT RI",
+      "category": "HUT RI Ormas",
+      "title": "Ansor2 HUT RI",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/an3.png?w=1024"
      },
       {
