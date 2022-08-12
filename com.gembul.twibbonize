@@ -1,13 +1,13 @@
 {"Ads": [
     {
-      "select_main_ads": "-IRON-",
+      "select_main_ads": "STARTAPP",
       "select_backup_ads":"-STARTAPP-",
       "main_ads_banner": "9971687",
       "main_ads_intertitial":"9971685",
       "backup_ads_banner":"9925611",
       "backup_ads_intertitial":"9925609",
-      "interval_intertitial": 7,
-      "initialize_sdk":"15fe6f88d",
+      "interval_intertitial": 11,
+      "initialize_sdk":"203773357",
       "initialize_sdk_backup_ads":"203773357",
        "high_paying_keyword_1": "hyundai",
       "high_paying_keyword_2": "mitsubishi",
@@ -25,13 +25,13 @@
 
     },
     {
-      "category": "Hari Nasional",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
+      "category": "HUT RI",
+      "image_link": "https://samolnas.files.wordpress.com/2022/08/g.png?w=1024"
 
     },
     {
-      "category": "Pendidikan",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
+      "category": "HUT RI Pendidikan",
+      "image_link": "https://samolnas.files.wordpress.com/2022/08/mi1.png?w=1024"
 
     },
     {
@@ -404,31 +404,31 @@
      },
       {
       "id": 61,
-      "category": "Hari Nasional",
+      "category": "HUT RI Pendidikan",
       "title": "MI KLESMAN HUT RI",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/mi.png?w=1024"
      },
      {
       "id": 62,
-      "category": "Hari Nasional",
+      "category": "HUT RI Pendidikan",
       "title": "MI KLESMAN1 HUT RI",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/mi1.png?w=1024"
      },
      {
       "id": 63,
-      "category": "Hari Nasional",
+      "category": "HUT RI Pendidikan",
       "title": "MI KLESMAN2 HUT RI",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/mi2.png?w=1024"
      },
      {
       "id": 64,
-      "category": "Hari Nasional",
+      "category": "HUT RI Pendidikan",
       "title": "MI KLESMAN4 HUT RI",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/mi3.png?w=1024"
      },
       {
       "id": 65,
-      "category": "Hari Nasional",
+      "category": "HUT RI Pendidikan",
       "title": "MI KLESMAN5 HUT RI",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/mi4.png?w=1024"
      }
