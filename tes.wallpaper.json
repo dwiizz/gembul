@@ -45,6 +45,10 @@
       "image": "https://v7n2u8v7.rocketcdn.me/wp-content/uploads/2020/07/Waterfalls-Selja-L1.jpg"
     },
     {
+      "name_category": "Cute Girl",
+      "image": "file:///android_asset/media/jpg.jpg"
+    },
+    {
       "name_category": "Animal",
       "image": "https://images-na.ssl-images-amazon.com/images/I/710WW1XPhaL._AC_SL1280_.jpg"
     },
@@ -61,6 +65,35 @@
       "link": "https://samolnas.files.wordpress.com/2022/09/",
       "type": "GIF"
     },
+   {
+      "title": "Cute Girl 17",
+      "name_category": "Cute Girl",
+      "image": "17.mp4",
+      "link": "file:///android_asset/media/",
+      "type": "MP4"
+    },
+    {
+      "title": "Cute Girl 18",
+      "name_category": "Cute Girl",
+      "image": "18.mp4",
+      "link": "file:///android_asset/media/",
+      "type": "MP4"
+    },
+    {
+      "title": "Cute Girl 19",
+      "name_category": "Cute Girl",
+      "image": "19.mp4",
+      "link": "file:///android_asset/media/",
+      "type": "MP4"
+    },
+    {
+      "title": "Cute Girl 20",
+      "name_category": "Cute Girl",
+      "image": "20.mp4",
+      "link": "file:///android_asset/media/",
+      "type": "MP4"
+    },
+   
     {
       "title": "Summer",
       "name_category": "Nature",
@@ -75,6 +108,13 @@
       "link": "https://aliendro.id/uploads/demo/livewall/",
       "type": "GIF"
     },
+   {
+      "title": "Cute Girl 21",
+      "name_category": "Cute Girl",
+      "image": "21.mp4",
+      "link": "file:///android_asset/media/",
+      "type": "MP4"
+    },
     {
       "title": "River",
       "name_category": "Nature",
@@ -82,11 +122,25 @@
       "link": "https://aliendro.id/uploads/demo/livewall/",
       "type": "GIF"
     },
+   {
+      "title": "Cute Girl 22",
+      "name_category": "Cute Girl",
+      "image": "22.mp4",
+      "link": "file:///android_asset/media/",
+      "type": "MP4"
+    },
     {
       "title": "Wahite Flower",
       "name_category": "Nature",
       "image": "whiteflower.mp4",
       "link": "https://aliendro.id/uploads/demo/livewall/",
+      "type": "MP4"
+    },
+   {
+      "title": "Cute Girl 23",
+      "name_category": "Cute Girl",
+      "image": "23.mp4",
+      "link": "file:///android_asset/media/",
       "type": "MP4"
     },
     {
