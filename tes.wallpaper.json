@@ -57,38 +57,11 @@
     {
       "title": "Beach",
       "name_category": "Nature",
-      "image": "ferrari.mp4",
+      "image": "ferrari.mp4/file",
       "link": "https://www.mediafire.com/file/35y8jssrgi6sorz/",
       "type": "MP4"
     },
-   {
-      "title": "Cute Girl 17",
-      "name_category": "Cute Girl",
-      "image": "17.mp4",
-      "link": "file:///android_asset/media/",
-      "type": "MP4"
-    },
-    {
-      "title": "Cute Girl 18",
-      "name_category": "Cute Girl",
-      "image": "18.mp4",
-      "link": "file:///android_asset/media/",
-      "type": "MP4"
-    },
-    {
-      "title": "Cute Girl 19",
-      "name_category": "Cute Girl",
-      "image": "19.mp4",
-      "link": "file:///android_asset/media/",
-      "type": "MP4"
-    },
-    {
-      "title": "Cute Girl 20",
-      "name_category": "Cute Girl",
-      "image": "20.mp4",
-      "link": "file:///android_asset/media/",
-      "type": "MP4"
-    },
+   
    
     {
       "title": "Summer",
@@ -104,13 +77,7 @@
       "link": "https://aliendro.id/uploads/demo/livewall/",
       "type": "GIF"
     },
-   {
-      "title": "Cute Girl 21",
-      "name_category": "Cute Girl",
-      "image": "21.mp4",
-      "link": "file:///android_asset/media/",
-      "type": "MP4"
-    },
+   
     {
       "title": "River",
       "name_category": "Nature",
@@ -118,13 +85,7 @@
       "link": "https://aliendro.id/uploads/demo/livewall/",
       "type": "GIF"
     },
-   {
-      "title": "Cute Girl 22",
-      "name_category": "Cute Girl",
-      "image": "22.mp4",
-      "link": "file:///android_asset/media/",
-      "type": "MP4"
-    },
+  
     {
       "title": "Wahite Flower",
       "name_category": "Nature",
@@ -132,13 +93,7 @@
       "link": "https://aliendro.id/uploads/demo/livewall/",
       "type": "MP4"
     },
-   {
-      "title": "Cute Girl 23",
-      "name_category": "Cute Girl",
-      "image": "23.mp4",
-      "link": "file:///android_asset/media/",
-      "type": "MP4"
-    },
+  
     {
       "title": "Waving",
       "name_category": "Nature",
