@@ -1,105 +1,129 @@
-	
-Ads	
-0	
-select_ads	"ADMOB"
-select_backup_ads	""
-backup_mode	"0"
-status_app	"0"
-link_redirect	"https://"
-admob_interid	"ca-app-pub-3940256099942544/1033173712"
-admob_nativeid	"ca-app-pub-3940256099942544/2247696110"
-admob_openid	"ca-app-pub-3940256099942544/3419835294"
-admob_bannerid	"ca-app-pub-3940256099942544/6300978111"
-interval_intertitial	5
-startappid	"201669628"
-fan_inter	"YOUR_PLACEMENT_ID"
-fan_banner_native	"YOUR_PLACEMENT_ID"
-fan_banner	"YOUR_PLACEMENT_ID"
-mopub_banner	"b195f8dd8ded45fe847ad89ed1d016da"
-mopub_inter	"24534e1901884e398f1253216226017e"
-applovin_banner	"db4d5e8718b97d78"
-applovin_inter	"518cd97722c60b52"
-More	
-0	
-title	"Ludo King Off"
-image	"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw"
-link	"https://play.google.com/store/apps/details?id=com.ludo.king"
-1	
-title	"Homescapes Off"
-image	"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw"
-link	"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-2	
-title	"Minecraft Off"
-image	"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw"
-link	"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-Categories	
-0	
-name_category	"Nature"
-image	"https://v7n2u8v7.rocketcdn.me/wp-content/uploads/2020/07/Waterfalls-Selja-L1.jpg"
-1	
-name_category	"Animal"
-image	"https://images-na.ssl-images-amazon.com/images/I/710WW1XPhaL._AC_SL1280_.jpg"
-2	
-name_category	"Art"
-image	"https://images.all-free-download.com/images/graphicthumb/free_vector_background_556499.jpg"
-Wallpaper	
-0	
-title	"Beach"
-name_category	"Nature"
-image	"palm.mp4"
-link	"https://aliendro.id/uploads/demo/livewall/"
-type	"MP4"
-1	
-title	"Summer"
-name_category	"Nature"
-image	"flower.mp4"
-link	"https://aliendro.id/uploads/demo/livewall/"
-type	"MP4"
-2	
-title	"Waterfall"
-name_category	"Nature"
-image	"waterfall.gif"
-link	"https://aliendro.id/uploads/demo/livewall/"
-type	"GIF"
-3	
-title	"River"
-name_category	"Nature"
-image	"river2.gif"
-link	"https://aliendro.id/uploads/demo/livewall/"
-type	"GIF"
-4	
-title	"Wahite Flower"
-name_category	"Nature"
-image	"whiteflower.mp4"
-link	"https://aliendro.id/uploads/demo/livewall/"
-type	"MP4"
-5	
-title	"Waving"
-name_category	"Nature"
-image	"waving.mp4"
-link	"https://aliendro.id/uploads/demo/livewall/"
-type	"MP4"
-6	
-title	"Frog"
-name_category	"Animal"
-image	"frog.mp4"
-link	"https://aliendro.id/uploads/demo/livewall/"
-type	"MP4"
-7	
-title	"Frog 2"
-name_category	"Animal"
-image	"frog2.mp4"
-link	"https://aliendro.id/uploads/demo/livewall/"
-type	"MP4"
-8	
-title	"Blue Ink"
-name_category	"Art"
-image	"blueink.mp4"
-link	"https://aliendro.id/uploads/demo/livewall/"
-type	"MP4"
-9	
-title	"Black Cat"
-name_category	"Animal"
-image	"blackcat.mp4"
-link	"https://aliendro.id/uploads/demo/livewall/"
-type	"MP4"
+{
+ "Ads": [
+  {
+   "select_ads": "ADMOB",
+    "select_backup_ads": "",
+    "backup_mode": "0",
+    "status_app": "0",
+    "link_redirect": "https://",
+    "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+    "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+    "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+    "admob_bannerid":"ca-app-pub-3940256099942544/6300978111",
+    "interval_intertitial": 5,
+    "startappid": "201669",
+    "fan_inter": "YOUR_PLACEMENT_ID",
+    "fan_banner_native": "YOUR_PLACEMENT_ID",
+    "fan_banner": "YOUR_PLACEMENT_ID",
+    "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+    "mopub_inter": "24534e1901884e398f1253216226017e",
+    "applovin_banner": "db4d5e8718b97d78",
+    "applovin_inter": "518cd97722c60b52"
+
+  }
+  ],
+   "More": [
+    {
+      "title": "Ludo King Off",
+      "image": "https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "title": "Homescapes Off",
+      "image": "https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "title": "Minecraft Off",
+      "image": "https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Colorful",
+      "image": "https://v7n2u8v7.rocketcdn.me/wp-content/uploads/2020/07/Waterfalls-Selja-L1.jpg"
+    },
+    {
+      "name_category": "Sport",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/710WW1XPhaL._AC_SL1280_.jpg"
+    },
+    {
+      "name_category": "Jdm",
+      "image": "https://images.all-free-download.com/images/graphicthumb/free_vector_background_556499.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "title": "Green Car",
+      "name_category": "Colorful",
+      "image": "car1_0.mp4",
+      "link": "https://download1505.mediafire.com/f2g3k1z08rfg/oqam65glfw3jawu/",
+      "type": "MP4"
+    },
+    {
+      "title": "Cool Light",
+      "name_category": "Colorful",
+      "image": "car2_0.mp4",
+      "link": "https://download844.mediafire.com/onvhv1azlpzg/c2bvrcng7fgkafj/",
+      "type": "MP4"
+    },
+    {
+      "title": "colorful 1",
+      "name_category": "Colorful",
+      "image": "car3_0.mp4",
+      "link": "https://download1346.mediafire.com/gdn97j1rii8g/ipupy5sro07l924/",
+      "type": "MP4"
+    },
+    {
+      "title": "River",
+      "name_category": "Colorful",
+      "image": "car4_0.mp4",
+      "link": "https://download1073.mediafire.com/4vpchlzo0v5g/0d14ep0qplgxwz5/",
+      "type": "MP4"
+    },
+    {
+      "title": "Wahite Flower",
+      "name_category": "Colorful",
+      "image": "car5_0.mp4",
+      "link": "https://download1586.mediafire.com/bcvu6vmv6swg/rlkfsaqlorco5io/",
+      "type": "MP4"
+    },
+    {
+      "title": "Waving",
+      "name_category": "Colorful",
+      "image": "car6_0.mp4",
+      "link": "https://download1320.mediafire.com/crmi5y3x1jbg/lxi7urd22zecz5c/",
+      "type": "MP4"
+    },
+    {
+      "title": "Frog",
+      "name_category": "Colorful",
+      "image": "car7_0.mp4",
+      "link": "https://download1500.mediafire.com/jvrg3y3edjmg/qh482uub576nahf/",
+      "type": "MP4"
+    },
+    {
+      "title": "Frog 2",
+      "name_category": "Colorful",
+      "image": "car8_0.mp4",
+      "link": "https://download847.mediafire.com/gtkhz2menn7g/0yi2fgnuef8podk/",
+      "type": "MP4"
+    },
+    {
+      "title": "Blue Ink",
+      "name_category": "Colorful",
+      "image": "car9_0.mp4",
+      "link": "https://download1075.mediafire.com/wtr29fe0fvbg/oel0h5sjewpsvwg/",
+      "type": "MP4"
+    },
+    {
+      "title": "Black Cat",
+      "name_category": "Animal",
+      "image": "car_0.mp4",
+      "link": "https://download1484.mediafire.com/yk8v9dzcbwyg/dkvh43gg0i7ttq0/",
+      "type": "MP4"
+    }
+  ]
+}
+    
