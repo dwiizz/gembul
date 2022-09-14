@@ -62,6 +62,69 @@
    "link": "http://archive.org/download/red_20220914/",
    "type": "MP4"
  },
+   {
+      "title": "Beach",
+      "name_category": "Nature",
+      "image": "palm.mp4",
+      "link": "https://aliendro.id/uploads/demo/livewall/",
+      "type": "MP4"
+    },
+    {
+      "title": "Summer",
+      "name_category": "Nature",
+      "image": "flower.mp4",
+      "link": "https://aliendro.id/uploads/demo/livewall/",
+      "type": "MP4"
+    },
+    {
+      "title": "Waterfall",
+      "name_category": "Nature",
+      "image": "waterfall.gif",
+      "link": "https://aliendro.id/uploads/demo/livewall/",
+      "type": "GIF"
+    },
+    {
+      "title": "River",
+      "name_category": "Nature",
+      "image": "river2.gif",
+      "link": "https://aliendro.id/uploads/demo/livewall/",
+      "type": "GIF"
+    },
+    {
+      "title": "Wahite Flower",
+      "name_category": "Nature",
+      "image": "whiteflower.mp4",
+      "link": "https://aliendro.id/uploads/demo/livewall/",
+      "type": "MP4"
+    },
+    {
+      "title": "Waving",
+      "name_category": "Nature",
+      "image": "waving.mp4",
+      "link": "https://aliendro.id/uploads/demo/livewall/",
+      "type": "MP4"
+    },
+    {
+      "title": "Frog",
+      "name_category": "Animal",
+      "image": "frog.mp4",
+      "link": "https://aliendro.id/uploads/demo/livewall/",
+      "type": "MP4"
+    },
+    {
+      "title": "Frog 2",
+      "name_category": "Animal",
+      "image": "frog2.mp4",
+      "link": "https://aliendro.id/uploads/demo/livewall/",
+      "type": "MP4"
+    },
+    {
+      "title": "Blue Ink",
+      "name_category": "Art",
+      "image": "blueink.mp4",
+      "link": "https://aliendro.id/uploads/demo/livewall/",
+      "type": "MP4"
+    },
  {
    "title": "super Car.mp4 ",
    "name_category": "Europe",
