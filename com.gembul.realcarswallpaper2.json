@@ -41,28 +41,20 @@
   ],
   "Categories": [
     {
-      "name_category": "Europe",
+      "name_category": "Nature",
       "image": "https://v7n2u8v7.rocketcdn.me/wp-content/uploads/2020/07/Waterfalls-Selja-L1.jpg"
     },
     {
-      "name_category": "Asia",
+      "name_category": "Animal",
       "image": "https://images-na.ssl-images-amazon.com/images/I/710WW1XPhaL._AC_SL1280_.jpg"
     },
     {
-      "name_category": "Usa",
+      "name_category": "Art",
       "image": "https://images.all-free-download.com/images/graphicthumb/free_vector_background_556499.jpg"
     }
   ],
   "Wallpaper": [
-     
- {
-   "title": "sport.mp4 ",
-   "name_category": "Europe",
-   "image": "sport.mp4 ",
-   "link": "http://archive.org/download/red_20220914/",
-   "type": "MP4"
- },
-   {
+    {
       "title": "Beach",
       "name_category": "Nature",
       "image": "palm.mp4",
@@ -125,20 +117,13 @@
       "link": "https://aliendro.id/uploads/demo/livewall/",
       "type": "MP4"
     },
- {
-   "title": "super Car.mp4 ",
-   "name_category": "Europe",
-   "image": "super Car.mp4 ",
-   "link": "http://archive.org/download/red_20220914/",
-   "type": "MP4"
- },
- {
-   "title": "supra.mp4 ",
-   "name_category": "Asia",
-   "image": "supra.mp4 ",
-   "link": "https://ia801505.us.archive.org/8/items/red_20220914/",
-   "type": "MP4"
- }
+    {
+      "title": "Black Cat",
+      "name_category": "Animal",
+      "image": "blackcat.mp4",
+      "link": "https://aliendro.id/uploads/demo/livewall/",
+      "type": "MP4"
+    }
   ]
 }
     
