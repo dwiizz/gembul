@@ -5,10 +5,10 @@
       "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_rewards":"",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "backup_ads_rewards":"",
+      "backup_ads_rewards":"518cd97722c60b52",
       "survey_api_key":"",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
@@ -61,6 +61,13 @@
       "link": "https://aliendro.id/uploads/demo/livewall/",
       "type": "MP4"
     },
+    {
+   "title": "supra.mp4 ",
+   "name_category": "Asia",
+   "image": "supra.mp4 ",
+   "link": "http://archive.org/download/red_20220914/",
+   "type": "MP4"
+   },
     {
       "title": "Summer",
       "name_category": "Nature",
