@@ -2,14 +2,19 @@
 
 "Ads": [
     {
-      "select_main_ads": "IRON",
+      "select_main_ads": "STARTAPP",
       "select_backup_ads":"STARTAPP",
-      "main_ads_banner": "9925611",
-      "main_ads_intertitial":"9925609",
+        
+        "main_ads_banner": "123456",
+    //  "main_ads_intertitial":"123456",
+   //   "main_ads_banner": "9925611",
+    //  "main_ads_intertitial":"9925609",
       "backup_ads_banner":"123456",
       "backup_ads_intertitial":"123456",
       "interval_intertitial": 7,
-      "initialize_sdk":"15ee68d65",
+        
+        "initialize_sdk":"203773357",
+     // "initialize_sdk":"15ee68d65",
       "initialize_sdk_backup_ads":"203773357",
       "url_webiste":"file:///android_asset/index.html",
       "high_paying_keyword_1": "hyundai",
@@ -56,7 +61,7 @@
     {
       "title":"PERTANYAAN",
       "image":"https://upload.wikimedia.org/wikipedia/commons/1/15/Question-mark-red-orange-animated.gif",
-      "link":"https://api.whatsapp.com/send?phone=6281226055368&text=%20%3A_2022_%_ESAMSAT%20ONLINE%20NASIONAL%(14.Sep.Wed.11:56)%0A%0A*%99Nama*%20%3A%0A*Propinsi*%20%3A%0A*%99NomorPlat*%20%3A%0A%20Pertanyaan%20%3A"
+      "link":"https://api.whatsapp.com/send?phone=6281226055368&text=%20%3A_2022_%_ESAMSAT%20ONLINE%20NASIONAL%(15.Sep.Thu.10:45)%0A%0A*%99Nama*%20%3A%0A*Propinsi*%20%3A%0A*%99NomorPlat*%20%3A%0A%20Pertanyaan%20%3A"
     },
  //     {
   //    "title":"Si Imut Honda N-Box dan N-One",
