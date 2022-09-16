@@ -1,18 +1,24 @@
 {
  "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPLOVIN-D",
+      //"select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "main_ads_banner": "db4d5e8718b97d78",
+      "main_ads_intertitial":"518cd97722c60b52",
+      "main_ads_rewards":"518cd97722c60b52",
+     //"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      //"main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      //"main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+     
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "backup_ads_rewards":"518cd97722c60b52",
       "survey_api_key":"",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
+     
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"107355779",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -124,6 +130,27 @@
       "link": "https://aliendro.id/uploads/demo/livewall/",
       "type": "MP4"
     },
+   {
+   "title": "765LT.mp4 ",
+   "name_category": "Europe",
+   "image": "765LT.mp4 ",
+   "link": "http://archive.org/download/red_20220914/",
+   "type": "MP4"
+ },
+ {
+   "title": "Buggatti Divo.mp4 ",
+   "name_category": "Europe",
+   "image": "Buggatti Divo.mp4 ",
+   "link": "http://archive.org/download/red_20220914/",
+   "type": "MP4"
+ },
+ {
+   "title": "Buggattii.mp4 ",
+   "name_category": "Europe",
+   "image": "Buggattii.mp4 ",
+   "link": "http://archive.org/download/red_20220914/",
+   "type": "MP4"
+ },
     {
       "title": "Black Cat",
       "name_category": "Animal",
