@@ -48,15 +48,15 @@
   "Categories": [
     {
       "name_category": "Europe",
-      "image": "https://v7n2u8v7.rocketcdn.me/wp-content/uploads/2020/07/Waterfalls-Selja-L1.jpg"
+      "image": "file:///android_asset/img/eu.jpg"
     },
     {
       "name_category": "Usa",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/710WW1XPhaL._AC_SL1280_.jpg"
+      "image": ""file:///android_asset/img/us.jpg""
     },
     {
       "name_category": "Asia",
-      "image": "https://images.all-free-download.com/images/graphicthumb/free_vector_background_556499.jpg"
+      "image": ""file:///android_asset/img/as.jpg""
     }
   ],
   "Wallpaper": [
