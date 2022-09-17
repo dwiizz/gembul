@@ -28,26 +28,26 @@
   ],
     "More":
   [
- //   {
-   //   "title":"Dangdut Koplo Religi Sholawat",
-   //   "image":"https://play-lh.googleusercontent.com/WOWeYRPR4-s8DQt5DT3cpcCqmUfqyJJ_nMHaN6BTnOWXFqe2UUs-8x_N89kmmWXvMts=w2560-h1440",
-  //    "link":"https://play.google.com/store/apps/details?id=com.gembul.dangdutrelresso"
-  //  },
+    {
+      "title":"Dangdut Koplo Religi Sholawat",
+      "image":"https://play-lh.googleusercontent.com/WOWeYRPR4-s8DQt5DT3cpcCqmUfqyJJ_nMHaN6BTnOWXFqe2UUs-8x_N89kmmWXvMts=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.gembul.dangdutrelresso"
+    },
  //   {
  //     "title":"Cek BPKB Online",
  //     "image":"https://play-lh.googleusercontent.com/ucZiZNiTtjTkNRG8PjoapeJEzEMeJuRJIVAKzN5bO_51GB8ngecNYhRQuLAzIueQSQ=w240-h480",
  //     "link":"https://play.google.com/store/apps/details?id=com.gembul.cekbpkbonline"
   //  },
-  //  {
-   //   "title":"500Lagu Nostalgia Dangdut Lawas",
- //     "image":"https://play-lh.googleusercontent.com/fR2qRaohGuud8l5-URtcwGeiqBNjkawbqiDd_WgwMB6SqVL5ionrei837ZR-FBh9waw=w2560-h1440",
-   //   "link":"https://play.google.com/store/apps/details?id=com.gembul.spotifymusic"
-  //  },
-  //    {
- //     "title":"Pesaing Berat Kawasaki Ninja 250 cc Mono",
-  //    "image":"https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/b6a5a5b280fd49edb678a4e67f938e16.jpg",
- //     "link":"https://www.youtube.com/watch?v=_TA7LhJSenI"
- //   },
+    {
+      "title":"500Lagu Nostalgia Dangdut Lawas",
+      "image":"https://play-lh.googleusercontent.com/fR2qRaohGuud8l5-URtcwGeiqBNjkawbqiDd_WgwMB6SqVL5ionrei837ZR-FBh9waw=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.gembul.spotifymusic"
+    },
+      {
+      "title":"Pesaing Berat Kawasaki Ninja 250 cc Mono",
+      "image":"https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/b6a5a5b280fd49edb678a4e67f938e16.jpg=s180-rw",
+      "link":"https://www.youtube.com/watch?v=_TA7LhJSenI"
+    },
        {
       "title":"CEK PAJAK JABAR",
       "image":"https://jabarprov.go.id/logo.png",
@@ -61,28 +61,28 @@
     {
       "title":"PERTANYAAN",
       "image":"https://upload.wikimedia.org/wikipedia/commons/1/15/Question-mark-red-orange-animated.gif",
-      "link":"https://api.whatsapp.com/send?phone=6281226055368&text=%20%3A_2022_%_ESAMSAT%20ONLINE%20NASIONAL%(16.Sep.Fri.08:59)%0A%0A*%99Nama*%20%3A%0A*Propinsi*%20%3A%0A*%99NomorPlat*%20%3A%0A%20Pertanyaan%20%3A"
+      "link":"https://api.whatsapp.com/send?phone=6281226055368&text=%20%3A_2022_%_ESAMSAT%20ONLINE%20NASIONAL%(17.Sep.Sat.09:01)%0A%0A*%99Nama*%20%3A%0A*Propinsi*%20%3A%0A*%99NomorPlat*%20%3A%0A%20Pertanyaan%20%3A"
     },
  //     {
   //    "title":"Si Imut Honda N-Box dan N-One",
  //     "image":"https://imgx.gridoto.com/crop/0x0:0x0/700x465/filters:watermark(file/2017/gridoto/img/watermark.png,5,5,60)/photo/2022/05/24/honda-n-box-dan-n-one-kei-car-da-20220524080315.jpeg",
   //    "link":"https://www.youtube.com/watch?v=P2BVfgI-aJ8"
 //    },
-//      {
- //     "title":"Pesaing Berat Yamaha N-Max dan Honda PCX",
- //     "image":"https://paultan.org/image/2022/06/Malaguti-Madison-150-2022-Thailand-11-e1655940819775.jpeg",
- //     "link":"https://www.youtube.com/watch?v=EP7E-lHa594"
- //   },
+      {
+      "title":"Pesaing Berat Yamaha N-Max dan Honda PCX",
+      "image":"https://paultan.org/image/2022/06/Malaguti-Madison-150-2022-Thailand-11-e1655940819775.jpeg=s180-rw",
+      "link":"https://www.youtube.com/watch?v=EP7E-lHa594"
+    },
     {
       "title":"CEK PAJAK DKI",
       "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Coat_of_arms_of_Jakarta.svg/1200px-Coat_of_arms_of_Jakarta.svg.png",
       "link":"https://samsat-pkb2.jakarta.go.id/"
-    }
+    },
       
-//      {
- //     "title":"Inilah Daihatsu Taft Reborn",
- //     "image":"https://statik.tempo.co/data/2020/04/11/id_930062/930062_720.jpg",
- //     "link":"https://www.youtube.com/watch?v=5NrRDisofgI"
- //   }
+      {
+      "title":"Inilah Daihatsu Taft Reborn",
+      "image":"https://statik.tempo.co/data/2020/04/11/id_930062/930062_720.jpg=s180-rw",
+      "link":"https://www.youtube.com/watch?v=5NrRDisofgI"
+    }
   ]
 }
