@@ -52,11 +52,11 @@
     },
     {
       "name_category": "Usa",
-      "image": ""file:///android_asset/img/us.jpg""
+      "image": "file:///android_asset/img/us.jpg"
     },
     {
       "name_category": "Asia",
-      "image": ""file:///android_asset/img/as.jpg""
+      "image": "file:///android_asset/img/as.jpg"
     }
   ],
   "Wallpaper": [
