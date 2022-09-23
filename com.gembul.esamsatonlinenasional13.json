@@ -2,18 +2,18 @@
 
 "Ads": [
     {
-      "select_main_ads": "STARTAPP",
+      "select_main_ads": "ADMOB",
       "select_backup_ads":"STARTAPP",
         
-        "main_ads_banner": "123456",
-    //  "main_ads_intertitial":"123456",
+        "main_ads_banner": "ca-app-pub-2365282461254996/3404296490",
+      "main_ads_intertitial":"ca-app-pub-2365282461254996/8334572437",
    //   "main_ads_banner": "9925611",
     //  "main_ads_intertitial":"9925609",
       "backup_ads_banner":"123456",
       "backup_ads_intertitial":"123456",
       "interval_intertitial": 7,
         
-        "initialize_sdk":"203773357",
+        "initialize_sdk":"",
      // "initialize_sdk":"15ee68d65",
       "initialize_sdk_backup_ads":"203773357",
       "url_webiste":"file:///android_asset/index.html",
