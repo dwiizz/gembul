@@ -11,7 +11,7 @@
 "JSON_POPUP_WAIT" : "Server Ready . . . ",
 
 // Redirect ke apps lain 
-"REDIRECT_TRAFFIC" : false,
+"REDIRECT_TRAFFIC" : true,
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.ydf.samonline",
 
 // main ads ke backup ads 
