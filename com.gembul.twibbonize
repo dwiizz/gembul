@@ -98,15 +98,75 @@
     },
     {
       "id": 10,
-      "category": "Lainnya",
-      "title": "Ayo Divaksin",
-      "image_link": "http://archive.org/download/7_20221109_202211/1.png"
+      "category": "Hari Raya",
+      "title": "Natal 1",
+      "image_link": "http://archive.org/download/7_20221109_202211/2.png"
     },
     {
       "id": 11,
       "category": "Hari Raya",
-      "title": "Natal",
+      "title": "Natal 2",
       "image_link": "http://archive.org/download/7_20221109_202211/1.png"
+    },
+    {
+      "id": 12,
+      "category": "Hari Raya",
+      "title": "Natal 3",
+      "image_link": "http://archive.org/download/7_20221109_202211/3.png"
+    },
+    {
+      "id": 13,
+      "category": "Hari Raya",
+      "title": "Natal 4",
+      "image_link": "http://archive.org/download/7_20221109_202211/4.png"
+    },
+    {
+      "id": 14,
+      "category": "Hari Raya",
+      "title": "Natal 5",
+      "image_link": "http://archive.org/download/7_20221109_202211/5.png"
+    },
+    {
+      "id": 15,
+      "category": "Hari Raya",
+      "title": "Natal 6",
+      "image_link": "http://archive.org/download/7_20221109_202211/6.png"
+    },
+    {
+      "id": 16,
+      "category": "Hari Raya",
+      "title": "Natal 7",
+      "image_link": "http://archive.org/download/7_20221109_202211/7.png"
+    },
+    {
+      "id": 17,
+      "category": "Hari Raya",
+      "title": "Natal 8",
+      "image_link": "http://archive.org/download/7_20221109_202211/8.png"
+    },
+    {
+      "id": 18,
+      "category": "Hari Raya",
+      "title": "Natal 9",
+      "image_link": "http://archive.org/download/7_20221109_202211/9.png"
+    },
+    {
+      "id": 19,
+      "category": "Hari Raya",
+      "title": "Natal 10",
+      "image_link": "http://archive.org/download/7_20221109_202211/10.png"
+    },
+     {
+      "id": 20,
+      "category": "Hari Raya",
+      "title": "Natal 11",
+      "image_link": "http://archive.org/download/7_20221109_202211/11.png"
+    },
+    {
+      "id": 21,
+      "category": "Hari Raya",
+      "title": "Natal 12",
+      "image_link": "http://archive.org/download/7_20221109_202211/12.png"
     }
      
 
