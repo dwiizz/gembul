@@ -21,7 +21,7 @@
     "Categories": [
     {
       "category": "Hari Raya",
-      "image_link": "frame/idul.webp"
+      "image_link": "http://archive.org/download/7_20221109_202211/icon.png"
 
     },
     {
@@ -100,6 +100,12 @@
       "id": 10,
       "category": "Lainnya",
       "title": "Ayo Divaksin",
+      "image_link": "http://archive.org/download/7_20221109_202211/1.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Raya",
+      "title": "Natal",
       "image_link": "http://archive.org/download/7_20221109_202211/1.png"
     }
      
