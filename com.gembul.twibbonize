@@ -20,8 +20,8 @@
   ],
      "Categories": [
     {
-      "category": "Hari Raya",
-      "image_link": "frame/idul.webp"
+      "category": "Natal dan Tahn Baru",
+      "image_link": "http:/archive.org//download/7_20221109_202211/icon.png"
 
     },
     {
@@ -29,21 +29,21 @@
       "image_link": "https://samolnas.files.wordpress.com/2022/08/g.png?w=1024"
 
     },
-    {
-      "category": "HUT RI Pendidikan",
-      "image_link": "https://samolnas.files.wordpress.com/2022/08/mii.png?w=1024"
+ //   {
+  //    "category": "HUT RI Pendidikan",
+  //    "image_link": "https://samolnas.files.wordpress.com/2022/08/mii.png?w=1024"
 
-    },
-    {
-      "category": "HUT RI RMS",
-      "image_link": "https://samolnas.files.wordpress.com/2022/08/y.png?w=1024"
+  //  },
+  //  {
+   //   "category": "HUT RI RMS",
+  //    "image_link": "https://samolnas.files.wordpress.com/2022/08/y.png?w=1024"
 
-    },
-    {
-      "category": "HUT RI Ormas",
-      "image_link": "https://samolnas.files.wordpress.com/2022/08/an.png?w=1024"
+  //  },
+ //   {
+  //    "category": "HUT RI Ormas",
+  //    "image_link": "https://samolnas.files.wordpress.com/2022/08/an.png?w=1024"
 
-    },
+  //  },
     {
       "category": "Tema Lainnya",
       "image_link": "frame/ribut.webp"
@@ -491,10 +491,34 @@
       "image_link": "https://samolnas.files.wordpress.com/2022/08/8q.png?w=1024"
      },
       {
-      "id": 71,
+      "id": 74,
       "category": "HUT RI",
       "title": "HUT RI9q",
       "image_link": "https://samolnas.files.wordpress.com/2022/08/9q.png?w=1024"
+     },
+      {
+      "id": 75,
+      "category": "Natal dan Tahn Baru",
+      "title": "Natal1,
+      "image_link": "http:/archive.org/download/7_20221109_202211/1.png"
+     },
+      {
+      "id": 76,
+      "category": "Natal dan Tahn Baru",
+      "title": "Natal2",
+      "image_link": "http:/archive.org/download/7_20221109_202211/2.png"
+     },
+     {
+      "id": 77,
+      "category": "Natal dan Tahn Baru",
+      "title": "Natal3",
+      "image_link": "http:/archive.org/download/7_20221109_202211/3.png"
+     },
+      {
+      "id": 78,
+      "category": "Natal dan Tahn Baru",
+      "title": "Natal4",
+      "image_link": "http:/archive.org/download/7_20221109_202211/4.png"
      }
      
 
