@@ -101,34 +101,8 @@
       "category": "Lainnya",
       "title": "Ayo Divaksin",
       "image_link": "frame/vaksin.webp"
-    },
+    }
 
 
-     {
-      "id": 1,
-      "category": "Natal dan Tahn Baru",
-      "title": "Natal1,
-      "image_link": "http:/archive.org/download/7_20221109_202211/1.png"
-     },
-      {
-      "id": 2,
-      "category": "Natal dan Tahn Baru",
-      "title": "Natal2",
-      "image_link": "http:/archive.org/download/7_20221109_202211/2.png"
-     },
-     {
-      "id": 3,
-      "category": "Natal dan Tahn Baru",
-      "title": "Natal3",
-      "image_link": "http:/archive.org/download/7_20221109_202211/3.png"
-     },
-      {
-      "id": 4,
-      "category": "Natal dan Tahn Baru",
-      "title": "Natal4",
-      "image_link": "http:/archive.org/download/7_20221109_202211/4.png"
-     }
-     
-     
   ]
 }
