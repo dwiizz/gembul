@@ -30,7 +30,7 @@
 
     },
     {
-      "category": "Natal dan Tahn Baru",
+      "category": "Natal",
       "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
 
     },
@@ -104,25 +104,25 @@
     },
      {
       "id": 11,
-      "category": "Natal dan Tahn Baru",
+      "category": "Natal",
       "title": "Natal1,
       "image_link": "http:/archive.org/download/7_20221109_202211/1.png"
      },
       {
       "id": 12,
-      "category": "Natal dan Tahn Baru",
+      "category": "Natal",
       "title": "Natal2",
       "image_link": "http:/archive.org/download/7_20221109_202211/2.png"
      },
      {
       "id": 13,
-      "category": "Natal dan Tahn Baru",
+      "category": "Natal",
       "title": "Natal3",
       "image_link": "http:/archive.org/download/7_20221109_202211/3.png"
      },
       {
       "id": 14,
-      "category": "Natal dan Tahn Baru",
+      "category": "Natal",
       "title": "Natal4",
       "image_link": "http:/archive.org/download/7_20221109_202211/4.png"
      }
