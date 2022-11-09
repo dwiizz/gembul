@@ -30,7 +30,7 @@
 
     },
     {
-      "category": "Pendidikan",
+      "category": "Natal dan Tahn Baru",
       "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
 
     },
@@ -101,7 +101,31 @@
       "category": "Lainnya",
       "title": "Ayo Divaksin",
       "image_link": "frame/vaksin.webp"
-    }
+    },
+     {
+      "id": 11,
+      "category": "Natal dan Tahn Baru",
+      "title": "Natal1,
+      "image_link": "http:/archive.org/download/7_20221109_202211/1.png?w=1024"
+     },
+      {
+      "id": 12,
+      "category": "Natal dan Tahn Baru",
+      "title": "Natal2",
+      "image_link": "http:/archive.org/download/7_20221109_202211/2.png?w=1024"
+     },
+     {
+      "id": 13,
+      "category": "Natal dan Tahn Baru",
+      "title": "Natal3",
+      "image_link": "http:/archive.org/download/7_20221109_202211/3.png?w=1024"
+     },
+      {
+      "id": 14,
+      "category": "Natal dan Tahn Baru",
+      "title": "Natal4",
+      "image_link": "http:/archive.org/download/7_20221109_202211/4.png?w=1024"
+     }
 
 
   ]
