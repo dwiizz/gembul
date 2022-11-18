@@ -145,7 +145,7 @@
      "image_url":"file:///android_asset/image/11.jpg",
       "video_url":"http://archive.org/download/santa5/santa11.mp4",
       "voice_url":"file:///android_asset/sound/11.mp3"
-    },
+    }
   ]
 
 }
