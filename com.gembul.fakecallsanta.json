@@ -90,6 +90,34 @@
       "video_url":"http://archive.org/download/santa5/santa6.mp4",
       "voice_url":"file:///android_asset/sound/3.mp3"
     },
+     {
+      "id":12,
+      "name":"Dog",
+      "image_url":"file:///android_asset/image/d.jpg",
+      "video_url":"http://archive.org/download/santa5/dog.mp4",
+      "voice_url":"file:///android_asset/sound/4.mp3"
+    },
+    {
+      "id":13,
+      "name":"Dog1",
+     "image_url":"file:///android_asset/image/d1.jpg",
+      "video_url":"http://archive.org/download/santa5/dog1.mp4",
+      "voice_url":"file:///android_asset/sound/5.mp3"
+    },
+    {
+      "id":14,
+      "name":"Cat",
+     "image_url":"file:///android_asset/image/c.jpg",
+      "video_url":"http://archive.org/download/santa5/catSanta.mp4",
+      "voice_url":"file:///android_asset/sound/6.mp3"
+    },
+     {
+      "id":15,
+      "name":"Cat1",
+     "image_url":"file:///android_asset/image/c1.jpg",
+      "video_url":"http://archive.org/download/santa5/catSanta1.mp4",
+      "voice_url":"file:///android_asset/sound/7.mp3"
+    },
     {
       "id":4,
       "name":"Santa 4",
