@@ -72,23 +72,23 @@
     {
       "id":1,
       "name":"Santa 1",
-      "image_url":"file:///android_asset/mine.webp",
+      "image_url":"file:///android_asset/image/1.jpg",
       "video_url":"http://archive.org/download/santa5/santa1.mp4",
-      "voice_url":"dosa_membawa_keburukan.mp3"
+      "voice_url":"file:///android_asset/sound/ho-ho-hooo-merry-christmas.mp3"
     },
     {
       "id":2,
       "name":"Santa 2",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/home.webp",
+      "image_url":"file:///android_asset/image/2.jpg",
       "video_url":"http://archive.org/download/santa5/santa4.mp4",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+      "voice_url":"file:///android_asset/sound/santa-claus-laughing.mp3"
     },
     {
       "id":3,
       "name":"Santa 3",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/ludo.webp",
+      "image_url":"file:///android_asset/image/3.jpg",
       "video_url":"http://archive.org/download/santa5/santa6.mp4",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
+      "voice_url":"file:///android_asset/sound/what-child-is-this.mp3"
     },
     {
       "id":4,
