@@ -74,14 +74,14 @@
       "name":"Santa 1",
       "image_url":"file:///android_asset/image/1.jpg",
       "video_url":"http://archive.org/download/santa5/santa1.mp4",
-      "voice_url":"file:///android_asset/sound/1.mp3"
+      "voice_url":"http://archive.org/download/santa5/1.mp3"
     },
     {
       "id":2,
       "name":"Santa 2",
       "image_url":"file:///android_asset/image/2.jpg",
       "video_url":"http://archive.org/download/santa5/santa4.mp4",
-      "voice_url":"file:///android_asset/sound/2.mp3"
+      "voice_url":"http://archive.org/download/santa5/2.mp3"
     },
      {
       "id":16,
@@ -95,35 +95,35 @@
       "name":"Santa 3",
       "image_url":"file:///android_asset/image/3.jpg",
       "video_url":"http://archive.org/download/santa5/santa6.mp4",
-      "voice_url":"file:///android_asset/sound/3.mp3"
+      "voice_url":"http://archive.org/download/santa5/3.mp3"
     },
      {
       "id":12,
       "name":"Dog",
       "image_url":"file:///android_asset/image/d.jpg",
       "video_url":"http://archive.org/download/santa5/dog.mp4",
-      "voice_url":"file:///android_asset/sound/d.mp3"
+      "voice_url":"http://archive.org/download/santa5/d.mp3"
     },
     {
       "id":13,
       "name":"Dog1",
      "image_url":"file:///android_asset/image/d1.jpg",
       "video_url":"http://archive.org/download/santa5/dog1.mp4",
-      "voice_url":"file:///android_asset/sound/d.mp3"
+      "voice_url":"http://archive.org/download/santa5/d.mp3"
     },
     {
       "id":14,
       "name":"Cat",
      "image_url":"file:///android_asset/image/c.jpg",
       "video_url":"http://archive.org/download/santa5/catSanta.mp4",
-      "voice_url":"file:///android_asset/sound/c.mp3"
+      "voice_url":"http://archive.org/download/santa5/c.mp3"
     },
      {
       "id":15,
       "name":"Cat1",
      "image_url":"file:///android_asset/image/c1.jpg",
       "video_url":"http://archive.org/download/santa5/catSanta1.mp4",
-      "voice_url":"file:///android_asset/sound/c.mp3"
+      "voice_url":"http://archive.org/download/santa5/c.mp3"
     },
     {
       "id":17,
@@ -152,14 +152,14 @@
       "name":"Santa 4",
       "image_url":"file:///android_asset/image/4.jpg",
       "video_url":"http://archive.org/download/santa5/santa10.mp4",
-      "voice_url":"file:///android_asset/sound/4.mp3"
+      "voice_url":"http://archive.org/download/santa5/4.mp3"
     },
     {
       "id":5,
       "name":"Santa 5",
      "image_url":"file:///android_asset/image/5.jpg",
       "video_url":"http://archive.org/download/santa5/santa11.mp4",
-      "voice_url":"file:///android_asset/sound/5.mp3"
+      "voice_url":"http://archive.org/download/santa5/5.mp3"
     },
     {
       "id":20,
@@ -173,42 +173,42 @@
       "name":"Santa 6",
      "image_url":"file:///android_asset/image/6.jpg",
       "video_url":"http://archive.org/download/santa5/santa8.mp4",
-      "voice_url":"file:///android_asset/sound/6.mp3"
+      "voice_url":"http://archive.org/download/santa5/6.mp3"
     },
      {
       "id":7,
       "name":"Santa 7",
      "image_url":"file:///android_asset/image/7.jpg",
       "video_url":"http://archive.org/download/santa5/santa9.mp4",
-      "voice_url":"file:///android_asset/sound/7.mp3"
+      "voice_url":"http://archive.org/download/santa5/7.mp3"
     },
      {
       "id":8,
       "name":"Santa 8",
      "image_url":"file:///android_asset/image/8.jpg",
       "video_url":"http://archive.org/download/santa5/santa12.mp4",
-      "voice_url":"file:///android_asset/sound/8.mp3"
+      "voice_url":"http://archive.org/download/santa5/8.mp3"
     },
      {
       "id":9,
       "name":"Santa 9",
      "image_url":"file:///android_asset/image/9.jpg",
       "video_url":"http://archive.org/download/santa5/santa3.mp4",
-      "voice_url":"file:///android_asset/sound/9.mp3"
+      "voice_url":"http://archive.org/download/santa5/9.mp3"
     },
      {
       "id":10,
       "name":"Santa 10",
      "image_url":"file:///android_asset/image/10.jpg",
       "video_url":"http://archive.org/download/santa5/santa13.mp4",
-      "voice_url":"file:///android_asset/sound/10.mp3"
+      "voice_url":"http://archive.org/download/santa5/10.mp3"
     },
      {
       "id":11,
       "name":"Santa 11",
      "image_url":"file:///android_asset/image/11.jpg",
       "video_url":"http://archive.org/download/santa5/santa11.mp4",
-      "voice_url":"file:///android_asset/sound/11.mp3"
+      "voice_url":"http://archive.org/download/santa5/11.mp3"
     }
   ]
 
