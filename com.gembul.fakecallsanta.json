@@ -88,7 +88,7 @@
       "name":"Girl",
       "image_url":"file:///android_asset/image/g.jpg",
       "video_url":"http://archive.org/download/santa5/g.mp4",
-      "voice_url":"file:///android_asset/sound/g.mp3"
+      "voice_url":"http://archive.org/download/santa5/g.mp3"
     },
     {
       "id":3,
@@ -130,21 +130,21 @@
       "name":"Girl2",
       "image_url":"file:///android_asset/image/g1.jpg",
       "video_url":"http://archive.org/download/santa5/g1.mp4",
-      "voice_url":"file:///android_asset/sound/g1.mp3"
+      "voice_url":"http://archive.org/download/santa5/g1.mp3"
     },
     {
       "id":18,
       "name":"Girl3",
       "image_url":"file:///android_asset/image/g2.jpg",
       "video_url":"http://archive.org/download/santa5/g2.mp4",
-      "voice_url":"file:///android_asset/sound/g2.mp3"
+      "voice_url":"http://archive.org/download/santa5/g2.mp3"
     },
     {
       "id":19,
       "name":"Girl4",
       "image_url":"file:///android_asset/image/g3.jpg",
       "video_url":"http://archive.org/download/santa5/g3.mp4",
-      "voice_url":"file:///android_asset/sound/g.mp3"
+      "voice_url":"http://archive.org/download/santa5/g.mp3"
     },
     
     {
@@ -166,7 +166,7 @@
       "name":"Girl5",
       "image_url":"file:///android_asset/image/g4.jpg",
       "video_url":"http://archive.org/download/santa5/g5.mp4",
-      "voice_url":"file:///android_asset/sound/g1.mp3"
+      "voice_url":"http://archive.org/download/santa5/g1.mp3"
     },
     {
       "id":6,
