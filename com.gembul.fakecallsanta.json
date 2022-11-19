@@ -3,13 +3,13 @@
       {
      "select_main_ads": "-ADMOB",
       "select_backup_ads":"-APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111-",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712-",
       "main_ads_natives":"",
       "main_ads_rewards":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"db4d5e8718b97d78-",
+      "backup_ads_intertitial":"518cd97722c60b52-",
       "backup_ads_rewards":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
@@ -83,6 +83,13 @@
       "video_url":"http://archive.org/download/santa5/santa4.mp4",
       "voice_url":"file:///android_asset/sound/2.mp3"
     },
+     {
+      "id":16,
+      "name":"Girl",
+      "image_url":"file:///android_asset/image/g.jpg",
+      "video_url":"http://archive.org/download/santa5/g.mp4",
+      "voice_url":"file:///android_asset/sound/2.mp3"
+    },
     {
       "id":3,
       "name":"Santa 3",
@@ -119,6 +126,28 @@
       "voice_url":"file:///android_asset/sound/c.mp3"
     },
     {
+      "id":17,
+      "name":"Girl2",
+      "image_url":"file:///android_asset/image/g1.jpg",
+      "video_url":"http://archive.org/download/santa5/g1.mp4",
+      "voice_url":"file:///android_asset/sound/2.mp3"
+    },
+    {
+      "id":18,
+      "name":"Girl3",
+      "image_url":"file:///android_asset/image/g2.jpg",
+      "video_url":"http://archive.org/download/santa5/g2.mp4",
+      "voice_url":"file:///android_asset/sound/2.mp3"
+    },
+    {
+      "id":19,
+      "name":"Girl4",
+      "image_url":"file:///android_asset/image/g3.jpg",
+      "video_url":"http://archive.org/download/santa5/g3.mp4",
+      "voice_url":"file:///android_asset/sound/2.mp3"
+    },
+    
+    {
       "id":4,
       "name":"Santa 4",
       "image_url":"file:///android_asset/image/4.jpg",
@@ -131,6 +160,13 @@
      "image_url":"file:///android_asset/image/5.jpg",
       "video_url":"http://archive.org/download/santa5/santa11.mp4",
       "voice_url":"file:///android_asset/sound/5.mp3"
+    },
+    {
+      "id":20,
+      "name":"Girl5",
+      "image_url":"file:///android_asset/image/g4.jpg",
+      "video_url":"http://archive.org/download/santa5/g5.mp4",
+      "voice_url":"file:///android_asset/sound/2.mp3"
     },
     {
       "id":6,
