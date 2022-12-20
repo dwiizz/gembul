@@ -4,6 +4,7 @@
       "select_backup_ads":"STARTAPP",
       "main_ads_banner": "77aa683303a5be0c",
       "main_ads_intertitial":"71688ecc08ecaf18",
+      "main_ads_native":"77aa683303a5be0c",
       "backup_ads_banner":"123456",
       "backup_ads_intertitial":"123456",
       "interval_intertitial": 7,
