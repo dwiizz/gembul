@@ -60,13 +60,25 @@
     },
     {
       "id": 2,
-      "name_category": "Animal",
+      "name_category": "Christmas",
       "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
 
     },
     {
       "id": 3,
-      "name_category": "Car",
+      "name_category": "Pastel 1",
+      "image": "file:///android_asset/image/pas/pas (1).jpg"
+
+    },
+    {
+      "id": 4,
+      "name_category": "Pastel 2",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+
+    },
+    {
+      "id": 5,
+      "name_category": "Pastel 3",
       "image": "file:///android_asset/image/pas/pas (1).jpg"
 
     }
