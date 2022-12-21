@@ -55,31 +55,31 @@
     {
       "id": 1,
       "name_category": "Pastel",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      "image": "file:///android_asset/image/pas/pas (38).jpg"
 
     },
     {
       "id": 2,
       "name_category": "Pstl Christmas",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+      "image": "file:///android_asset/image/chris/chris (2).jpg"
 
     },
     {
       "id": 3,
       "name_category": "Pastel 1",
-      "image": "file:///android_asset/image/pas/pas (1).jpg"
+      "image": "file:///android_asset/image/pas1/pastel (1).jpg"
 
     },
     {
       "id": 4,
       "name_category": "Pastel 2",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+      "image": "file:///android_asset/image/pas2/past (14).jpg"
 
     },
     {
       "id": 5,
       "name_category": "Pastel 3",
-      "image": "file:///android_asset/image/pas/pas (1).jpg"
+      "image": "file:///android_asset/image/pas3/pstl (12).jpg"
 
     }
   ],
