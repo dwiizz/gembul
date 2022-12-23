@@ -67,13 +67,13 @@
     {
       "id": 3,
       "name_category": "Preppy Pink1",
-      "image": "file:///android_asset/image/pas1/pastel (1).jpg"
+      "image": "file:///android_asset/image/pink1/pink1 (5).jpg"
 
     },
     {
       "id": 4,
       "name_category": "Preppy Pink2",
-      "image": "file:///android_asset/image/pas2/past (14).jpg"
+      "image": "file:///android_asset/image/pink2/pink2 (50).jpg"
 
     },
     {
@@ -1207,8 +1207,321 @@
    "name_category": "Preppy Pink1",
    "title": "Preppy Pink1 62",
    "image": "file:///android_asset/image/pink1/pink1 (9).jpg"
- }
+ },
 
+
+ {
+   "id": 187,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 1",
+   "image": "file:///android_asset/image/pink2/pink2 (1).jpg"
+ },
+ {
+   "id": 188,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 2",
+   "image": "file:///android_asset/image/pink2/pink2 (10).jpg"
+ },
+ {
+   "id": 189,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 3",
+   "image": "file:///android_asset/image/pink2/pink2 (11).jpg"
+ },
+ {
+   "id": 190,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 4",
+   "image": "file:///android_asset/image/pink2/pink2 (12).jpg"
+ },
+ {
+   "id": 191,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 5",
+   "image": "file:///android_asset/image/pink2/pink2 (13).jpg"
+ },
+ {
+   "id": 192,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 6",
+   "image": "file:///android_asset/image/pink2/pink2 (14).jpg"
+ },
+ {
+   "id": 193,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 7",
+   "image": "file:///android_asset/image/pink2/pink2 (15).jpg"
+ },
+ {
+   "id": 194,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 8",
+   "image": "file:///android_asset/image/pink2/pink2 (16).jpg"
+ },
+ {
+   "id": 195,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 9",
+   "image": "file:///android_asset/image/pink2/pink2 (17).jpg"
+ },
+ {
+   "id": 196,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 10",
+   "image": "file:///android_asset/image/pink2/pink2 (18).jpg"
+ },
+ {
+   "id": 197,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 11",
+   "image": "file:///android_asset/image/pink2/pink2 (19).jpg"
+ },
+ {
+   "id": 198,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 12",
+   "image": "file:///android_asset/image/pink2/pink2 (2).jpg"
+ },
+ {
+   "id": 199,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 13",
+   "image": "file:///android_asset/image/pink2/pink2 (20).jpg"
+ },
+ {
+   "id": 200,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 14",
+   "image": "file:///android_asset/image/pink2/pink2 (21).jpg"
+ },
+ {
+   "id": 201,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 15",
+   "image": "file:///android_asset/image/pink2/pink2 (22).jpg"
+ },
+ {
+   "id": 202,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 16",
+   "image": "file:///android_asset/image/pink2/pink2 (23).jpg"
+ },
+ {
+   "id": 203,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 17",
+   "image": "file:///android_asset/image/pink2/pink2 (24).jpg"
+ },
+ {
+   "id": 204,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 18",
+   "image": "file:///android_asset/image/pink2/pink2 (25).jpg"
+ },
+ {
+   "id": 205,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 19",
+   "image": "file:///android_asset/image/pink2/pink2 (26).jpg"
+ },
+ {
+   "id": 206,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 20",
+   "image": "file:///android_asset/image/pink2/pink2 (27).jpg"
+ },
+ {
+   "id": 207,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 21",
+   "image": "file:///android_asset/image/pink2/pink2 (28).jpg"
+ },
+ {
+   "id": 208,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 22",
+   "image": "file:///android_asset/image/pink2/pink2 (29).jpg"
+ },
+ {
+   "id": 209,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 23",
+   "image": "file:///android_asset/image/pink2/pink2 (3).jpg"
+ },
+ {
+   "id": 210,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 24",
+   "image": "file:///android_asset/image/pink2/pink2 (30).jpg"
+ },
+ {
+   "id": 211,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 25",
+   "image": "file:///android_asset/image/pink2/pink2 (31).jpg"
+ },
+ {
+   "id": 212,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 26",
+   "image": "file:///android_asset/image/pink2/pink2 (32).jpg"
+ },
+ {
+   "id": 213,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 27",
+   "image": "file:///android_asset/image/pink2/pink2 (33).jpg"
+ },
+ {
+   "id": 214,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 28",
+   "image": "file:///android_asset/image/pink2/pink2 (34).jpg"
+ },
+ {
+   "id": 215,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 29",
+   "image": "file:///android_asset/image/pink2/pink2 (35).jpg"
+ },
+ {
+   "id": 216,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 30",
+   "image": "file:///android_asset/image/pink2/pink2 (36).jpg"
+ },
+ {
+   "id": 217,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 31",
+   "image": "file:///android_asset/image/pink2/pink2 (37).jpg"
+ },
+ {
+   "id": 218,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 32",
+   "image": "file:///android_asset/image/pink2/pink2 (38).jpg"
+ },
+ {
+   "id": 219,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 33",
+   "image": "file:///android_asset/image/pink2/pink2 (39).jpg"
+ },
+ {
+   "id": 220,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 34",
+   "image": "file:///android_asset/image/pink2/pink2 (4).jpg"
+ },
+ {
+   "id": 221,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 35",
+   "image": "file:///android_asset/image/pink2/pink2 (40).jpg"
+ },
+ {
+   "id": 222,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 36",
+   "image": "file:///android_asset/image/pink2/pink2 (41).jpg"
+ },
+ {
+   "id": 223,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 37",
+   "image": "file:///android_asset/image/pink2/pink2 (42).jpg"
+ },
+ {
+   "id": 224,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 38",
+   "image": "file:///android_asset/image/pink2/pink2 (43).jpg"
+ },
+ {
+   "id": 225,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 39",
+   "image": "file:///android_asset/image/pink2/pink2 (44).jpg"
+ },
+ {
+   "id": 226,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 40",
+   "image": "file:///android_asset/image/pink2/pink2 (45).jpg"
+ },
+ {
+   "id": 227,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 41",
+   "image": "file:///android_asset/image/pink2/pink2 (46).jpg"
+ },
+ {
+   "id": 228,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 42",
+   "image": "file:///android_asset/image/pink2/pink2 (47).jpg"
+ },
+ {
+   "id": 229,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 43",
+   "image": "file:///android_asset/image/pink2/pink2 (48).jpg"
+ },
+ {
+   "id": 230,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 44",
+   "image": "file:///android_asset/image/pink2/pink2 (49).jpg"
+ },
+ {
+   "id": 231,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 45",
+   "image": "file:///android_asset/image/pink2/pink2 (5).jpg"
+ },
+ {
+   "id": 232,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 46",
+   "image": "file:///android_asset/image/pink2/pink2 (50).jpg"
+ },
+ {
+   "id": 233,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 47",
+   "image": "file:///android_asset/image/pink2/pink2 (51).jpg"
+ },
+ {
+   "id": 234,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 48",
+   "image": "file:///android_asset/image/pink2/pink2 (52).jpg"
+ },
+ {
+   "id": 235,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 49",
+   "image": "file:///android_asset/image/pink2/pink2 (6).jpg"
+ },
+ {
+   "id": 236,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 50",
+   "image": "file:///android_asset/image/pink2/pink2 (7).jpg"
+ },
+ {
+   "id": 237,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 51",
+   "image": "file:///android_asset/image/pink2/pink2 (8).jpg"
+ },
+ {
+   "id": 238,
+   "name_category": "Preppy Pink2",
+   "title": "Preppy Pink2 52",
+   "image": "file:///android_asset/image/pink2/pink2 (9).jpg"
+ }
 
 
   ]
