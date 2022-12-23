@@ -1,0 +1,271 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "-ADMOB",
+      "select_backup_ads":"-APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"-ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"PL350911184828",
+      "backup_ads_banner":"PL350911184828",
+      "backup_ads_intertitial":"PL350911184828",
+      "backup_ads_rewards":"PL350911184828",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"PL350911184828",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"0",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"107355779",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Pastel",
+      "image": "file:///android_asset/image/pas/pas (38).jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Pstl Christmas",
+      "image": "file:///android_asset/image/chris/chris (2).jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Pastel 1",
+      "image": "file:///android_asset/image/pas1/pastel (1).jpg"
+
+    },
+    {
+      "id": 4,
+      "name_category": "Pastel 2",
+      "image": "file:///android_asset/image/pas2/past (14).jpg"
+
+    },
+    {
+      "id": 5,
+      "name_category": "Pastel 3",
+      "image": "file:///android_asset/image/pas3/pstl (12).jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+   
+    {
+   "id": 1,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas1",
+   "image": "file:///android_asset/image/chris/chris (1).jpg"
+ },
+ {
+   "id": 2,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas2",
+   "image": "file:///android_asset/image/chris/chris (10).jpg"
+ },
+ {
+   "id": 3,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas3",
+   "image": "file:///android_asset/image/chris/chris (11).jpg"
+ },
+ {
+   "id": 4,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas4",
+   "image": "file:///android_asset/image/chris/chris (12).jpg"
+ },
+ {
+   "id": 5,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas5",
+   "image": "file:///android_asset/image/chris/chris (13).jpg"
+ },
+ {
+   "id": 6,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas6",
+   "image": "file:///android_asset/image/chris/chris (14).jpg"
+ },
+ {
+   "id": 7,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas7",
+   "image": "file:///android_asset/image/chris/chris (15).jpg"
+ },
+ {
+   "id": 8,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas8",
+   "image": "file:///android_asset/image/chris/chris (16).jpg"
+ },
+ {
+   "id": 9,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas9",
+   "image": "file:///android_asset/image/chris/chris (17).jpg"
+ },
+ {
+   "id": 10,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas10",
+   "image": "file:///android_asset/image/chris/chris (18).jpg"
+ },
+ {
+   "id": 11,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas11",
+   "image": "file:///android_asset/image/chris/chris (19).jpg"
+ },
+ {
+   "id": 12,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas12",
+   "image": "file:///android_asset/image/chris/chris (2).jpg"
+ },
+ {
+   "id": 13,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas13",
+   "image": "file:///android_asset/image/chris/chris (20).jpg"
+ },
+ {
+   "id": 14,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas14",
+   "image": "file:///android_asset/image/chris/chris (3).jpg"
+ },
+ {
+   "id": 15,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas15",
+   "image": "file:///android_asset/image/chris/chris (4).jpg"
+ },
+ {
+   "id": 16,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas16",
+   "image": "file:///android_asset/image/chris/chris (5).jpg"
+ },
+ {
+   "id": 17,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas17",
+   "image": "file:///android_asset/image/chris/chris (6).jpg"
+ },
+ {
+   "id": 18,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas18",
+   "image": "file:///android_asset/image/chris/chris (7).jpg"
+ },
+ {
+   "id": 19,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas19",
+   "image": "file:///android_asset/image/chris/chris (8).jpg"
+ },
+ {
+   "id": 20,
+   "name_category": "Pstl Christmas",
+   "title": "Pastel Christmas20",
+   "image": "file:///android_asset/image/chris/chris (9).jpg"
+ },
+ 
+ 
+    
+ {
+   "id": 1001,
+   "name_category": "Pastel",
+   "title": "Pastel 1",
+   "image": "file:///android_asset/image/pas/pas (1).jpg"
+ },
+ {
+   "id": 1002,
+   "name_category": "Pastel",
+   "title": "Pastel 2",
+   "image": "file:///android_asset/image/pas/pas (10).jpg"
+ },
+ {
+   "id": 1003,
+   "name_category": "Pastel",
+   "title": "Pastel 3",
+   "image": "file:///android_asset/image/pas/pas (100).jpg"
+ },
+ {
+   "id": 1004,
+   "name_category": "Pastel",
+   "title": "Pastel 4",
+   "image": "file:///android_asset/image/pas/pas (101).jpg"
+ },
+ {
+   "id": 1005,
+   "name_category": "Pastel",
+   "title": "Pastel 5",
+   "image": "file:///android_asset/image/pas/pas (102).jpg"
+ },
+ {
+   "id": 1006,
+   "name_category": "Pastel",
+   "title": "Pastel 6",
+   "image": "file:///android_asset/image/pas/pas (103).jpg"
+ },
+ {
+   "id": 1007,
+   "name_category": "Pastel",
+   "title": "Pastel 7",
+   "image": "file:///android_asset/image/pas/pas (104).jpg"
+ },
+ {
+   "id": 1008,
+   "name_category": "Pastel",
+   "title": "Pastel 8",
+   "image": "file:///android_asset/image/pas/pas (105).jpg"
+ },
+ 
+ {
+   "id": 494,
+   "name_category": "Pastel 3",
+   "title": "Pastel 3.47",
+   "image": "file:///android_asset/image/pas3/pstl (9).jpg"
+ }
+
+
+  ]
+}
