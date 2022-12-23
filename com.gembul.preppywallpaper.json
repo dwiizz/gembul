@@ -55,30 +55,30 @@
     {
       "id": 1,
       "name_category": "Pink Christmas",
-      "image": "file:///android_asset/image/pas/pas (38).jpg"
+      "image": "file:///android_asset/image/chrism  pink/chrism  pink (11).jpg"
 
     },
     {
       "id": 2,
       "name_category": "Preppy Pink",
-      "image": "file:///android_asset/image/chris/chris (2).jpg"
+      "image": "image": "file:///android_asset/image/pink/pink (35).jpg"
 
     },
     {
       "id": 3,
-      "name_category": "Pastel 1",
+      "name_category": "Preppy Pink1",
       "image": "file:///android_asset/image/pas1/pastel (1).jpg"
 
     },
     {
       "id": 4,
-      "name_category": "Pastel 2",
+      "name_category": "Preppy Pink2",
       "image": "file:///android_asset/image/pas2/past (14).jpg"
 
     },
     {
       "id": 5,
-      "name_category": "Pastel 3",
+      "name_category": "Preppy Pink3",
       "image": "file:///android_asset/image/pas3/pstl (12).jpg"
 
     }
