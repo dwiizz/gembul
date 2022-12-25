@@ -1,0 +1,141 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "-ADMOB",
+      "select_backup_ads":"-APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"-ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"PL350911184828",
+      "backup_ads_banner":"PL350911184828",
+      "backup_ads_intertitial":"PL350911184828",
+      "backup_ads_rewards":"PL350911184828",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"PL350911184828",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"0",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"107355779",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Pink Christmas",
+      "image": "file:///android_asset/image/chrism  pink/chrism  pink (4).jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Preppy Pink",
+      "image": "file:///android_asset/image/pink/pink (35).jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Preppy Pink1",
+      "image": "file:///android_asset/image/pink1/pink1 (11).jpg"
+
+    },
+    {
+      "id": 4,
+      "name_category": "Preppy Pink2",
+      "image": "file:///android_asset/image/pink2/pink2 (7).jpg"
+
+    },
+    {
+      "id": 5,
+      "name_category": "Preppy Pink3",
+      "image": "file:///android_asset/image/pink3/pink3 (98).jpg"
+
+    },
+     {
+      "id": 6,
+      "name_category": "Preppy Pink4",
+      "image": "file:///android_asset/image/pink4/pink4 (3).jpg"
+
+    },
+     {
+      "id": 7,
+      "name_category": "Preppy Pink5",
+      "image": "file:///android_asset/image/pink5/pink5 (15).jpg"
+
+    },
+     {
+      "id": 7,
+      "name_category": "Preppy Pink6",
+      "image": "file:///android_asset/image/pink6/pink6 (21).jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+   
+    
+ {
+   "id": 1,
+   "name_category": "Pink Christmas",
+   "title": "Pink Christmas1",
+   "image": "file:///android_asset/image/chrism  pink/chrism  pink (1).jpg"
+ },
+ {
+   "id": 2,
+   "name_category": "Pink Christmas",
+   "title": "Pink Christmas2",
+   "image": "file:///android_asset/image/chrism  pink/chrism  pink (10).jpg"
+ },
+ {
+   "id": 3,
+   "name_category": "Pink Christmas",
+   "title": "Pink Christmas3",
+   "image": "file:///android_asset/image/chrism  pink/chrism  pink (11).jpg"
+ },
+ {
+   "id": 4,
+   "name_category": "Pink Christmas",
+   "title": "Pink Christmas4",
+   "image": "file:///android_asset/image/chrism  pink/chrism  pink (12).jpg"
+ },
+ {
+   "id": 5,
+   "name_category": "Pink Christmas",
+   "title": "Pink Christmas5",
+   "image": "file:///android_asset/image/chrism  pink/chrism  pink (13).jpg"
+ }
+    
+     ]
+}
