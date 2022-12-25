@@ -79,25 +79,25 @@
     {
       "id": 5,
       "name_category": "Preppy Pink3",
-      "image": "ffile:///android_asset/image/pink3/pink3 (98).jpg"
+      "image": "file:///android_asset/image/pink3/pink3 (98).jpg"
 
     },
      {
       "id": 6,
       "name_category": "Preppy Pink4",
-      "image": "ffile:///android_asset/image/pink4/pink4 (3).jpg"
+      "image": "file:///android_asset/image/pink4/pink4 (3).jpg"
 
     },
      {
       "id": 7,
       "name_category": "Preppy Pink5",
-      "image": "ffile:///android_asset/image/pink5/pink5 (15).jpg"
+      "image": "file:///android_asset/image/pink5/pink5 (15).jpg"
 
     },
      {
       "id": 7,
       "name_category": "Preppy Pink6",
-      "image": "ffile:///android_asset/image/pink6/pink6 (21).jpg"
+      "image": "file:///android_asset/image/pink6/pink6 (21).jpg"
 
     }
   ],
@@ -3416,6 +3416,139 @@
    "name_category": "Preppy Pink5",
    "title": "Preppy Pink5 104",
    "image": "file:///android_asset/image/pink5/pink5 (99).jpg"
+ },
+
+ {
+   "id": 550,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 1",
+   "image": "file:///android_asset/image/pink6/pink6 (1).jpg"
+ },
+ {
+   "id": 551,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 2",
+   "image": "file:///android_asset/image/pink6/pink6 (10).jpg"
+ },
+ {
+   "id": 552,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 3",
+   "image": "file:///android_asset/image/pink6/pink6 (11).jpg"
+ },
+ {
+   "id": 553,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 4",
+   "image": "file:///android_asset/image/pink6/pink6 (12).jpg"
+ },
+ {
+   "id": 554,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 5",
+   "image": "file:///android_asset/image/pink6/pink6 (13).jpg"
+ },
+ {
+   "id": 555,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 6",
+   "image": "file:///android_asset/image/pink6/pink6 (14).jpg"
+ },
+ {
+   "id": 556,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 7",
+   "image": "file:///android_asset/image/pink6/pink6 (15).jpg"
+ },
+ {
+   "id": 557,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 8",
+   "image": "file:///android_asset/image/pink6/pink6 (16).jpg"
+ },
+ {
+   "id": 558,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 9",
+   "image": "file:///android_asset/image/pink6/pink6 (17).jpg"
+ },
+ {
+   "id": 559,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 10",
+   "image": "file:///android_asset/image/pink6/pink6 (18).jpg"
+ },
+ {
+   "id": 560,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 11",
+   "image": "file:///android_asset/image/pink6/pink6 (19).jpg"
+ },
+ {
+   "id": 561,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 12",
+   "image": "file:///android_asset/image/pink6/pink6 (2).jpg"
+ },
+ {
+   "id": 562,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 13",
+   "image": "file:///android_asset/image/pink6/pink6 (20).jpg"
+ },
+ {
+   "id": 563,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 14",
+   "image": "file:///android_asset/image/pink6/pink6 (21).jpg"
+ },
+ {
+   "id": 564,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 15",
+   "image": "file:///android_asset/image/pink6/pink6 (22).jpg"
+ },
+ {
+   "id": 565,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 16",
+   "image": "file:///android_asset/image/pink6/pink6 (3).jpg"
+ },
+ {
+   "id": 566,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 17",
+   "image": "file:///android_asset/image/pink6/pink6 (4).jpg"
+ },
+ {
+   "id": 567,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 18",
+   "image": "file:///android_asset/image/pink6/pink6 (5).jpg"
+ },
+ {
+   "id": 568,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 19",
+   "image": "file:///android_asset/image/pink6/pink6 (6).jpg"
+ },
+ {
+   "id": 569,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 20",
+   "image": "file:///android_asset/image/pink6/pink6 (7).jpg"
+ },
+ {
+   "id": 570,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 21",
+   "image": "file:///android_asset/image/pink6/pink6 (8).jpg"
+ },
+ {
+   "id": 571,
+   "name_category": "Preppy Pink6",
+   "title": "Preppy Pink6 22",
+   "image": "file:///android_asset/image/pink6/pink6 (9).jpg"
  }
 
   
