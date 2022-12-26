@@ -55,49 +55,49 @@
     {
       "id": 1,
       "name_category": "Preppy Blue",
-      "image": "file:///android_asset/image/chrism  pink/chrism  pink (4).jpg"
+      "image": "file:///android_asset/image/blue7/blue7 (7).jpg"
 
     },
     {
       "id": 2,
       "name_category": "Preppy Blue 1",
-      "image": "file:///android_asset/image/pink/pink (35).jpg"
+      "image": "file:///android_asset/image/blue/blue (3).jpg"
 
     },
     {
       "id": 3,
       "name_category": "Preppy Blue 2",
-      "image": "file:///android_asset/image/pink1/pink1 (11).jpg"
+      "image": "file:///android_asset/image/blue1/blue1 (11).jpg"
 
     },
     {
       "id": 4,
       "name_category": "Preppy Blue 3",
-      "image": "file:///android_asset/image/pink2/pink2 (7).jpg"
+      "image": "file:///android_asset/image/blue2/blue2 (9).jpg"
 
     },
     {
       "id": 5,
       "name_category": "Preppy Blue 4",
-      "image": "file:///android_asset/image/pink3/pink3 (98).jpg"
+      "image": "file:///android_asset/image/blue3/blue3 (5).jpg"
 
     },
      {
       "id": 6,
       "name_category": "Preppy Blue 5",
-      "image": "file:///android_asset/image/pink4/pink4 (3).jpg"
+      "image": "file:///android_asset/image/blue4/blue4 (17).jpg"
 
     },
      {
       "id": 7,
       "name_category": "Preppy Blue 6",
-      "image": "file:///android_asset/image/pink5/pink5 (15).jpg"
+      "image": "file:///android_asset/image/blue5/blue5 (2).jpg"
 
     },
      {
       "id": 7,
       "name_category": "Preppy Blue 7",
-      "image": "file:///android_asset/image/pink6/pink6 (21).jpg"
+      "image": "file:///android_asset/image/blue6/blue6 (13).jpg"
 
     }
   ],
