@@ -54,52 +54,47 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Preppy Blue",
+      "name_category": "Preppy Aesthetic",
       "image": "file:///android_asset/image/blue7/blue7 (7).jpg"
 
     },
     {
       "id": 2,
-      "name_category": "Preppy Blue 1",
+      "name_category": "Preppy Aesthetic 1",
       "image": "file:///android_asset/image/blue/blue (3).jpg"
 
     },
     {
       "id": 3,
-      "name_category": "Preppy Blue 2",
+      "name_category": "Preppy Aesthetic 2",
       "image": "file:///android_asset/image/blue1/blue1 (11).jpg"
 
     },
     {
       "id": 4,
-      "name_category": "Preppy Blue 3",
+      "name_category": "Preppy Aesthetic 3",
       "image": "file:///android_asset/image/blue2/blue2 (15).jpg"
 
     },
     {
       "id": 5,
-      "name_category": "Preppy Blue 4",
+      "name_category": "Preppy Aesthetic 4",
       "image": "file:///android_asset/image/blue3/blue3 (5).jpg"
 
     },
      {
       "id": 6,
-      "name_category": "Preppy Blue 5",
+      "name_category": "Preppy Aesthetic 5",
       "image": "file:///android_asset/image/blue4/blue4 (17).jpg"
 
     },
      {
       "id": 7,
-      "name_category": "Preppy Blue 6",
+      "name_category": "Preppy Aesthetic 6",
       "image": "file:///android_asset/image/blue5/blue5 (2).jpg"
 
-    },
-     {
-      "id": 7,
-      "name_category": "Preppy Blue 7",
-      "image": "file:///android_asset/image/blue6/blue6 (13).jpg"
-
     }
+    
   ],
 
   "Data":
@@ -107,17 +102,2160 @@
    
     
  
+ 
  {
-   "id": 1,
-   "name_category": "Preppy Blue",
-   "title": "Preppy Blue0 1",
-   "image": "file:///android_asset/image/blue7/blue7 (1).jpg"
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_1",
+   "image": "file:///android_asset/image/ae/ae (1).jpg"
  },
-     {
-   "id": 477,
-   "name_category": "Preppy Blue 7",
-   "title": "Preppy Blue7 45",
-   "image": "file:///android_asset/image/blue6/blue6 (9).jpg"
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_2",
+   "image": "file:///android_asset/image/ae/ae (10).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_3",
+   "image": "file:///android_asset/image/ae/ae (11).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_4",
+   "image": "file:///android_asset/image/ae/ae (12).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_5",
+   "image": "file:///android_asset/image/ae/ae (13).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_6",
+   "image": "file:///android_asset/image/ae/ae (14).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_7",
+   "image": "file:///android_asset/image/ae/ae (15).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_8",
+   "image": "file:///android_asset/image/ae/ae (16).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_9",
+   "image": "file:///android_asset/image/ae/ae (17).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_10",
+   "image": "file:///android_asset/image/ae/ae (18).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_11",
+   "image": "file:///android_asset/image/ae/ae (19).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_12",
+   "image": "file:///android_asset/image/ae/ae (2).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_13",
+   "image": "file:///android_asset/image/ae/ae (3).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_14",
+   "image": "file:///android_asset/image/ae/ae (4).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_15",
+   "image": "file:///android_asset/image/ae/ae (5).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_16",
+   "image": "file:///android_asset/image/ae/ae (6).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_17",
+   "image": "file:///android_asset/image/ae/ae (7).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_18",
+   "image": "file:///android_asset/image/ae/ae (8).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic",
+   "title": "Preppy Aesthetic_19",
+   "image": "file:///android_asset/image/ae/ae (9).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_1",
+   "image": "file:///android_asset/image/ae1/ae1 (1).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_2",
+   "image": "file:///android_asset/image/ae1/ae1 (10).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_3",
+   "image": "file:///android_asset/image/ae1/ae1 (11).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_4",
+   "image": "file:///android_asset/image/ae1/ae1 (12).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_5",
+   "image": "file:///android_asset/image/ae1/ae1 (13).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_6",
+   "image": "file:///android_asset/image/ae1/ae1 (14).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_7",
+   "image": "file:///android_asset/image/ae1/ae1 (15).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_8",
+   "image": "file:///android_asset/image/ae1/ae1 (16).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_9",
+   "image": "file:///android_asset/image/ae1/ae1 (17).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_10",
+   "image": "file:///android_asset/image/ae1/ae1 (18).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_11",
+   "image": "file:///android_asset/image/ae1/ae1 (19).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_12",
+   "image": "file:///android_asset/image/ae1/ae1 (2).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_13",
+   "image": "file:///android_asset/image/ae1/ae1 (20).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_14",
+   "image": "file:///android_asset/image/ae1/ae1 (21).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_15",
+   "image": "file:///android_asset/image/ae1/ae1 (22).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_16",
+   "image": "file:///android_asset/image/ae1/ae1 (23).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_17",
+   "image": "file:///android_asset/image/ae1/ae1 (24).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_18",
+   "image": "file:///android_asset/image/ae1/ae1 (25).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_19",
+   "image": "file:///android_asset/image/ae1/ae1 (26).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_20",
+   "image": "file:///android_asset/image/ae1/ae1 (27).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_21",
+   "image": "file:///android_asset/image/ae1/ae1 (28).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_22",
+   "image": "file:///android_asset/image/ae1/ae1 (29).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_23",
+   "image": "file:///android_asset/image/ae1/ae1 (3).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_24",
+   "image": "file:///android_asset/image/ae1/ae1 (30).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_25",
+   "image": "file:///android_asset/image/ae1/ae1 (31).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_26",
+   "image": "file:///android_asset/image/ae1/ae1 (32).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_27",
+   "image": "file:///android_asset/image/ae1/ae1 (33).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_28",
+   "image": "file:///android_asset/image/ae1/ae1 (34).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_29",
+   "image": "file:///android_asset/image/ae1/ae1 (35).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_30",
+   "image": "file:///android_asset/image/ae1/ae1 (36).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_31",
+   "image": "file:///android_asset/image/ae1/ae1 (37).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_32",
+   "image": "file:///android_asset/image/ae1/ae1 (38).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_33",
+   "image": "file:///android_asset/image/ae1/ae1 (39).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_34",
+   "image": "file:///android_asset/image/ae1/ae1 (4).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_35",
+   "image": "file:///android_asset/image/ae1/ae1 (40).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_36",
+   "image": "file:///android_asset/image/ae1/ae1 (41).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_37",
+   "image": "file:///android_asset/image/ae1/ae1 (42).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_38",
+   "image": "file:///android_asset/image/ae1/ae1 (43).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_39",
+   "image": "file:///android_asset/image/ae1/ae1 (44).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_40",
+   "image": "file:///android_asset/image/ae1/ae1 (45).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_41",
+   "image": "file:///android_asset/image/ae1/ae1 (46).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_42",
+   "image": "file:///android_asset/image/ae1/ae1 (47).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_43",
+   "image": "file:///android_asset/image/ae1/ae1 (48).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_44",
+   "image": "file:///android_asset/image/ae1/ae1 (49).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_45",
+   "image": "file:///android_asset/image/ae1/ae1 (5).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_46",
+   "image": "file:///android_asset/image/ae1/ae1 (50).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_47",
+   "image": "file:///android_asset/image/ae1/ae1 (51).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_48",
+   "image": "file:///android_asset/image/ae1/ae1 (52).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_49",
+   "image": "file:///android_asset/image/ae1/ae1 (53).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_50",
+   "image": "file:///android_asset/image/ae1/ae1 (54).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_51",
+   "image": "file:///android_asset/image/ae1/ae1 (55).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_52",
+   "image": "file:///android_asset/image/ae1/ae1 (56).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_53",
+   "image": "file:///android_asset/image/ae1/ae1 (57).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_54",
+   "image": "file:///android_asset/image/ae1/ae1 (58).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_55",
+   "image": "file:///android_asset/image/ae1/ae1 (59).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_56",
+   "image": "file:///android_asset/image/ae1/ae1 (6).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_57",
+   "image": "file:///android_asset/image/ae1/ae1 (60).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_58",
+   "image": "file:///android_asset/image/ae1/ae1 (61).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_59",
+   "image": "file:///android_asset/image/ae1/ae1 (62).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_60",
+   "image": "file:///android_asset/image/ae1/ae1 (63).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_61",
+   "image": "file:///android_asset/image/ae1/ae1 (64).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_62",
+   "image": "file:///android_asset/image/ae1/ae1 (65).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_63",
+   "image": "file:///android_asset/image/ae1/ae1 (66).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_64",
+   "image": "file:///android_asset/image/ae1/ae1 (67).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_65",
+   "image": "file:///android_asset/image/ae1/ae1 (68).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_66",
+   "image": "file:///android_asset/image/ae1/ae1 (7).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_67",
+   "image": "file:///android_asset/image/ae1/ae1 (8).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 1",
+   "title": "Preppy Aesthetic1_68",
+   "image": "file:///android_asset/image/ae1/ae1 (9).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_1",
+   "image": "file:///android_asset/image/ae2/ae2 (1).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_2",
+   "image": "file:///android_asset/image/ae2/ae2 (10).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_3",
+   "image": "file:///android_asset/image/ae2/ae2 (11).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_4",
+   "image": "file:///android_asset/image/ae2/ae2 (12).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_5",
+   "image": "file:///android_asset/image/ae2/ae2 (13).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_6",
+   "image": "file:///android_asset/image/ae2/ae2 (14).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_7",
+   "image": "file:///android_asset/image/ae2/ae2 (15).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_8",
+   "image": "file:///android_asset/image/ae2/ae2 (16).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_9",
+   "image": "file:///android_asset/image/ae2/ae2 (17).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_10",
+   "image": "file:///android_asset/image/ae2/ae2 (18).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_11",
+   "image": "file:///android_asset/image/ae2/ae2 (19).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_12",
+   "image": "file:///android_asset/image/ae2/ae2 (2).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_13",
+   "image": "file:///android_asset/image/ae2/ae2 (20).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_14",
+   "image": "file:///android_asset/image/ae2/ae2 (21).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_15",
+   "image": "file:///android_asset/image/ae2/ae2 (22).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_16",
+   "image": "file:///android_asset/image/ae2/ae2 (23).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_17",
+   "image": "file:///android_asset/image/ae2/ae2 (24).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_18",
+   "image": "file:///android_asset/image/ae2/ae2 (25).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_19",
+   "image": "file:///android_asset/image/ae2/ae2 (26).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_20",
+   "image": "file:///android_asset/image/ae2/ae2 (27).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_21",
+   "image": "file:///android_asset/image/ae2/ae2 (28).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_22",
+   "image": "file:///android_asset/image/ae2/ae2 (29).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_23",
+   "image": "file:///android_asset/image/ae2/ae2 (3).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_24",
+   "image": "file:///android_asset/image/ae2/ae2 (30).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_25",
+   "image": "file:///android_asset/image/ae2/ae2 (31).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_26",
+   "image": "file:///android_asset/image/ae2/ae2 (32).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_27",
+   "image": "file:///android_asset/image/ae2/ae2 (33).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_28",
+   "image": "file:///android_asset/image/ae2/ae2 (34).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_29",
+   "image": "file:///android_asset/image/ae2/ae2 (35).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_30",
+   "image": "file:///android_asset/image/ae2/ae2 (36).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_31",
+   "image": "file:///android_asset/image/ae2/ae2 (37).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_32",
+   "image": "file:///android_asset/image/ae2/ae2 (38).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_33",
+   "image": "file:///android_asset/image/ae2/ae2 (39).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_34",
+   "image": "file:///android_asset/image/ae2/ae2 (4).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_35",
+   "image": "file:///android_asset/image/ae2/ae2 (40).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_36",
+   "image": "file:///android_asset/image/ae2/ae2 (41).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_37",
+   "image": "file:///android_asset/image/ae2/ae2 (42).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_38",
+   "image": "file:///android_asset/image/ae2/ae2 (43).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_39",
+   "image": "file:///android_asset/image/ae2/ae2 (44).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_40",
+   "image": "file:///android_asset/image/ae2/ae2 (45).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_41",
+   "image": "file:///android_asset/image/ae2/ae2 (46).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_42",
+   "image": "file:///android_asset/image/ae2/ae2 (47).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_43",
+   "image": "file:///android_asset/image/ae2/ae2 (48).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_44",
+   "image": "file:///android_asset/image/ae2/ae2 (49).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_45",
+   "image": "file:///android_asset/image/ae2/ae2 (5).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_46",
+   "image": "file:///android_asset/image/ae2/ae2 (50).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_47",
+   "image": "file:///android_asset/image/ae2/ae2 (51).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_48",
+   "image": "file:///android_asset/image/ae2/ae2 (52).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_49",
+   "image": "file:///android_asset/image/ae2/ae2 (53).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_50",
+   "image": "file:///android_asset/image/ae2/ae2 (54).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_51",
+   "image": "file:///android_asset/image/ae2/ae2 (55).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_52",
+   "image": "file:///android_asset/image/ae2/ae2 (56).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_53",
+   "image": "file:///android_asset/image/ae2/ae2 (57).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_54",
+   "image": "file:///android_asset/image/ae2/ae2 (58).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_55",
+   "image": "file:///android_asset/image/ae2/ae2 (59).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_56",
+   "image": "file:///android_asset/image/ae2/ae2 (6).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_57",
+   "image": "file:///android_asset/image/ae2/ae2 (60).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_58",
+   "image": "file:///android_asset/image/ae2/ae2 (61).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_59",
+   "image": "file:///android_asset/image/ae2/ae2 (62).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_60",
+   "image": "file:///android_asset/image/ae2/ae2 (63).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_61",
+   "image": "file:///android_asset/image/ae2/ae2 (64).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_62",
+   "image": "file:///android_asset/image/ae2/ae2 (65).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_63",
+   "image": "file:///android_asset/image/ae2/ae2 (66).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_64",
+   "image": "file:///android_asset/image/ae2/ae2 (67).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_65",
+   "image": "file:///android_asset/image/ae2/ae2 (68).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_66",
+   "image": "file:///android_asset/image/ae2/ae2 (7).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_67",
+   "image": "file:///android_asset/image/ae2/ae2 (8).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 2",
+   "title": "Preppy Aesthetic2_68",
+   "image": "file:///android_asset/image/ae2/ae2 (9).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_1",
+   "image": "file:///android_asset/image/ae3/ae3 (1).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_2",
+   "image": "file:///android_asset/image/ae3/ae3 (10).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_3",
+   "image": "file:///android_asset/image/ae3/ae3 (11).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_4",
+   "image": "file:///android_asset/image/ae3/ae3 (12).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_5",
+   "image": "file:///android_asset/image/ae3/ae3 (13).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_6",
+   "image": "file:///android_asset/image/ae3/ae3 (14).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_7",
+   "image": "file:///android_asset/image/ae3/ae3 (15).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_8",
+   "image": "file:///android_asset/image/ae3/ae3 (16).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_9",
+   "image": "file:///android_asset/image/ae3/ae3 (17).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_10",
+   "image": "file:///android_asset/image/ae3/ae3 (18).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_11",
+   "image": "file:///android_asset/image/ae3/ae3 (19).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_12",
+   "image": "file:///android_asset/image/ae3/ae3 (2).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_13",
+   "image": "file:///android_asset/image/ae3/ae3 (20).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_14",
+   "image": "file:///android_asset/image/ae3/ae3 (21).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_15",
+   "image": "file:///android_asset/image/ae3/ae3 (22).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_16",
+   "image": "file:///android_asset/image/ae3/ae3 (23).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_17",
+   "image": "file:///android_asset/image/ae3/ae3 (24).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_18",
+   "image": "file:///android_asset/image/ae3/ae3 (25).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_19",
+   "image": "file:///android_asset/image/ae3/ae3 (26).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_20",
+   "image": "file:///android_asset/image/ae3/ae3 (27).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_21",
+   "image": "file:///android_asset/image/ae3/ae3 (28).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_22",
+   "image": "file:///android_asset/image/ae3/ae3 (29).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_23",
+   "image": "file:///android_asset/image/ae3/ae3 (3).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_24",
+   "image": "file:///android_asset/image/ae3/ae3 (30).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_25",
+   "image": "file:///android_asset/image/ae3/ae3 (31).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_26",
+   "image": "file:///android_asset/image/ae3/ae3 (32).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_27",
+   "image": "file:///android_asset/image/ae3/ae3 (33).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_28",
+   "image": "file:///android_asset/image/ae3/ae3 (34).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_29",
+   "image": "file:///android_asset/image/ae3/ae3 (35).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_30",
+   "image": "file:///android_asset/image/ae3/ae3 (36).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_31",
+   "image": "file:///android_asset/image/ae3/ae3 (37).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_32",
+   "image": "file:///android_asset/image/ae3/ae3 (38).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_33",
+   "image": "file:///android_asset/image/ae3/ae3 (39).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_34",
+   "image": "file:///android_asset/image/ae3/ae3 (4).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_35",
+   "image": "file:///android_asset/image/ae3/ae3 (40).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_36",
+   "image": "file:///android_asset/image/ae3/ae3 (41).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_37",
+   "image": "file:///android_asset/image/ae3/ae3 (42).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_38",
+   "image": "file:///android_asset/image/ae3/ae3 (43).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_39",
+   "image": "file:///android_asset/image/ae3/ae3 (44).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_40",
+   "image": "file:///android_asset/image/ae3/ae3 (45).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_41",
+   "image": "file:///android_asset/image/ae3/ae3 (46).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_42",
+   "image": "file:///android_asset/image/ae3/ae3 (47).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_43",
+   "image": "file:///android_asset/image/ae3/ae3 (48).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_44",
+   "image": "file:///android_asset/image/ae3/ae3 (49).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_45",
+   "image": "file:///android_asset/image/ae3/ae3 (5).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_46",
+   "image": "file:///android_asset/image/ae3/ae3 (50).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_47",
+   "image": "file:///android_asset/image/ae3/ae3 (51).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_48",
+   "image": "file:///android_asset/image/ae3/ae3 (52).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_49",
+   "image": "file:///android_asset/image/ae3/ae3 (53).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_50",
+   "image": "file:///android_asset/image/ae3/ae3 (54).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_51",
+   "image": "file:///android_asset/image/ae3/ae3 (55).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_52",
+   "image": "file:///android_asset/image/ae3/ae3 (56).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_53",
+   "image": "file:///android_asset/image/ae3/ae3 (57).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_54",
+   "image": "file:///android_asset/image/ae3/ae3 (58).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_55",
+   "image": "file:///android_asset/image/ae3/ae3 (59).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_56",
+   "image": "file:///android_asset/image/ae3/ae3 (6).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_57",
+   "image": "file:///android_asset/image/ae3/ae3 (60).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_58",
+   "image": "file:///android_asset/image/ae3/ae3 (61).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_59",
+   "image": "file:///android_asset/image/ae3/ae3 (62).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_60",
+   "image": "file:///android_asset/image/ae3/ae3 (63).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_61",
+   "image": "file:///android_asset/image/ae3/ae3 (64).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_62",
+   "image": "file:///android_asset/image/ae3/ae3 (65).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_63",
+   "image": "file:///android_asset/image/ae3/ae3 (66).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_64",
+   "image": "file:///android_asset/image/ae3/ae3 (67).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_65",
+   "image": "file:///android_asset/image/ae3/ae3 (68).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_66",
+   "image": "file:///android_asset/image/ae3/ae3 (7).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_67",
+   "image": "file:///android_asset/image/ae3/ae3 (8).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 3",
+   "title": "Preppy Aesthetic3_68",
+   "image": "file:///android_asset/image/ae3/ae3 (9).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_1",
+   "image": "file:///android_asset/image/ae4/ae4 (1).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_2",
+   "image": "file:///android_asset/image/ae4/ae4 (10).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_3",
+   "image": "file:///android_asset/image/ae4/ae4 (11).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_4",
+   "image": "file:///android_asset/image/ae4/ae4 (12).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_5",
+   "image": "file:///android_asset/image/ae4/ae4 (13).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_6",
+   "image": "file:///android_asset/image/ae4/ae4 (14).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_7",
+   "image": "file:///android_asset/image/ae4/ae4 (15).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_8",
+   "image": "file:///android_asset/image/ae4/ae4 (16).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_9",
+   "image": "file:///android_asset/image/ae4/ae4 (17).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_10",
+   "image": "file:///android_asset/image/ae4/ae4 (18).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_11",
+   "image": "file:///android_asset/image/ae4/ae4 (19).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_12",
+   "image": "file:///android_asset/image/ae4/ae4 (2).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_13",
+   "image": "file:///android_asset/image/ae4/ae4 (20).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_14",
+   "image": "file:///android_asset/image/ae4/ae4 (21).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_15",
+   "image": "file:///android_asset/image/ae4/ae4 (22).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_16",
+   "image": "file:///android_asset/image/ae4/ae4 (23).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_17",
+   "image": "file:///android_asset/image/ae4/ae4 (24).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_18",
+   "image": "file:///android_asset/image/ae4/ae4 (25).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_19",
+   "image": "file:///android_asset/image/ae4/ae4 (26).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_20",
+   "image": "file:///android_asset/image/ae4/ae4 (27).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_21",
+   "image": "file:///android_asset/image/ae4/ae4 (28).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_22",
+   "image": "file:///android_asset/image/ae4/ae4 (29).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_23",
+   "image": "file:///android_asset/image/ae4/ae4 (3).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_24",
+   "image": "file:///android_asset/image/ae4/ae4 (30).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_25",
+   "image": "file:///android_asset/image/ae4/ae4 (31).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_26",
+   "image": "file:///android_asset/image/ae4/ae4 (32).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_27",
+   "image": "file:///android_asset/image/ae4/ae4 (33).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_28",
+   "image": "file:///android_asset/image/ae4/ae4 (34).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_29",
+   "image": "file:///android_asset/image/ae4/ae4 (4).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_30",
+   "image": "file:///android_asset/image/ae4/ae4 (5).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_31",
+   "image": "file:///android_asset/image/ae4/ae4 (6).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_32",
+   "image": "file:///android_asset/image/ae4/ae4 (7).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_33",
+   "image": "file:///android_asset/image/ae4/ae4 (8).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 4",
+   "title": "Preppy Aesthetic4_34",
+   "image": "file:///android_asset/image/ae4/ae4 (9).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_1",
+   "image": "file:///android_asset/image/ae5/ae5 (1).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_2",
+   "image": "file:///android_asset/image/ae5/ae5 (10).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_3",
+   "image": "file:///android_asset/image/ae5/ae5 (11).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_4",
+   "image": "file:///android_asset/image/ae5/ae5 (12).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_5",
+   "image": "file:///android_asset/image/ae5/ae5 (13).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_6",
+   "image": "file:///android_asset/image/ae5/ae5 (14).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_7",
+   "image": "file:///android_asset/image/ae5/ae5 (15).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_8",
+   "image": "file:///android_asset/image/ae5/ae5 (16).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_9",
+   "image": "file:///android_asset/image/ae5/ae5 (17).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_10",
+   "image": "file:///android_asset/image/ae5/ae5 (18).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_11",
+   "image": "file:///android_asset/image/ae5/ae5 (19).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_12",
+   "image": "file:///android_asset/image/ae5/ae5 (2).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_13",
+   "image": "file:///android_asset/image/ae5/ae5 (20).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_14",
+   "image": "file:///android_asset/image/ae5/ae5 (21).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_15",
+   "image": "file:///android_asset/image/ae5/ae5 (22).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_16",
+   "image": "file:///android_asset/image/ae5/ae5 (23).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_17",
+   "image": "file:///android_asset/image/ae5/ae5 (24).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_18",
+   "image": "file:///android_asset/image/ae5/ae5 (25).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_19",
+   "image": "file:///android_asset/image/ae5/ae5 (26).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_20",
+   "image": "file:///android_asset/image/ae5/ae5 (27).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_21",
+   "image": "file:///android_asset/image/ae5/ae5 (28).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_22",
+   "image": "file:///android_asset/image/ae5/ae5 (29).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_23",
+   "image": "file:///android_asset/image/ae5/ae5 (3).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_24",
+   "image": "file:///android_asset/image/ae5/ae5 (30).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_25",
+   "image": "file:///android_asset/image/ae5/ae5 (31).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_26",
+   "image": "file:///android_asset/image/ae5/ae5 (32).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_27",
+   "image": "file:///android_asset/image/ae5/ae5 (33).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_28",
+   "image": "file:///android_asset/image/ae5/ae5 (34).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_29",
+   "image": "file:///android_asset/image/ae5/ae5 (4).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_30",
+   "image": "file:///android_asset/image/ae5/ae5 (5).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_31",
+   "image": "file:///android_asset/image/ae5/ae5 (6).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_32",
+   "image": "file:///android_asset/image/ae5/ae5 (7).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_33",
+   "image": "file:///android_asset/image/ae5/ae5 (8).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 5",
+   "title": "Preppy Aesthetic5_34",
+   "image": "file:///android_asset/image/ae5/ae5 (9).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_1",
+   "image": "file:///android_asset/image/ae6/ae6 (1).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_2",
+   "image": "file:///android_asset/image/ae6/ae6 (10).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_3",
+   "image": "file:///android_asset/image/ae6/ae6 (11).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_4",
+   "image": "file:///android_asset/image/ae6/ae6 (12).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_5",
+   "image": "file:///android_asset/image/ae6/ae6 (13).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_6",
+   "image": "file:///android_asset/image/ae6/ae6 (14).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_7",
+   "image": "file:///android_asset/image/ae6/ae6 (15).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_8",
+   "image": "file:///android_asset/image/ae6/ae6 (16).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_9",
+   "image": "file:///android_asset/image/ae6/ae6 (17).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_10",
+   "image": "file:///android_asset/image/ae6/ae6 (18).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_11",
+   "image": "file:///android_asset/image/ae6/ae6 (19).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_12",
+   "image": "file:///android_asset/image/ae6/ae6 (2).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_13",
+   "image": "file:///android_asset/image/ae6/ae6 (20).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_14",
+   "image": "file:///android_asset/image/ae6/ae6 (21).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_15",
+   "image": "file:///android_asset/image/ae6/ae6 (22).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_16",
+   "image": "file:///android_asset/image/ae6/ae6 (23).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_17",
+   "image": "file:///android_asset/image/ae6/ae6 (24).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_18",
+   "image": "file:///android_asset/image/ae6/ae6 (25).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_19",
+   "image": "file:///android_asset/image/ae6/ae6 (26).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_20",
+   "image": "file:///android_asset/image/ae6/ae6 (27).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_21",
+   "image": "file:///android_asset/image/ae6/ae6 (28).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_22",
+   "image": "file:///android_asset/image/ae6/ae6 (29).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_23",
+   "image": "file:///android_asset/image/ae6/ae6 (3).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_24",
+   "image": "file:///android_asset/image/ae6/ae6 (30).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_25",
+   "image": "file:///android_asset/image/ae6/ae6 (31).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_26",
+   "image": "file:///android_asset/image/ae6/ae6 (32).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_27",
+   "image": "file:///android_asset/image/ae6/ae6 (33).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_28",
+   "image": "file:///android_asset/image/ae6/ae6 (34).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_29",
+   "image": "file:///android_asset/image/ae6/ae6 (35).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_30",
+   "image": "file:///android_asset/image/ae6/ae6 (36).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_31",
+   "image": "file:///android_asset/image/ae6/ae6 (37).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_32",
+   "image": "file:///android_asset/image/ae6/ae6 (38).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_33",
+   "image": "file:///android_asset/image/ae6/ae6 (39).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_34",
+   "image": "file:///android_asset/image/ae6/ae6 (4).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_35",
+   "image": "file:///android_asset/image/ae6/ae6 (40).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_36",
+   "image": "file:///android_asset/image/ae6/ae6 (41).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_37",
+   "image": "file:///android_asset/image/ae6/ae6 (42).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_38",
+   "image": "file:///android_asset/image/ae6/ae6 (43).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_39",
+   "image": "file:///android_asset/image/ae6/ae6 (44).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_40",
+   "image": "file:///android_asset/image/ae6/ae6 (45).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_41",
+   "image": "file:///android_asset/image/ae6/ae6 (46).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_42",
+   "image": "file:///android_asset/image/ae6/ae6 (47).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_43",
+   "image": "file:///android_asset/image/ae6/ae6 (48).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_44",
+   "image": "file:///android_asset/image/ae6/ae6 (49).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_45",
+   "image": "file:///android_asset/image/ae6/ae6 (5).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_46",
+   "image": "file:///android_asset/image/ae6/ae6 (50).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_47",
+   "image": "file:///android_asset/image/ae6/ae6 (51).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_48",
+   "image": "file:///android_asset/image/ae6/ae6 (52).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_49",
+   "image": "file:///android_asset/image/ae6/ae6 (53).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_50",
+   "image": "file:///android_asset/image/ae6/ae6 (54).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_51",
+   "image": "file:///android_asset/image/ae6/ae6 (55).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_52",
+   "image": "file:///android_asset/image/ae6/ae6 (56).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_53",
+   "image": "file:///android_asset/image/ae6/ae6 (57).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_54",
+   "image": "file:///android_asset/image/ae6/ae6 (58).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_55",
+   "image": "file:///android_asset/image/ae6/ae6 (59).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_56",
+   "image": "file:///android_asset/image/ae6/ae6 (6).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_57",
+   "image": "file:///android_asset/image/ae6/ae6 (60).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_58",
+   "image": "file:///android_asset/image/ae6/ae6 (61).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_59",
+   "image": "file:///android_asset/image/ae6/ae6 (62).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_60",
+   "image": "file:///android_asset/image/ae6/ae6 (63).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_61",
+   "image": "file:///android_asset/image/ae6/ae6 (64).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_62",
+   "image": "file:///android_asset/image/ae6/ae6 (65).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_63",
+   "image": "file:///android_asset/image/ae6/ae6 (66).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_64",
+   "image": "file:///android_asset/image/ae6/ae6 (67).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_65",
+   "image": "file:///android_asset/image/ae6/ae6 (68).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_66",
+   "image": "file:///android_asset/image/ae6/ae6 (7).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_67",
+   "image": "file:///android_asset/image/ae6/ae6 (8).jpg"
+ },
+ {
+   "id": "",
+   "name_category": "Preppy Aesthetic 6",
+   "title": "Preppy Aesthetic6_68",
+   "image": "file:///android_asset/image/ae6/ae6 (9).jpg"
  }
 
     
