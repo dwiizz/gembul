@@ -55,43 +55,44 @@
     {
       "id": 1,
       "name_category": "Preppy Aesthetic",
-      "image": "file:///android_asset/image/blue7/blue7 (7).jpg"
+      "image": "file:///android_asset/image/ae/ae (19).jpg"
 
     },
     {
       "id": 2,
       "name_category": "Preppy Aesthetic 1",
-      "image": "file:///android_asset/image/blue/blue (3).jpg"
+      "image": "file:///android_asset/image/ae1/ae1 (32).jpg"
 
     },
     {
       "id": 3,
       "name_category": "Preppy Aesthetic 2",
-      "image": "file:///android_asset/image/blue1/blue1 (11).jpg"
+      "image": "file:///android_asset/image/ae2/ae2 (26).jpg"
 
     },
     {
       "id": 4,
       "name_category": "Preppy Aesthetic 3",
-      "image": "file:///android_asset/image/blue2/blue2 (15).jpg"
+      "image": "file:///android_asset/image/ae2/ae2 (9).jpg"
 
     },
     {
       "id": 5,
       "name_category": "Preppy Aesthetic 4",
-      "image": "file:///android_asset/image/blue3/blue3 (5).jpg"
+      "image": "file:///android_asset/image/ae4/ae4 (7).jpg"
 
     },
      {
       "id": 6,
       "name_category": "Preppy Aesthetic 5",
-      "image": "file:///android_asset/image/blue4/blue4 (17).jpg"
+      "image": "file:///android_asset/image/ae5/ae5 (16).jpg"
 
     },
      {
       "id": 7,
       "name_category": "Preppy Aesthetic 6",
-      "image": "file:///android_asset/image/blue5/blue5 (2).jpg"
+      "image": "file:///android_asset/image/ae6/ae6 (38).jpg
+"
 
     }
     
