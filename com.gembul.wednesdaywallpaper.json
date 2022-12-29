@@ -55,31 +55,31 @@
     {
       "id": 1,
       "name_category": "Wednesday",
-      "image": "file:///android_asset/image/blue7/blue7 (7).jpg"
+      "image": "ffile:///android_asset/image/wednesday/wednesday (11).jpg"
 
     },
     {
       "id": 2,
       "name_category": "Fun Art",
-      "image": "file:///android_asset/image/blue/blue (3).jpg"
+      "image": "file:///android_asset/image/funart/funart (2).jpg"
 
     },
     {
       "id": 3,
       "name_category": "Photo",
-      "image": "file:///android_asset/image/blue1/blue1 (11).jpg"
+      "image": "file:///android_asset/image/photo/photo (17).jpg"
 
     },
     {
       "id": 4,
       "name_category": "Monochrome",
-      "image": "file:///android_asset/image/blue2/blue2 (15).jpg"
+      "image": "file:///android_asset/image/monochrom/monochrom (1).jpg"
 
     },
     {
       "id": 5,
       "name_category": "Display",
-      "image": "file:///android_asset/image/blue3/blue3 (5).jpg"
+      "image": "file:///android_asset/image/display/display (8).jpg"
 
     }
   ],
