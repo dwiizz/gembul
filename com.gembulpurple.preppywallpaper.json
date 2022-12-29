@@ -1,0 +1,120 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "-ADMOB",
+      "select_backup_ads":"-APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"-ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"PL350911184828",
+      "backup_ads_banner":"PL350911184828",
+      "backup_ads_intertitial":"PL350911184828",
+      "backup_ads_rewards":"PL350911184828",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"PL350911184828",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"0",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"107355779",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.gembul.pastelwallpaper"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.gembul.pastelwallpaper"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.gembul.pastelwallpaper"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Aesthetic Colorfull",
+      "image": "file:///android_asset/image/ae/ae (19).jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Aesthetic Black",
+      "image": "file:///android_asset/image/ae1/ae1 (32).jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Purple Aesthetic",
+      "image": "file:///android_asset/image/ae2/ae2 (1).jpg"
+
+    },
+    {
+      "id": 4,
+      "name_category": "Mix Aesthetic",
+      "image": "file:///android_asset/image/ae2/ae2 (9).jpg"
+
+    },
+    {
+      "id": 5,
+      "name_category": "Pastel Pink",
+      "image": "file:///android_asset/image/ae4/ae4 (14).jpg"
+
+    },
+     {
+      "id": 6,
+      "name_category": "Cute",
+      "image": "file:///android_asset/image/ae5/ae5 (16).jpg"
+
+    },
+     {
+      "id": 7,
+      "name_category": "Preppy Aesthetic 6",
+      "image": "file:///android_asset/image/ae6/ae6 (55).jpg"
+
+    }
+    
+  ],
+
+  "Data":
+  [
+   
+    
+ {
+   "id": 181,
+   "name_category": "Purple Aesthetic",
+   "title": "Aesthetic Purple1",
+   "image": "http://archive.org/download/a-4-3/a4%20%281%29.jpg"
+ },
+    
+    {
+   "id": 180,
+   "name_category": "Aesthetic Colorfull",
+   "title": "Aesthetic Colorfull85",
+   "image": "file:///android_asset/image/a5/a5 (9).jpg"
+ }
+
+    
+     ]
+}
