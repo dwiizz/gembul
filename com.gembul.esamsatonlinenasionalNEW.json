@@ -107,6 +107,7 @@
      
 
  
+
  {
    "id": 1,
    "name_category": "Informasi",
@@ -188,6 +189,22 @@
    "link": "https://sambara.puslia.jabarprov.go.id/sambara_v2/"
  },
  {
+   "id": 6,
+   "name_category": "Kode Bayar",
+   "title": "JAWA BARAT",
+   "image": "file:///android_asset/image/pjk.png",
+   "description": "Untuk mendapatkan KODE BAYAR klik Disini",
+   "link": "https://sambara.puslia.jabarprov.go.id/sambara_v2/"
+ },
+ {
+   "id": 7,
+   "name_category": "Cetak",
+   "title": "JAWA BARAT",
+   "image": "file:///android_asset/image/pjk.png",
+   "description": "Untuk Cetak E-TBPKB Klik Disini",
+   "link": "https://sambara.puslia.jabarprov.go.id/sambara_v2/landing/cekbayar"
+ },
+ {
    "id": 10,
    "name_category": "Pajak",
    "title": "DKI JAKARTA",
@@ -266,6 +283,14 @@
    "image": "file:///android_asset/image/pjk.png",
    "description": "Cek Pajak Kendaraan Provinsi KEPULAUAN RIAU",
    "link": "http://203.130.248.194:81/info/"
+ },
+ {
+   "id": 14,
+   "name_category": "Kode Bayar",
+   "title": "KEPULAUAN RIAU",
+   "image": "file:///android_asset/image/pjk.png",
+   "description": "Untuk mendapatkan KODE BAYAR klik Disini",
+   "link": "http://dispenda.kepriprov.go.id/#esamsat"
  },
  {
    "id": 20,
@@ -371,6 +396,7 @@
    "description": "Cek Pajak Kendaraan Provinsi PAPUA",
    "link": "http://180.250.219.60:81/cekpajak/"
  }
+
 
 
   ]
