@@ -78,22 +78,22 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Playstore",
+      "name_category": "Informasi",
       "image": "file:///android_asset/image/image1.png"
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
+      "name_category": "Petunjuk",
       "image": "file:///android_asset/image/image2.webp"
     },
     {
       "id": 3,
-      "name_category": "Reskin",
+      "name_category": "Pajak",
       "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
     }
   ],
   "Data": [
-     {
+      {
    "id": 1,
    "name_category": "Informasi",
    "title": "Informasi Pemutihan Terbaru 2023",
@@ -109,21 +109,21 @@
    "description": "Silakan Dibaca Sebelum Menggunakan Aplikasi Ini",
    "link": "file:///android_asset/syarat.html"
  },
-    {
-      "id": 3,
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
-    },
-    {
-      "id": 4,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
-    }
+ {
+   "id": 3,
+   "name_category": "Petunjuk",
+   "title": "Cara Pengisian NOPOL",
+   "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+   "description": "Pengisian NOPOL Kendaraan Harus MENGGUNAKAN HURUF BESAR.",
+   "link": ""
+ },
+ {
+   "id": 4,
+   "name_category": "Pajak",
+   "title": "ACEH",
+   "image": "https://dishub.acehprov.go.id/wp-content/uploads/2019/02/PEMDA.png",
+   "description": "Cek Pajak Kendaraan Provinsi ACEH",
+   "link": "https://esamsat.acehprov.go.id/"
+ }
   ]
 }
