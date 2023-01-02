@@ -96,10 +96,10 @@
     {
       "id": 1,
       "name_category": "Playstore",
-      "title": "Cara mengisi Form Data Safety",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
-      "link": "file:///android_asset/guide/guide1.html"
+      "title": "Informasi Pemutihan Terbaru 2023",
+      "image": "https://www.otomotifo.com/wp-content/uploads/2020/02/Syarat-Pemutihan-Pajak-Kendaraan.jpg",
+      "description": "Pemutihan pajak kendaraan di setiap daerah berbeda-beda, tergantung kebijaksanaan masing-masing Provinsi. Biasanya pemutihan dilakukan pada awal tahun atau akhir tahun. Berikut beberapa wilayah yang sedang melaksanakan pemutihan :",
+      "link": "https://samolnas.wordpress.com/?s=pemutihan"
     },
     {
       "id": 2,
