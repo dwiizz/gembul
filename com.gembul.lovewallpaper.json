@@ -136,33 +136,10 @@
       "image": "file:///android_asset/image/ae2/ae2 (9).jpg"
 
     },
-    {
+    
+     {
       "id": 5,
-      "name_category": "Nature",
-      "image": "file:///android_asset/image/ae4/ae4 (14).jpg"
-
-    },
-     {
-      "id": 6,
-      "name_category": "Strawberry",
-      "image": "file:///android_asset/image/ae5/ae5 (16).jpg"
-
-    },
-     {
-      "id": 7,
-      "name_category": "Girly",
-      "image": "file:///android_asset/image/ae6/ae6 (55).jpg"
-
-    },
-    {
-      "id": 8,
-      "name_category": "Double",
-      "image": "file:///android_asset/image/ae5/ae5 (16).jpg"
-
-    },
-     {
-      "id": 9,
-      "name_category": "Hero",
+      "name_category": "Together",
       "image": "file:///android_asset/image/ae6/ae6 (55).jpg"
 
     }
@@ -452,6 +429,198 @@
    "name_category": "Romance",
    "title": "Romance 47",
    "image": "http://archive.org/download/file_1664622833116/file_1664622832191.jpg"
+ },
+     {
+   "id": 1,
+   "name_category": "Together",
+   "title": "Together 1",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622878701.jpg"
+ },
+ {
+   "id": 2,
+   "name_category": "Together",
+   "title": "Together 2",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622878810.jpg"
+ },
+ {
+   "id": 3,
+   "name_category": "Together",
+   "title": "Together 3",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622878908.jpg"
+ },
+ {
+   "id": 4,
+   "name_category": "Together",
+   "title": "Together 4",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622879030.jpg"
+ },
+ {
+   "id": 5,
+   "name_category": "Together",
+   "title": "Together 5",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622879170.jpg"
+ },
+ {
+   "id": 6,
+   "name_category": "Together",
+   "title": "Together 6",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622879324.jpg"
+ },
+ {
+   "id": 7,
+   "name_category": "Together",
+   "title": "Together 7",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622879478.jpg"
+ },
+ {
+   "id": 8,
+   "name_category": "Together",
+   "title": "Together 8",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622879642.jpg"
+ },
+ {
+   "id": 9,
+   "name_category": "Together",
+   "title": "Together 9",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622879827.jpg"
+ },
+ {
+   "id": 10,
+   "name_category": "Together",
+   "title": "Together 10",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622879982.jpg"
+ },
+ {
+   "id": 11,
+   "name_category": "Together",
+   "title": "Together 11",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622880146.jpg"
+ },
+ {
+   "id": 12,
+   "name_category": "Together",
+   "title": "Together 12",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622880278.jpg"
+ },
+ {
+   "id": 13,
+   "name_category": "Together",
+   "title": "Together 13",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622880381.jpg"
+ },
+ {
+   "id": 14,
+   "name_category": "Together",
+   "title": "Together 14",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622880532.jpg"
+ },
+ {
+   "id": 15,
+   "name_category": "Together",
+   "title": "Together 15",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622880649.jpg"
+ },
+ {
+   "id": 16,
+   "name_category": "Together",
+   "title": "Together 16",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622880767.jpg"
+ },
+ {
+   "id": 17,
+   "name_category": "Together",
+   "title": "Together 17",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622880859.jpg"
+ },
+ {
+   "id": 18,
+   "name_category": "Together",
+   "title": "Together 18",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622880982.jpg"
+ },
+ {
+   "id": 19,
+   "name_category": "Together",
+   "title": "Together 19",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622881097.jpg"
+ },
+ {
+   "id": 20,
+   "name_category": "Together",
+   "title": "Together 20",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622881335.jpg"
+ },
+ {
+   "id": 21,
+   "name_category": "Together",
+   "title": "Together 21",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622881491.jpg"
+ },
+ {
+   "id": 22,
+   "name_category": "Together",
+   "title": "Together 22",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622881603.jpg"
+ },
+ {
+   "id": 23,
+   "name_category": "Together",
+   "title": "Together 23",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622881695.jpg"
+ },
+ {
+   "id": 24,
+   "name_category": "Together",
+   "title": "Together 24",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622881818.jpg"
+ },
+ {
+   "id": 25,
+   "name_category": "Together",
+   "title": "Together 25",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622881956.jpg"
+ },
+ {
+   "id": 26,
+   "name_category": "Together",
+   "title": "Together 26",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622882102.jpg"
+ },
+ {
+   "id": 27,
+   "name_category": "Together",
+   "title": "Together 27",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622882204.jpg"
+ },
+ {
+   "id": 28,
+   "name_category": "Together",
+   "title": "Together 28",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622882312.jpg"
+ },
+ {
+   "id": 29,
+   "name_category": "Together",
+   "title": "Together 29",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622882440.jpg"
+ },
+ {
+   "id": 30,
+   "name_category": "Together",
+   "title": "Together 30",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622882539.jpg"
+ },
+ {
+   "id": 31,
+   "name_category": "Together",
+   "title": "Together 31",
+   "image": "http://archive.org/download/file_1664622879324/file_1664622882641.jpg"
+ },
+ {
+   "id": 32,
+   "name_category": "Together",
+   "title": "Together 32",
+   "image": "http://archive.org/download/file_1664622879324/file_1664623182820.jpg"
  },
  {
    "id": 48,
