@@ -114,7 +114,7 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Patern",
+      "name_category": "Valentine",
       "image": "file:///android_asset/image/ae/ae (19).jpg"
 
     },
@@ -171,6 +171,48 @@
 
   "Data":
   [
+    {
+   "id": 64,
+   "name_category": "Valentine",
+   "title": "Valentine 64",
+   "image": "http://archive.org/download/val-131/val%20%28156%29.jpg"
+ },
+ {
+   "id": 65,
+   "name_category": "Valentine",
+   "title": "Valentine 65",
+   "image": "http://archive.org/download/val-131/val%20%28157%29.jpg"
+ },
+ {
+   "id": 66,
+   "name_category": "Valentine",
+   "title": "Valentine 66",
+   "image": "http://archive.org/download/val-131/val%20%28158%29.jpg"
+ },
+ {
+   "id": 67,
+   "name_category": "Valentine",
+   "title": "Valentine 67",
+   "image": "http://archive.org/download/val-131/val%20%28159%29.jpg"
+ },
+ {
+   "id": 68,
+   "name_category": "Valentine",
+   "title": "Valentine 68",
+   "image": "http://archive.org/download/val-131/val%20%2816%29.jpg"
+ },
+ {
+   "id": 69,
+   "name_category": "Valentine",
+   "title": "Valentine 69",
+   "image": "http://archive.org/download/val-131/val%20%28160%29.jpg"
+ },
+ {
+   "id": 70,
+   "name_category": "Valentine",
+   "title": "Valentine 70",
+   "image": "http://archive.org/download/val-131/val%20%28161%29.jpg"
+ },
    {
    "id": 1,
    "name_category": "Valentine Flowers",
@@ -363,6 +405,403 @@
    "name_category": "Valentine 1",
    "title": "Valentine 1 5",
    "image": "https://s3files.mobeasy.com/static/u/1094/file-1094-364157.jpg"
+ },
+     {
+   "id": 1,
+   "name_category": "Valentine",
+   "title": "Valentine 1",
+   "image": "http://archive.org/download/val-131/val%20%281%29.jpg"
+ },
+ {
+   "id": 2,
+   "name_category": "Valentine",
+   "title": "Valentine 2",
+   "image": "http://archive.org/download/val-131/val%20%2810%29.jpg"
+ },
+ {
+   "id": 3,
+   "name_category": "Valentine",
+   "title": "Valentine 3",
+   "image": "http://archive.org/download/val-131/val%20%28100%29.jpg"
+ },
+ {
+   "id": 4,
+   "name_category": "Valentine",
+   "title": "Valentine 4",
+   "image": "http://archive.org/download/val-131/val%20%28101%29.jpg"
+ },
+ {
+   "id": 5,
+   "name_category": "Valentine",
+   "title": "Valentine 5",
+   "image": "http://archive.org/download/val-131/val%20%28102%29.jpg"
+ },
+ {
+   "id": 6,
+   "name_category": "Valentine",
+   "title": "Valentine 6",
+   "image": "http://archive.org/download/val-131/val%20%28103%29.jpg"
+ },
+ {
+   "id": 7,
+   "name_category": "Valentine",
+   "title": "Valentine 7",
+   "image": "http://archive.org/download/val-131/val%20%28104%29.jpg"
+ },
+ {
+   "id": 8,
+   "name_category": "Valentine",
+   "title": "Valentine 8",
+   "image": "http://archive.org/download/val-131/val%20%28105%29.jpg"
+ },
+ {
+   "id": 9,
+   "name_category": "Valentine",
+   "title": "Valentine 9",
+   "image": "http://archive.org/download/val-131/val%20%28106%29.jpg"
+ },
+ {
+   "id": 10,
+   "name_category": "Valentine",
+   "title": "Valentine 10",
+   "image": "http://archive.org/download/val-131/val%20%28107%29.jpg"
+ },
+ {
+   "id": 11,
+   "name_category": "Valentine",
+   "title": "Valentine 11",
+   "image": "http://archive.org/download/val-131/val%20%28108%29.jpg"
+ },
+ {
+   "id": 12,
+   "name_category": "Valentine",
+   "title": "Valentine 12",
+   "image": "http://archive.org/download/val-131/val%20%28109%29.jpg"
+ },
+ {
+   "id": 13,
+   "name_category": "Valentine",
+   "title": "Valentine 13",
+   "image": "http://archive.org/download/val-131/val%20%2811%29.jpg"
+ },
+ {
+   "id": 14,
+   "name_category": "Valentine",
+   "title": "Valentine 14",
+   "image": "http://archive.org/download/val-131/val%20%28110%29.jpg"
+ },
+ {
+   "id": 15,
+   "name_category": "Valentine",
+   "title": "Valentine 15",
+   "image": "http://archive.org/download/val-131/val%20%28111%29.jpg"
+ },
+ {
+   "id": 16,
+   "name_category": "Valentine",
+   "title": "Valentine 16",
+   "image": "http://archive.org/download/val-131/val%20%28112%29.jpg"
+ },
+ {
+   "id": 17,
+   "name_category": "Valentine",
+   "title": "Valentine 17",
+   "image": "http://archive.org/download/val-131/val%20%28113%29.jpg"
+ },
+ {
+   "id": 18,
+   "name_category": "Valentine",
+   "title": "Valentine 18",
+   "image": "http://archive.org/download/val-131/val%20%28114%29.jpg"
+ },
+ {
+   "id": 19,
+   "name_category": "Valentine",
+   "title": "Valentine 19",
+   "image": "http://archive.org/download/val-131/val%20%28115%29.jpg"
+ },
+ {
+   "id": 20,
+   "name_category": "Valentine",
+   "title": "Valentine 20",
+   "image": "http://archive.org/download/val-131/val%20%28116%29.jpg"
+ },
+ {
+   "id": 21,
+   "name_category": "Valentine",
+   "title": "Valentine 21",
+   "image": "http://archive.org/download/val-131/val%20%28117%29.jpg"
+ },
+ {
+   "id": 22,
+   "name_category": "Valentine",
+   "title": "Valentine 22",
+   "image": "http://archive.org/download/val-131/val%20%28118%29.jpg"
+ },
+ {
+   "id": 23,
+   "name_category": "Valentine",
+   "title": "Valentine 23",
+   "image": "http://archive.org/download/val-131/val%20%28119%29.jpg"
+ },
+ {
+   "id": 24,
+   "name_category": "Valentine",
+   "title": "Valentine 24",
+   "image": "http://archive.org/download/val-131/val%20%2812%29.jpg"
+ },
+ {
+   "id": 25,
+   "name_category": "Valentine",
+   "title": "Valentine 25",
+   "image": "http://archive.org/download/val-131/val%20%28120%29.jpg"
+ },
+ {
+   "id": 26,
+   "name_category": "Valentine",
+   "title": "Valentine 26",
+   "image": "http://archive.org/download/val-131/val%20%28121%29.jpg"
+ },
+ {
+   "id": 27,
+   "name_category": "Valentine",
+   "title": "Valentine 27",
+   "image": "http://archive.org/download/val-131/val%20%28122%29.jpg"
+ },
+ {
+   "id": 28,
+   "name_category": "Valentine",
+   "title": "Valentine 28",
+   "image": "http://archive.org/download/val-131/val%20%28123%29.jpg"
+ },
+ {
+   "id": 29,
+   "name_category": "Valentine",
+   "title": "Valentine 29",
+   "image": "http://archive.org/download/val-131/val%20%28124%29.jpg"
+ },
+ {
+   "id": 30,
+   "name_category": "Valentine",
+   "title": "Valentine 30",
+   "image": "http://archive.org/download/val-131/val%20%28125%29.jpg"
+ },
+ {
+   "id": 31,
+   "name_category": "Valentine",
+   "title": "Valentine 31",
+   "image": "http://archive.org/download/val-131/val%20%28126%29.jpg"
+ },
+ {
+   "id": 32,
+   "name_category": "Valentine",
+   "title": "Valentine 32",
+   "image": "http://archive.org/download/val-131/val%20%28127%29.jpg"
+ },
+ {
+   "id": 33,
+   "name_category": "Valentine",
+   "title": "Valentine 33",
+   "image": "http://archive.org/download/val-131/val%20%28128%29.jpg"
+ },
+ {
+   "id": 34,
+   "name_category": "Valentine",
+   "title": "Valentine 34",
+   "image": "http://archive.org/download/val-131/val%20%28129%29.jpg"
+ },
+ {
+   "id": 35,
+   "name_category": "Valentine",
+   "title": "Valentine 35",
+   "image": "http://archive.org/download/val-131/val%20%2813%29.jpg"
+ },
+ {
+   "id": 36,
+   "name_category": "Valentine",
+   "title": "Valentine 36",
+   "image": "http://archive.org/download/val-131/val%20%28130%29.jpg"
+ },
+ {
+   "id": 37,
+   "name_category": "Valentine",
+   "title": "Valentine 37",
+   "image": "http://archive.org/download/val-131/val%20%28131%29.jpg"
+ },
+ {
+   "id": 38,
+   "name_category": "Valentine",
+   "title": "Valentine 38",
+   "image": "http://archive.org/download/val-131/val%20%28132%29.jpg"
+ },
+ {
+   "id": 39,
+   "name_category": "Valentine",
+   "title": "Valentine 39",
+   "image": "http://archive.org/download/val-131/val%20%28133%29.jpg"
+ },
+ {
+   "id": 40,
+   "name_category": "Valentine",
+   "title": "Valentine 40",
+   "image": "http://archive.org/download/val-131/val%20%28134%29.jpg"
+ },
+ {
+   "id": 41,
+   "name_category": "Valentine",
+   "title": "Valentine 41",
+   "image": "http://archive.org/download/val-131/val%20%28135%29.jpg"
+ },
+ {
+   "id": 42,
+   "name_category": "Valentine",
+   "title": "Valentine 42",
+   "image": "http://archive.org/download/val-131/val%20%28136%29.jpg"
+ },
+ {
+   "id": 43,
+   "name_category": "Valentine",
+   "title": "Valentine 43",
+   "image": "http://archive.org/download/val-131/val%20%28137%29.jpg"
+ },
+ {
+   "id": 44,
+   "name_category": "Valentine",
+   "title": "Valentine 44",
+   "image": "http://archive.org/download/val-131/val%20%28138%29.jpg"
+ },
+ {
+   "id": 45,
+   "name_category": "Valentine",
+   "title": "Valentine 45",
+   "image": "http://archive.org/download/val-131/val%20%28139%29.jpg"
+ },
+ {
+   "id": 46,
+   "name_category": "Valentine",
+   "title": "Valentine 46",
+   "image": "http://archive.org/download/val-131/val%20%2814%29.jpg"
+ },
+ {
+   "id": 47,
+   "name_category": "Valentine",
+   "title": "Valentine 47",
+   "image": "http://archive.org/download/val-131/val%20%28140%29.jpg"
+ },
+ {
+   "id": 48,
+   "name_category": "Valentine",
+   "title": "Valentine 48",
+   "image": "http://archive.org/download/val-131/val%20%28141%29.jpg"
+ },
+ {
+   "id": 49,
+   "name_category": "Valentine",
+   "title": "Valentine 49",
+   "image": "http://archive.org/download/val-131/val%20%28142%29.jpg"
+ },
+ {
+   "id": 50,
+   "name_category": "Valentine",
+   "title": "Valentine 50",
+   "image": "http://archive.org/download/val-131/val%20%28143%29.jpg"
+ },
+ {
+   "id": 51,
+   "name_category": "Valentine",
+   "title": "Valentine 51",
+   "image": "http://archive.org/download/val-131/val%20%28144%29.jpg"
+ },
+ {
+   "id": 52,
+   "name_category": "Valentine",
+   "title": "Valentine 52",
+   "image": "http://archive.org/download/val-131/val%20%28145%29.jpg"
+ },
+ {
+   "id": 53,
+   "name_category": "Valentine",
+   "title": "Valentine 53",
+   "image": "http://archive.org/download/val-131/val%20%28146%29.jpg"
+ },
+ {
+   "id": 54,
+   "name_category": "Valentine",
+   "title": "Valentine 54",
+   "image": "http://archive.org/download/val-131/val%20%28147%29.jpg"
+ },
+ {
+   "id": 55,
+   "name_category": "Valentine",
+   "title": "Valentine 55",
+   "image": "http://archive.org/download/val-131/val%20%28148%29.jpg"
+ },
+ {
+   "id": 56,
+   "name_category": "Valentine",
+   "title": "Valentine 56",
+   "image": "http://archive.org/download/val-131/val%20%28149%29.jpg"
+ },
+ {
+   "id": 57,
+   "name_category": "Valentine",
+   "title": "Valentine 57",
+   "image": "http://archive.org/download/val-131/val%20%2815%29.jpg"
+ },
+ {
+   "id": 58,
+   "name_category": "Valentine",
+   "title": "Valentine 58",
+   "image": "http://archive.org/download/val-131/val%20%28150%29.jpg"
+ },
+ {
+   "id": 59,
+   "name_category": "Valentine",
+   "title": "Valentine 59",
+   "image": "http://archive.org/download/val-131/val%20%28151%29.jpg"
+ },
+ {
+   "id": 60,
+   "name_category": "Valentine",
+   "title": "Valentine 60",
+   "image": "http://archive.org/download/val-131/val%20%28152%29.jpg"
+ },
+ {
+   "id": 61,
+   "name_category": "Valentine",
+   "title": "Valentine 61",
+   "image": "http://archive.org/download/val-131/val%20%28153%29.jpg"
+ },
+ {
+   "id": 62,
+   "name_category": "Valentine",
+   "title": "Valentine 62",
+   "image": "http://archive.org/download/val-131/val%20%28154%29.jpg"
+ },
+ {
+   "id": 63,
+   "name_category": "Valentine",
+   "title": "Valentine 63",
+   "image": "http://archive.org/download/val-131/val%20%28155%29.jpg"
+ },
+ 
+ {
+   "id": 71,
+   "name_category": "Valentine",
+   "title": "Valentine 71",
+   "image": "http://archive.org/download/val-131/val%20%28162%29.jpg"
+ },
+ {
+   "id": 72,
+   "name_category": "Valentine",
+   "title": "Valentine 72",
+   "image": "http://archive.org/download/val-131/val%20%28163%29.jpg"
+ },
+ {
+   "id": 73,
+   "name_category": "Valentine",
+   "title": "Valentine 73",
+   "image": "http://archive.org/download/val-131/val%20%28164%29.jpg"
  },
  {
    "id": 6,
