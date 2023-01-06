@@ -114,7 +114,7 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Patern",
+      "name_category": "Romance",
       "image": "file:///android_asset/image/ae/ae (19).jpg"
 
     },
@@ -171,7 +171,378 @@
 
   "Data":
   [
-   
+    {
+   "id": 1,
+   "name_category": "Romance",
+   "title": "Romance 1",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622776371.jpg"
+ },
+ {
+   "id": 2,
+   "name_category": "Romance",
+   "title": "Romance 2",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622776514.jpg"
+ },
+ {
+   "id": 3,
+   "name_category": "Romance",
+   "title": "Romance 3",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622776622.jpg"
+ },
+ {
+   "id": 4,
+   "name_category": "Romance",
+   "title": "Romance 4",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622776747.jpg"
+ },
+ {
+   "id": 5,
+   "name_category": "Romance",
+   "title": "Romance 5",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622776856.jpg"
+ },
+ {
+   "id": 6,
+   "name_category": "Romance",
+   "title": "Romance 6",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622776982.jpg"
+ },
+ {
+   "id": 7,
+   "name_category": "Romance",
+   "title": "Romance 7",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622777111.jpg"
+ },
+ {
+   "id": 8,
+   "name_category": "Romance",
+   "title": "Romance 8",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622777286.jpg"
+ },
+ {
+   "id": 9,
+   "name_category": "Romance",
+   "title": "Romance 9",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622777423.jpg"
+ },
+ {
+   "id": 10,
+   "name_category": "Romance",
+   "title": "Romance 10",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622777547.jpg"
+ },
+ {
+   "id": 11,
+   "name_category": "Romance",
+   "title": "Romance 11",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622777713.jpg"
+ },
+ {
+   "id": 12,
+   "name_category": "Romance",
+   "title": "Romance 12",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622777818.jpg"
+ },
+ {
+   "id": 13,
+   "name_category": "Romance",
+   "title": "Romance 13",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622777940.jpg"
+ },
+ {
+   "id": 14,
+   "name_category": "Romance",
+   "title": "Romance 14",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622778128.jpg"
+ },
+ {
+   "id": 15,
+   "name_category": "Romance",
+   "title": "Romance 15",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622778270.jpg"
+ },
+ {
+   "id": 16,
+   "name_category": "Romance",
+   "title": "Romance 16",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622778373.jpg"
+ },
+ {
+   "id": 17,
+   "name_category": "Romance",
+   "title": "Romance 17",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622778498.jpg"
+ },
+ {
+   "id": 18,
+   "name_category": "Romance",
+   "title": "Romance 18",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622778588.jpg"
+ },
+ {
+   "id": 19,
+   "name_category": "Romance",
+   "title": "Romance 19",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622778678.jpg"
+ },
+ {
+   "id": 20,
+   "name_category": "Romance",
+   "title": "Romance 20",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622778780.jpg"
+ },
+ {
+   "id": 21,
+   "name_category": "Romance",
+   "title": "Romance 21",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622778875.jpg"
+ },
+ {
+   "id": 22,
+   "name_category": "Romance",
+   "title": "Romance 22",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622778961.jpg"
+ },
+ {
+   "id": 23,
+   "name_category": "Romance",
+   "title": "Romance 23",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622779150.jpg"
+ },
+ {
+   "id": 24,
+   "name_category": "Romance",
+   "title": "Romance 24",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622779245.jpg"
+ },
+ {
+   "id": 25,
+   "name_category": "Romance",
+   "title": "Romance 25",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622779419.jpg"
+ },
+ {
+   "id": 26,
+   "name_category": "Romance",
+   "title": "Romance 26",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622779559.jpg"
+ },
+ {
+   "id": 27,
+   "name_category": "Romance",
+   "title": "Romance 27",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622779654.jpg"
+ },
+ {
+   "id": 28,
+   "name_category": "Romance",
+   "title": "Romance 28",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622779767.jpg"
+ },
+ {
+   "id": 29,
+   "name_category": "Romance",
+   "title": "Romance 29",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622779919.jpg"
+ },
+ {
+   "id": 30,
+   "name_category": "Romance",
+   "title": "Romance 30",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622780030.jpg"
+ },
+ {
+   "id": 31,
+   "name_category": "Romance",
+   "title": "Romance 31",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622830365.jpg"
+ },
+ {
+   "id": 32,
+   "name_category": "Romance",
+   "title": "Romance 32",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622830467.jpg"
+ },
+ {
+   "id": 33,
+   "name_category": "Romance",
+   "title": "Romance 33",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622830579.jpg"
+ },
+ {
+   "id": 34,
+   "name_category": "Romance",
+   "title": "Romance 34",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622830747.jpg"
+ },
+ {
+   "id": 35,
+   "name_category": "Romance",
+   "title": "Romance 35",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622830852.jpg"
+ },
+ {
+   "id": 36,
+   "name_category": "Romance",
+   "title": "Romance 36",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622830952.jpg"
+ },
+ {
+   "id": 37,
+   "name_category": "Romance",
+   "title": "Romance 37",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622831053.jpg"
+ },
+ {
+   "id": 38,
+   "name_category": "Romance",
+   "title": "Romance 38",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622831140.jpg"
+ },
+ {
+   "id": 39,
+   "name_category": "Romance",
+   "title": "Romance 39",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622831256.jpg"
+ },
+ {
+   "id": 40,
+   "name_category": "Romance",
+   "title": "Romance 40",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622831393.jpg"
+ },
+ {
+   "id": 41,
+   "name_category": "Romance",
+   "title": "Romance 41",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622831503.jpg"
+ },
+ {
+   "id": 42,
+   "name_category": "Romance",
+   "title": "Romance 42",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622831619.jpg"
+ },
+ {
+   "id": 43,
+   "name_category": "Romance",
+   "title": "Romance 43",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622831728.jpg"
+ },
+ {
+   "id": 44,
+   "name_category": "Romance",
+   "title": "Romance 44",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622831867.jpg"
+ },
+ {
+   "id": 45,
+   "name_category": "Romance",
+   "title": "Romance 45",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622832028.jpg"
+ },
+ {
+   "id": 46,
+   "name_category": "Romance",
+   "title": "Romance 46",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622832108.jpg"
+ },
+ {
+   "id": 47,
+   "name_category": "Romance",
+   "title": "Romance 47",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622832191.jpg"
+ },
+ {
+   "id": 48,
+   "name_category": "Romance",
+   "title": "Romance 48",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622832333.jpg"
+ },
+ {
+   "id": 49,
+   "name_category": "Romance",
+   "title": "Romance 49",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622832469.jpg"
+ },
+ {
+   "id": 50,
+   "name_category": "Romance",
+   "title": "Romance 50",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622832599.jpg"
+ },
+ {
+   "id": 51,
+   "name_category": "Romance",
+   "title": "Romance 51",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622832714.jpg"
+ },
+ {
+   "id": 52,
+   "name_category": "Romance",
+   "title": "Romance 52",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622832797.jpg"
+ },
+ {
+   "id": 53,
+   "name_category": "Romance",
+   "title": "Romance 53",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622832888.jpg"
+ },
+ {
+   "id": 54,
+   "name_category": "Romance",
+   "title": "Romance 54",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622833001.jpg"
+ },
+ {
+   "id": 55,
+   "name_category": "Romance",
+   "title": "Romance 55",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622833116.jpg"
+ },
+ {
+   "id": 56,
+   "name_category": "Romance",
+   "title": "Romance 56",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622833280.jpg"
+ },
+ {
+   "id": 57,
+   "name_category": "Romance",
+   "title": "Romance 57",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622833369.jpg"
+ },
+ {
+   "id": 58,
+   "name_category": "Romance",
+   "title": "Romance 58",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622833470.jpg"
+ },
+ {
+   "id": 59,
+   "name_category": "Romance",
+   "title": "Romance 59",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622833559.jpg"
+ },
+ {
+   "id": 60,
+   "name_category": "Romance",
+   "title": "Romance 60",
+   "image": "http://archive.org/download/file_1664622833116/file_1664622833652.jpg"
+ },
+ {
+   "id": 61,
+   "name_category": "Romance",
+   "title": "Romance 61",
+   "image": "http://archive.org/download/file_1664622833116/file_1664623087222.jpg"
+ },
+ {
+   "id": 62,
+   "name_category": "Romance",
+   "title": "Romance 62",
+   "image": "http://archive.org/download/file_1664622833116/file_1664623129608.jpg"
+ },
  
   {
    "id": 1,
