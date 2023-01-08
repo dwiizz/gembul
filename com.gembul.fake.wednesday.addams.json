@@ -69,48 +69,41 @@
   ],
   "Item":
   [
-    {
-      "id":1,
-      "name":"Ludo King",
-      "image_url":"file:///android_asset/mine.webp",
-      "video_url":"footbal",
-      "voice_url":"dosa_membawa_keburukan.mp3"
-    },
-    {
-      "id":2,
-      "name":"Homescapes",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/home.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
-    },
-    {
-      "id":3,
-      "name":"Minecraft",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/ludo.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
-    },
-    {
-      "id":4,
-      "name":"Sonic the Hedgehog™ Classic",
-      "image_url":"file:///android_asset/sonic.webp",
-      "video_url":"footbal",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
-    },
-    {
-      "id":5,
-      "name":"War Machines: Best Free Online War & Military Game",
-      "image_url":"file:///android_asset/machine.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
-    },
-    {
-      "id":6,
-      "name":"Tank vs Helicopter. Free War Game: Massive Warfare",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/heli.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
-      "voice_url":"dosa_membawa_keburukan.mp3"
-    }
+   {
+   "id": 1,
+   "name": "Wednesday",
+   "image_url": "https://i.pinimg.com/736x/b6/6e/2f/b66e2f14b1ecaaac974501767cbe52c2.jpg",
+   "video_url": "https://v.pinimg.com/videos/mc/720p/94/25/e3/9425e32d2f9490eb7bb66f08b1494726.mp4",
+   "voice_url": ""
+ },
+ {
+   "id": 2,
+   "name": "Wednesday",
+   "image_url": "https://i.pinimg.com/736x/24/8a/47/248a47bbda186344408d3a9f47bfa62a.jpg",
+   "video_url": "https://v.pinimg.com/videos/mc/expMp4/04/74/67/047467319ca80877917248f1d3f26f5a_t4.mp4",
+   "voice_url": ""
+ },
+ {
+   "id": 3,
+   "name": "Wednesday",
+   "image_url": "https://i.pinimg.com/736x/73/6d/4b/736d4b7fa0251ab03629d0b94d1a7bad.jpg",
+   "video_url": "https://v.pinimg.com/videos/mc/expMp4/2e/c4/4e/2ec44e4cf1bcbbaca13b96d906081c5b_t4.mp4",
+   "voice_url": ""
+ },
+ {
+   "id": 4,
+   "name": "Wednesday",
+   "image_url": "https://i.pinimg.com/736x/56/80/42/56804271472a5751ae8ac65fe922ba2e.jpg",
+   "video_url": "https://v.pinimg.com/videos/mc/expMp4/57/24/af/5724af13079259747fe5a32c8b987ce4_t4.mp4",
+   "voice_url": ""
+ },
+ {
+   "id": 5,
+   "name": "Wednesday",
+   "image_url": "https://i.pinimg.com/736x/49/d8/d7/49d8d711d96ff2686c6b86127a3b0dea.jpg",
+   "video_url": "https://v.pinimg.com/videos/mc/expMp4/2b/ae/e3/2baee39b9ba90b29778c1265dd1c8fa2_t4.mp4",
+   "voice_url": ""
+ }
   ]
 
 }
