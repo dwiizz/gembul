@@ -74,70 +74,70 @@
    "name": "Wednesday",
    "image_url": "https://i.pinimg.com/736x/1b/9d/ab/1b9dab18c31d25926bebedc44b5bf398.jpg",
    "video_url": "https://v.pinimg.com/videos/mc/720p/94/25/e3/9425e32d2f9490eb7bb66f08b1494726.mp4",
-   "voice_url": "file:///android_asset/image/wed.mp3"
+   "voice_url": "file:///android_asset/wed.mp3"
  },
  {
    "id": 2,
    "name": "Wednesday",
    "image_url": "https://i.pinimg.com/736x/46/23/a9/4623a97ca29ae5b2c211be5b4bb89a10.jpg",
    "video_url": "https://v.pinimg.com/videos/mc/expMp4/04/74/67/047467319ca80877917248f1d3f26f5a_t4.mp4",
-   "voice_url": "file:///android_asset/image/wed.mp3"
+   "voice_url": "file:///android_asset/wed.mp3"
  },
  {
    "id": 3,
    "name": "Wednesday",
    "image_url": "https://i.pinimg.com/736x/9f/6c/fa/9f6cfac237026334bcbd05378bebf95e.jpg",
    "video_url": "https://v.pinimg.com/videos/mc/expMp4/2e/c4/4e/2ec44e4cf1bcbbaca13b96d906081c5b_t4.mp4",
-   "voice_url": "file:///android_asset/image/wed.mp3"
+   "voice_url": "file:///android_asset/wed.mp3"
  },
  {
    "id": 4,
    "name": "Xavier",
    "image_url": "https://i.pinimg.com/736x/5e/64/22/5e642224e355e19a80b5dacf5af4fb4e.jpg",
    "video_url": "https://v.pinimg.com/videos/mc/expMp4/57/24/af/5724af13079259747fe5a32c8b987ce4_t4.mp4",
-   "voice_url": "file:///android_asset/image/xavier.mp3"
+   "voice_url": "file:///android_asset/xavier.mp3"
  },
  {
    "id": 5,
    "name": "Wednesday",
    "image_url": "https://i.pinimg.com/736x/81/e7/ef/81e7ef8d2d1ce758b1b5bf881fe2d329.jpg",
    "video_url": "https://v.pinimg.com/videos/mc/expMp4/2b/ae/e3/2baee39b9ba90b29778c1265dd1c8fa2_t4.mp4",
-   "voice_url": "file:///android_asset/image/wed.mp3"
+   "voice_url": "file:///android_asset/wed.mp3"
  },
  {
    "id": 6,
    "name": "Wednesday",
    "image_url": "https://i.pinimg.com/736x/a3/91/c2/a391c2cd3da2e8fe47e945e70b368f84.jpg",
    "video_url": "https://v.pinimg.com/videos/mc/expMp4/da/e2/8b/dae28bf44455ad65e849981ccd9de077_t4.mp4",
-   "voice_url": "file:///android_asset/image/wed.mp3"
+   "voice_url": "file:///android_asset/wed.mp3"
  },
  {
    "id": 7,
    "name": "Wednesday",
    "image_url": "https://i.pinimg.com/736x/0d/f0/e5/0df0e5d221bd9b80851cb7eddb6cb6c7.jpg",
    "video_url": "https://v.pinimg.com/videos/mc/expMp4/18/e1/76/18e1768c70a439789f9bac265e18570a_t4.mp4",
-   "voice_url": "file:///android_asset/image/wed.mp3"
+   "voice_url": "file:///android_asset/wed.mp3"
  },
  {
    "id": 8,
    "name": "Wednesday",
    "image_url": "https://i.pinimg.com/736x/c0/c4/db/c0c4db01346389c8c689971859c2d2c7.jpg",
    "video_url": "https://v.pinimg.com/videos/mc/expMp4/15/34/d8/1534d830211f0835dadfdfa25a83d524_t4.mp4",
-   "voice_url": "file:///android_asset/image/wed.mp3"
+   "voice_url": "file:///android_asset/wed.mp3"
  },
  {
    "id": 9,
    "name": "Wednesday",
    "image_url": "https://i.pinimg.com/736x/fb/7d/38/fb7d38fb66022b9e12c931f006a63a18.jpg",
    "video_url": "https://v.pinimg.com/videos/mc/expMp4/b7/d3/c6/b7d3c6145dea7ab4d0827331a838d3ed_t4.mp4",
-   "voice_url": "file:///android_asset/image/wed.mp3"
+   "voice_url": "file:///android_asset/wed.mp3"
  },
  {
    "id": 10,
    "name": "Wednesday",
    "image_url": "https://i.pinimg.com/736x/e0/17/20/e017200dd970d89731b8886f62a71827.jpg",
    "video_url": "https://v.pinimg.com/videos/mc/expMp4/09/45/9e/09459e3147899b2b120b9a785afdb9c8_t4.mp4",
-   "voice_url": "file:///android_asset/image/wed.mp3"
+   "voice_url": "file:///android_asset/wed.mp3"
  }
   ]
 
