@@ -120,54 +120,54 @@
   ],
   "Item":
   [
-     {
+      {
    "id": 1,
    "name": "Master Latto Latto 1",
    "image_url": "file:///android_asset/image/latho latho (2).jpg",
    "video_url": "http://archive.org/download/lord-arnold-3/CaraLato.mp4",
-   "voice_url": "file:///android_asset/sound/lat.mp3"
+   "voice_url": "https://download850.mediafire.com/zlietk4dnhrg/pg3w6vs577qtxpp/lat.mp3"
  },
  {
    "id": 2,
    "name": "Master Latto Latto 2",
    "image_url": "file:///android_asset/image/latho latho (4).jpg",
    "video_url": "http://archive.org/download/lord-arnold-3/CaraLato2.mp4",
-   "voice_url": "file:///android_asset/sound/la2.mp3"
+   "voice_url": "https://download1327.mediafire.com/6p0tj9gy81tg/8rhszbde1xgf8pd/lat2.mp3"
  },
  {
    "id": 3,
    "name": "Master Latto Latto 3",
    "image_url": "file:///android_asset/image/latho latho (5).jpg",
    "video_url": "http://archive.org/download/lord-arnold-3/CaraLato3.mp4",
-   "voice_url": "file:///android_asset/sound/lat.mp3"
+   "voice_url": "https://download850.mediafire.com/zlietk4dnhrg/pg3w6vs577qtxpp/lat.mp3"
  },
  {
    "id": 4,
    "name": "Lord Arnold Latho Latho 1",
    "image_url": "file:///android_asset/image/latho latho (1).jpg",
    "video_url": "http://archive.org/download/lord-arnold-3/LordArnold.mp4",
-   "voice_url": "file:///android_asset/sound/lat2.mp3"
+   "voice_url": "https://download1327.mediafire.com/6p0tj9gy81tg/8rhszbde1xgf8pd/lat2.mp3"
  },
  {
    "id": 5,
    "name": "Lord Arnold Latho Latho 2",
    "image_url": "file:///android_asset/image/latho latho (3).jpg",
    "video_url": "http://archive.org/download/lord-arnold-3/LordArnold2.mp4",
-   "voice_url": "file:///android_asset/sound/lat.mp3"
+   "voice_url": "https://download850.mediafire.com/zlietk4dnhrg/pg3w6vs577qtxpp/lat.mp3"
  },
  {
    "id": 6,
    "name": "Lord Arnold Latho Latho 3",
    "image_url": "file:///android_asset/image/latho latho (7).jpg",
    "video_url": "http://archive.org/download/lord-arnold-3/LordArnold3.mp4",
-   "voice_url": "file:///android_asset/sound/lat2.mp3"
+   "voice_url": "https://download1327.mediafire.com/6p0tj9gy81tg/8rhszbde1xgf8pd/lat2.mp3"
  },
  {
    "id": 7,
    "name": "Master Latho2 Palsu",
    "image_url": "file:///android_asset/image/latho latho (1).jpeg",
    "video_url": "http://archive.org/download/lord-arnold-3/lato.mp4",
-   "voice_url": "file:///android_asset/sound/lat.mp3"
+   "voice_url": "https://download850.mediafire.com/zlietk4dnhrg/pg3w6vs577qtxpp/lat.mp3"
  }
   ]
 
