@@ -1,0 +1,174 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "-ADMOB",
+      "select_backup_ads":"-APPLOVIN-D",
+      "main_ads_banner": "-ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"-ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"12",
+      "main_ads_rewards":"12",
+      "backup_ads_natives":"12",
+      "backup_ads_banner":"-db4d5e8718b97d78",
+      "backup_ads_intertitial":"-518cd97722c60b52",
+      "backup_ads_rewards":"2231",
+      "open_ads_admob":"12",
+      "open_ads_alien":"13",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"-107355779",
+      "initialize_sdk_backup_ads":"23",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+      {
+   "id": 1,
+   "title": "Love Wallpaper 4K",
+   "image": "https://play-lh.googleusercontent.com/0eHW8CXg4aI_mBqP7sxiiR-_6_6bdy2RX2PfLDMID7gn1FVoBFBCFTMeKISH8T0BPvXH=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.lovewallpaper"
+ },
+{
+   "id": 1,
+   "title": "Valentine Wallpaper 4K",
+   "image": "https://play-lh.googleusercontent.com/r4lJHrBMva39CmtyPD0FC-whnYbVTf-oh4hJBaTk5LuvMFEeNVvUp72Z7_tBbBXShPLL=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.valentine"
+ },
+ {
+   "id": 1,
+   "title": "Pastel Cute Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/H-0TQJ8QpFzY5nm3vAm95QNUxHGui0EW7-hASvIjeoiEGkp5BOfLaA6LwWa9PqAIpliy=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.pastelwallpaper"
+ },
+{
+   "id": 5,
+   "title": "Preppy Wallpapers Pink",
+   "image": "https://play-lh.googleusercontent.com/XWzmWnW6sbirBe5KNZVqyrhpDaiKjdVuumDr3BFZWYAoPN0WGxR-JhcY1Qc-JtkYHA=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaper"
+ },
+{
+   "id": 4,
+   "title": "Wednesday Adams Wallpapers",
+   "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
+ },
+ {
+   "id": 2,
+   "title": "HD Wallpaper n Vivid Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/0ht4CqVoR3EaK7zh9VBX3Y_Do_K4My1qAMVcUDgIU5BXqlhDhhxXxs6LWWKw-nqKJew=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.hdwallpaper"
+ },
+ {
+   "id": 3,
+   "title": "Preppy Wallpapers Blue",
+   "image": "https://play-lh.googleusercontent.com/Ra7bzITG047OGlM-q9JQErvixoRBPhxWCdk4dQeVWOmgeb_bd2vbS9f5YQNeeC3bH2o=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembulblue.pastelwallpaper"
+ },
+ 
+ 
+ {
+   "id": 6,
+   "title": "Aesthetic Wallpaper 4K",
+   "image": "https://play-lh.googleusercontent.com/SwncRlGPejabuC97H2tiy0KmQzNze9RmqdHT-Mz-IWx1IJm-D5URA6VRA3JFFKSidG8=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul2.pastelwallpaper"
+ },
+ {
+   "id": 7,
+   "title": "Preppy Wallpapers Aesthetic",
+   "image": "https://play-lh.googleusercontent.com/EbRiBgYFys2d3Pvd3SEnowPtEqzy0lvfhrUc6nQ5VryvwFKgX4sy9lgUBohkkLPvrhhU=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaperaesthetic"
+ },
+ {
+   "id": 8,
+   "title": "Fake Call : Santa Claus",
+   "image": "https://play-lh.googleusercontent.com/H9z9-nKNR2RxBE_h6lq_Ksrbgh4ScN494jwsoDVZkhuyCzdla1dXPXW_7_njM1mg1EQ=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.fakecall"
+ },
+ {
+   "id": 9,
+   "title": "Sport Car Live Wallpaper 4K",
+   "image": "https://play-lh.googleusercontent.com/nf_m2jvHz0SZlG4JLGFosepwahzehFA4_D82T7gsIQiqaaRH_7RB9vKl0VtlbrZ27jPo=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.realcarswallpaper"
+ },
+ 
+ {
+   "id": 11,
+   "title": "Twibbon Maker : Photo Frame",
+   "image": "https://play-lh.googleusercontent.com/oUzs2ANz8ubhgDlOecDuxAmrpjgCiXf9ZnM2i9xhVRKdim7_FACHa3vIowyojaqKgw=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.twibbonize"
+ },
+ {
+   "id": 12,
+   "title": "Cek Pajak Kendaraan Samsat",
+   "image": "https://play-lh.googleusercontent.com/ECWL2sW-To60Uaix3keo8iu1IiVAHItyD696SUknSDntsWEPfVEom-qgapSAf2feMqYh=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.samsatonlinenasional"
+ },
+ {
+   "id": 13,
+   "title": "Cek BPKB Online",
+   "image": "https://play-lh.googleusercontent.com/ucZiZNiTtjTkNRG8PjoapeJEzEMeJuRJIVAKzN5bO_51GB8ngecNYhRQuLAzIueQSQ=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.cekbpkbonline"
+ }
+  ],
+  "Item":
+  [
+     {
+   "id": 1,
+   "name": "Wednesday",
+   "image_url": "https://i.pinimg.com/736x/1b/9d/ab/1b9dab18c31d25926bebedc44b5bf398.jpg",
+   "video_url": "https://v.pinimg.com/videos/mc/720p/94/25/e3/9425e32d2f9490eb7bb66f08b1494726.mp4",
+   "voice_url": "https://download1503.mediafire.com/ajzqjb3i5bog/jopdbod1q8058y4/wed.mp3"
+ },
+ {
+   "id": 2,
+   "name": "Wednesday",
+   "image_url": "https://i.pinimg.com/736x/46/23/a9/4623a97ca29ae5b2c211be5b4bb89a10.jpg",
+   "video_url": "https://v.pinimg.com/videos/mc/expMp4/04/74/67/047467319ca80877917248f1d3f26f5a_t4.mp4",
+   "voice_url": "https://download1503.mediafire.com/ajzqjb3i5bog/jopdbod1q8058y4/wed.mp3"
+ },
+ {
+   "id": 3,
+   "name": "Wednesday",
+   "image_url": "https://i.pinimg.com/736x/9f/6c/fa/9f6cfac237026334bcbd05378bebf95e.jpg",
+   "video_url": "https://v.pinimg.com/videos/mc/expMp4/2e/c4/4e/2ec44e4cf1bcbbaca13b96d906081c5b_t4.mp4",
+   "voice_url": "https://download1503.mediafire.com/ajzqjb3i5bog/jopdbod1q8058y4/wed.mp3"
+ },
+ {
+   "id": 4,
+   "name": "Xavier",
+   "image_url": "https://i.pinimg.com/736x/5e/64/22/5e642224e355e19a80b5dacf5af4fb4e.jpg",
+   "video_url": "https://v.pinimg.com/videos/mc/expMp4/57/24/af/5724af13079259747fe5a32c8b987ce4_t4.mp4",
+   "voice_url": "https://download1580.mediafire.com/81l1uo9txrig/r3klf8oez07tc49/xavier.mp3"
+ },
+ {
+   "id": 5,
+   "name": "Wednesday",
+   "image_url": "https://i.pinimg.com/736x/81/e7/ef/81e7ef8d2d1ce758b1b5bf881fe2d329.jpg",
+   "video_url": "https://v.pinimg.com/videos/mc/expMp4/2b/ae/e3/2baee39b9ba90b29778c1265dd1c8fa2_t4.mp4",
+   "voice_url": "https://download1503.mediafire.com/ajzqjb3i5bog/jopdbod1q8058y4/wed.mp3"
+ },
+ {
+   "id": 6,
+   "name": "Wednesday",
+   "image_url": "https://i.pinimg.com/736x/a3/91/c2/a391c2cd3da2e8fe47e945e70b368f84.jpg",
+   "video_url": "https://v.pinimg.com/videos/mc/expMp4/da/e2/8b/dae28bf44455ad65e849981ccd9de077_t4.mp4",
+   "voice_url": "https://download1503.mediafire.com/ajzqjb3i5bog/jopdbod1q8058y4/wed.mp3"
+ },
+ {
+   "id": 7,
+   "name": "Wednesday",
+   "image_url": "https://i.pinimg.com/736x/0d/f0/e5/0df0e5d221bd9b80851cb7eddb6cb6c7.jpg",
+   "video_url": "https://v.pinimg.com/videos/mc/expMp4/18/e1/76/18e1768c70a439789f9bac265e18570a_t4.mp4",
+   "voice_url": "https://download1503.mediafire.com/ajzqjb3i5bog/jopdbod1q8058y4/wed.mp3"
+ }
+  ]
+
+}
