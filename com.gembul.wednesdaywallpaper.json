@@ -3,15 +3,15 @@
     {
       "select_main_ads": "-ADMOB",
       "select_backup_ads":"-APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"-ca-app-pub-3940256099942544/2247696110",
-      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "main_ads_banner": "ca-app-pub-9488296014066778/6828978717",
+      "main_ads_intertitial":"ca-app-pub-9488296014066778/2346808225",
+      "main_ads_natives":"ca-app-pub-9488296014066778/5756118932",
+      "main_ads_rewards":"ca-app-pub-9488296014066778/6445835331",
       "backup_ads_natives":"PL350911184828",
       "backup_ads_banner":"PL350911184828",
       "backup_ads_intertitial":"PL350911184828",
       "backup_ads_rewards":"PL350911184828",
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_admob":"ca-app-pub-9488296014066778/4533987863",
       "open_ads_alien":"PL350911184828",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"0",
@@ -31,6 +31,24 @@
   ],
   "More":
   [
+     {
+   "id": 1,
+   "title": "Love Wallpaper 4K",
+   "image": "https://play-lh.googleusercontent.com/0eHW8CXg4aI_mBqP7sxiiR-_6_6bdy2RX2PfLDMID7gn1FVoBFBCFTMeKISH8T0BPvXH=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.lovewallpaper"
+ },
+    {
+   "id": 1,
+   "title": "Wednesday Addams Fake VCall",
+   "image": "https://play-lh.googleusercontent.com/1EoU8raGSrgij-8t4uItR0L8EhJXVrg45A2IoGts98bidpdEbNkyxbAiWLRgkfXDAtlt=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.fake.wednesday.addams"
+ },
+{
+   "id": 1,
+   "title": "Valentine Wallpaper 4K",
+   "image": "https://play-lh.googleusercontent.com/r4lJHrBMva39CmtyPD0FC-whnYbVTf-oh4hJBaTk5LuvMFEeNVvUp72Z7_tBbBXShPLL=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.valentine"
+ },
      {
    "id": 1,
    "title": "Pastel Cute Wallpaper",
@@ -97,12 +115,7 @@
    "image": "https://play-lh.googleusercontent.com/oUzs2ANz8ubhgDlOecDuxAmrpjgCiXf9ZnM2i9xhVRKdim7_FACHa3vIowyojaqKgw=w240-h480",
    "link": "https://play.google.com/store/apps/details?id=com.gembul.twibbonize"
  },
- {
-   "id": 12,
-   "title": "Cek Pajak Kendaraan Samsat",
-   "image": "https://play-lh.googleusercontent.com/ECWL2sW-To60Uaix3keo8iu1IiVAHItyD696SUknSDntsWEPfVEom-qgapSAf2feMqYh=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.samsatonlinenasional"
- },
+ 
  {
    "id": 13,
    "title": "Cek BPKB Online",
