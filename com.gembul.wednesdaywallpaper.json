@@ -158,14 +158,42 @@
   ],
 
   "Data":
-  [
-   
- 
+ [
  {
-   "id": 1,
+   "id": 41,
    "name_category": "Wednesday",
-   "title": "Wednesday 1",
-   "image": "file:///android_asset/image/wednesday/wednesday (1).jpg"
+   "title": "Wednesday 41",
+   "image": "file:///android_asset/image/wednesday/wednesday (46).jpg"
+ },
+ {
+   "id": 89,
+   "name_category": "Monochrome",
+   "title": "Monochrom 1",
+   "image": "file:///android_asset/image/monochrom/monochrom (1).jpg"
+ },
+ {
+   "id": 66,
+   "name_category": "Fun Art",
+   "title": "Fun Art 19",
+   "image": "file:///android_asset/image/funart/funart (7).jpg"
+ },
+ {
+   "id": 101,
+   "name_category": "Display",
+   "title": "Display 5",
+   "image": "file:///android_asset/image/display/display (2).png"
+ },
+ {
+   "id": 54,
+   "name_category": "Fun Art",
+   "title": "Fun Art 7",
+   "image": "file:///android_asset/image/funart/funart (14).jpg"
+ },
+ {
+   "id": 45,
+   "name_category": "Wednesday",
+   "title": "Wednesday 45",
+   "image": "file:///android_asset/image/wednesday/wednesday (7).jpg"
  },
  {
    "id": 2,
@@ -174,136 +202,10 @@
    "image": "file:///android_asset/image/wednesday/wednesday (10).jpg"
  },
  {
-   "id": 3,
+   "id": 38,
    "name_category": "Wednesday",
-   "title": "Wednesday 3",
-   "image": "file:///android_asset/image/wednesday/wednesday (11).jpg"
- },
- {
-   "id": 4,
-   "name_category": "Wednesday",
-   "title": "Wednesday 4",
-   "image": "file:///android_asset/image/wednesday/wednesday (12).jpg"
- },
- {
-   "id": 5,
-   "name_category": "Wednesday",
-   "title": "Wednesday 5",
-   "image": "file:///android_asset/image/wednesday/wednesday (13).jpg"
- },
- {
-   "id": 6,
-   "name_category": "Wednesday",
-   "title": "Wednesday 6",
-   "image": "file:///android_asset/image/wednesday/wednesday (14).jpg"
- },
- {
-   "id": 7,
-   "name_category": "Wednesday",
-   "title": "Wednesday 7",
-   "image": "file:///android_asset/image/wednesday/wednesday (15).jpg"
- },
- {
-   "id": 8,
-   "name_category": "Wednesday",
-   "title": "Wednesday 8",
-   "image": "file:///android_asset/image/wednesday/wednesday (16).jpg"
- },
- {
-   "id": 9,
-   "name_category": "Wednesday",
-   "title": "Wednesday 9",
-   "image": "file:///android_asset/image/wednesday/wednesday (17).jpg"
- },
- {
-   "id": 10,
-   "name_category": "Wednesday",
-   "title": "Wednesday 10",
-   "image": "file:///android_asset/image/wednesday/wednesday (18).jpg"
- },
- {
-   "id": 11,
-   "name_category": "Wednesday",
-   "title": "Wednesday 11",
-   "image": "file:///android_asset/image/wednesday/wednesday (19).jpg"
- },
- {
-   "id": 12,
-   "name_category": "Wednesday",
-   "title": "Wednesday 12",
-   "image": "file:///android_asset/image/wednesday/wednesday (2).jpg"
- },
- {
-   "id": 13,
-   "name_category": "Wednesday",
-   "title": "Wednesday 13",
-   "image": "file:///android_asset/image/wednesday/wednesday (20).jpg"
- },
- {
-   "id": 14,
-   "name_category": "Wednesday",
-   "title": "Wednesday 14",
-   "image": "file:///android_asset/image/wednesday/wednesday (21).jpg"
- },
- {
-   "id": 15,
-   "name_category": "Wednesday",
-   "title": "Wednesday 15",
-   "image": "file:///android_asset/image/wednesday/wednesday (22).jpg"
- },
- {
-   "id": 16,
-   "name_category": "Wednesday",
-   "title": "Wednesday 16",
-   "image": "file:///android_asset/image/wednesday/wednesday (23).jpg"
- },
- {
-   "id": 17,
-   "name_category": "Wednesday",
-   "title": "Wednesday 17",
-   "image": "file:///android_asset/image/wednesday/wednesday (24).jpg"
- },
- {
-   "id": 18,
-   "name_category": "Wednesday",
-   "title": "Wednesday 18",
-   "image": "file:///android_asset/image/wednesday/wednesday (25).jpg"
- },
- {
-   "id": 19,
-   "name_category": "Wednesday",
-   "title": "Wednesday 19",
-   "image": "file:///android_asset/image/wednesday/wednesday (26).jpg"
- },
- {
-   "id": 20,
-   "name_category": "Wednesday",
-   "title": "Wednesday 20",
-   "image": "file:///android_asset/image/wednesday/wednesday (27).jpg"
- },
- {
-   "id": 21,
-   "name_category": "Wednesday",
-   "title": "Wednesday 21",
-   "image": "file:///android_asset/image/wednesday/wednesday (28).jpg"
- },
- {
-   "id": 22,
-   "name_category": "Wednesday",
-   "title": "Wednesday 22",
-   "image": "file:///android_asset/image/wednesday/wednesday (29).jpg"
- },
- {
-   "id": 23,
-   "name_category": "Wednesday",
-   "title": "Wednesday 23",
-   "image": "file:///android_asset/image/wednesday/wednesday (3).jpg"
- },
- {
-   "id": 24,
-   "name_category": "Wednesday",
-   "title": "Wednesday 24",
-   "image": "file:///android_asset/image/wednesday/wednesday (30).jpg"
+   "title": "Wednesday 38",
+   "image": "file:///android_asset/image/wednesday/wednesday (43).jpg"
  },
  {
    "id": 25,
@@ -312,46 +214,76 @@
    "image": "file:///android_asset/image/wednesday/wednesday (31).jpg"
  },
  {
-   "id": 26,
+   "id": 5,
    "name_category": "Wednesday",
-   "title": "Wednesday 26",
-   "image": "file:///android_asset/image/wednesday/wednesday (32).jpg"
+   "title": "Wednesday 5",
+   "image": "file:///android_asset/image/wednesday/wednesday (13).jpg"
  },
  {
-   "id": 27,
-   "name_category": "Wednesday",
-   "title": "Wednesday 27",
-   "image": "file:///android_asset/image/wednesday/wednesday (33).jpg"
+   "id": 78,
+   "name_category": "Photo",
+   "title": "Photo 10",
+   "image": "file:///android_asset/image/photo/photo (18).jpg"
  },
  {
-   "id": 28,
-   "name_category": "Wednesday",
-   "title": "Wednesday 28",
-   "image": "file:///android_asset/image/wednesday/wednesday (34).jpg"
+   "id": 98,
+   "name_category": "Display",
+   "title": "Display 2",
+   "image": "file:///android_asset/image/display/display (1).png"
  },
  {
-   "id": 29,
-   "name_category": "Wednesday",
-   "title": "Wednesday 29",
-   "image": "file:///android_asset/image/wednesday/wednesday (35).jpg"
+   "id": 48,
+   "name_category": "Fun Art",
+   "title": "Fun Art 1",
+   "image": "file:///android_asset/image/funart/funart (1).jpg"
  },
  {
-   "id": 30,
-   "name_category": "Wednesday",
-   "title": "Wednesday 30",
-   "image": "file:///android_asset/image/wednesday/wednesday (36).jpg"
+   "id": 50,
+   "name_category": "Fun Art",
+   "title": "Fun Art 3",
+   "image": "file:///android_asset/image/funart/funart (10).jpg"
  },
  {
-   "id": 31,
-   "name_category": "Wednesday",
-   "title": "Wednesday 31",
-   "image": "file:///android_asset/image/wednesday/wednesday (37).jpg"
+   "id": 113,
+   "name_category": "Display",
+   "title": "Display 17",
+   "image": "file:///android_asset/image/display/display (9).png"
  },
  {
-   "id": 32,
+   "id": 14,
    "name_category": "Wednesday",
-   "title": "Wednesday 32",
-   "image": "file:///android_asset/image/wednesday/wednesday (38).jpg"
+   "title": "Wednesday 14",
+   "image": "file:///android_asset/image/wednesday/wednesday (21).jpg"
+ },
+ {
+   "id": 59,
+   "name_category": "Fun Art",
+   "title": "Fun Art 12",
+   "image": "file:///android_asset/image/funart/funart (3).jpg"
+ },
+ {
+   "id": 6,
+   "name_category": "Wednesday",
+   "title": "Wednesday 6",
+   "image": "file:///android_asset/image/wednesday/wednesday (14).jpg"
+ },
+ {
+   "id": 40,
+   "name_category": "Wednesday",
+   "title": "Wednesday 40",
+   "image": "file:///android_asset/image/wednesday/wednesday (45).jpg"
+ },
+ {
+   "id": 61,
+   "name_category": "Fun Art",
+   "title": "Fun Art 14",
+   "image": "file:///android_asset/image/funart/funart (4).jpg"
+ },
+ {
+   "id": 55,
+   "name_category": "Fun Art",
+   "title": "Fun Art 8",
+   "image": "file:///android_asset/image/funart/funart (15).jpg"
  },
  {
    "id": 33,
@@ -360,16 +292,454 @@
    "image": "file:///android_asset/image/wednesday/wednesday (39).jpg"
  },
  {
+   "id": 56,
+   "name_category": "Fun Art",
+   "title": "Fun Art 9",
+   "image": "file:///android_asset/image/funart/funart (16).jpg"
+ },
+ {
+   "id": 85,
+   "name_category": "Photo",
+   "title": "Photo 17",
+   "image": "file:///android_asset/image/photo/photo (6).jpg"
+ },
+ {
+   "id": 19,
+   "name_category": "Wednesday",
+   "title": "Wednesday 19",
+   "image": "file:///android_asset/image/wednesday/wednesday (26).jpg"
+ },
+ {
+   "id": 95,
+   "name_category": "Monochrome",
+   "title": "Monochrom 7",
+   "image": "file:///android_asset/image/monochrom/monochrom (7).jpg"
+ },
+ {
+   "id": 3,
+   "name_category": "Wednesday",
+   "title": "Wednesday 3",
+   "image": "file:///android_asset/image/wednesday/wednesday (11).jpg"
+ },
+ {
+   "id": 8,
+   "name_category": "Wednesday",
+   "title": "Wednesday 8",
+   "image": "file:///android_asset/image/wednesday/wednesday (16).jpg"
+ },
+ {
+   "id": 15,
+   "name_category": "Wednesday",
+   "title": "Wednesday 15",
+   "image": "file:///android_asset/image/wednesday/wednesday (22).jpg"
+ },
+ {
+   "id": 51,
+   "name_category": "Fun Art",
+   "title": "Fun Art 4",
+   "image": "file:///android_asset/image/funart/funart (11).jpg"
+ },
+ {
+   "id": 22,
+   "name_category": "Wednesday",
+   "title": "Wednesday 22",
+   "image": "file:///android_asset/image/wednesday/wednesday (29).jpg"
+ },
+ {
+   "id": 99,
+   "name_category": "Display",
+   "title": "Display 3",
+   "image": "file:///android_asset/image/display/display (10).jpg"
+ },
+ {
+   "id": 86,
+   "name_category": "Photo",
+   "title": "Photo 18",
+   "image": "file:///android_asset/image/photo/photo (7).jpg"
+ },
+ {
+   "id": 49,
+   "name_category": "Fun Art",
+   "title": "Fun Art 2",
+   "image": "file:///android_asset/image/funart/funart (1).png"
+ },
+ {
+   "id": 92,
+   "name_category": "Monochrome",
+   "title": "Monochrom 4",
+   "image": "file:///android_asset/image/monochrom/monochrom (4).jpg"
+ },
+ {
+   "id": 75,
+   "name_category": "Photo",
+   "title": "Photo 7",
+   "image": "file:///android_asset/image/photo/photo (15).jpg"
+ },
+ {
+   "id": 83,
+   "name_category": "Photo",
+   "title": "Photo 15",
+   "image": "file:///android_asset/image/photo/photo (4).jpg"
+ },
+ {
+   "id": 21,
+   "name_category": "Wednesday",
+   "title": "Wednesday 21",
+   "image": "file:///android_asset/image/wednesday/wednesday (28).jpg"
+ },
+ {
+   "id": 87,
+   "name_category": "Photo",
+   "title": "Photo 19",
+   "image": "file:///android_asset/image/photo/photo (8).jpg"
+ },
+ {
+   "id": 58,
+   "name_category": "Fun Art",
+   "title": "Fun Art 11",
+   "image": "file:///android_asset/image/funart/funart (2).png"
+ },
+ {
+   "id": 84,
+   "name_category": "Photo",
+   "title": "Photo 16",
+   "image": "file:///android_asset/image/photo/photo (5).jpg"
+ },
+ {
+   "id": 28,
+   "name_category": "Wednesday",
+   "title": "Wednesday 28",
+   "image": "file:///android_asset/image/wednesday/wednesday (34).jpg"
+ },
+ {
+   "id": 24,
+   "name_category": "Wednesday",
+   "title": "Wednesday 24",
+   "image": "file:///android_asset/image/wednesday/wednesday (30).jpg"
+ },
+ {
+   "id": 93,
+   "name_category": "Monochrome",
+   "title": "Monochrom 5",
+   "image": "file:///android_asset/image/monochrom/monochrom (5).jpg"
+ },
+ {
+   "id": 7,
+   "name_category": "Wednesday",
+   "title": "Wednesday 7",
+   "image": "file:///android_asset/image/wednesday/wednesday (15).jpg"
+ },
+ {
+   "id": 106,
+   "name_category": "Display",
+   "title": "Display 10",
+   "image": "file:///android_asset/image/display/display (5).jpg"
+ },
+ {
+   "id": 90,
+   "name_category": "Monochrome",
+   "title": "Monochrom 2",
+   "image": "file:///android_asset/image/monochrom/monochrom (2).jpg"
+ },
+ {
+   "id": 32,
+   "name_category": "Wednesday",
+   "title": "Wednesday 32",
+   "image": "file:///android_asset/image/wednesday/wednesday (38).jpg"
+ },
+ {
+   "id": 60,
+   "name_category": "Fun Art",
+   "title": "Fun Art 13",
+   "image": "file:///android_asset/image/funart/funart (3).png"
+ },
+ {
    "id": 34,
    "name_category": "Wednesday",
    "title": "Wednesday 34",
    "image": "file:///android_asset/image/wednesday/wednesday (4).jpg"
  },
  {
+   "id": 4,
+   "name_category": "Wednesday",
+   "title": "Wednesday 4",
+   "image": "file:///android_asset/image/wednesday/wednesday (12).jpg"
+ },
+ {
+   "id": 81,
+   "name_category": "Photo",
+   "title": "Photo 13",
+   "image": "file:///android_asset/image/photo/photo (20).jpg"
+ },
+ {
+   "id": 27,
+   "name_category": "Wednesday",
+   "title": "Wednesday 27",
+   "image": "file:///android_asset/image/wednesday/wednesday (33).jpg"
+ },
+ {
+   "id": 94,
+   "name_category": "Monochrome",
+   "title": "Monochrom 6",
+   "image": "file:///android_asset/image/monochrom/monochrom (6).jpg"
+ },
+ {
+   "id": 42,
+   "name_category": "Wednesday",
+   "title": "Wednesday 42",
+   "image": "file:///android_asset/image/wednesday/wednesday (47).jpg"
+ },
+ {
+   "id": 53,
+   "name_category": "Fun Art",
+   "title": "Fun Art 6",
+   "image": "file:///android_asset/image/funart/funart (13).jpg"
+ },
+ {
+   "id": 23,
+   "name_category": "Wednesday",
+   "title": "Wednesday 23",
+   "image": "file:///android_asset/image/wednesday/wednesday (3).jpg"
+ },
+ {
+   "id": 68,
+   "name_category": "Fun Art",
+   "title": "Fun Art 21",
+   "image": "file:///android_asset/image/funart/funart (9).jpg"
+ },
+ {
+   "id": 70,
+   "name_category": "Photo",
+   "title": "Photo 2",
+   "image": "file:///android_asset/image/photo/photo (10).jpg"
+ },
+ {
+   "id": 100,
+   "name_category": "Display",
+   "title": "Display 4",
+   "image": "file:///android_asset/image/display/display (2).jpg"
+ },
+ {
+   "id": 31,
+   "name_category": "Wednesday",
+   "title": "Wednesday 31",
+   "image": "file:///android_asset/image/wednesday/wednesday (37).jpg"
+ },
+ {
+   "id": 63,
+   "name_category": "Fun Art",
+   "title": "Fun Art 16",
+   "image": "file:///android_asset/image/funart/funart (5).jpg"
+ },
+ {
+   "id": 102,
+   "name_category": "Display",
+   "title": "Display 6",
+   "image": "file:///android_asset/image/display/display (3).jpg"
+ },
+ {
+   "id": 104,
+   "name_category": "Display",
+   "title": "Display 8",
+   "image": "file:///android_asset/image/display/display (4).jpg"
+ },
+ {
+   "id": 30,
+   "name_category": "Wednesday",
+   "title": "Wednesday 30",
+   "image": "file:///android_asset/image/wednesday/wednesday (36).jpg"
+ },
+ {
+   "id": 108,
+   "name_category": "Display",
+   "title": "Display 12",
+   "image": "file:///android_asset/image/display/display (6).jpg"
+ },
+ {
+   "id": 72,
+   "name_category": "Photo",
+   "title": "Photo 4",
+   "image": "file:///android_asset/image/photo/photo (12).jpg"
+ },
+ {
+   "id": 112,
+   "name_category": "Display",
+   "title": "Display 16",
+   "image": "file:///android_asset/image/display/display (8).jpg"
+ },
+ {
+   "id": 44,
+   "name_category": "Wednesday",
+   "title": "Wednesday 44",
+   "image": "file:///android_asset/image/wednesday/wednesday (6).jpg"
+ },
+ {
+   "id": 73,
+   "name_category": "Photo",
+   "title": "Photo 5",
+   "image": "file:///android_asset/image/photo/photo (13).jpg"
+ },
+ {
+   "id": 77,
+   "name_category": "Photo",
+   "title": "Photo 9",
+   "image": "file:///android_asset/image/photo/photo (17).jpg"
+ },
+ {
+   "id": 88,
+   "name_category": "Photo",
+   "title": "Photo 20",
+   "image": "file:///android_asset/image/photo/photo (9).jpg"
+ },
+ {
+   "id": 11,
+   "name_category": "Wednesday",
+   "title": "Wednesday 11",
+   "image": "file:///android_asset/image/wednesday/wednesday (19).jpg"
+ },
+ {
+   "id": 43,
+   "name_category": "Wednesday",
+   "title": "Wednesday 43",
+   "image": "file:///android_asset/image/wednesday/wednesday (5).jpg"
+ },
+ {
    "id": 35,
    "name_category": "Wednesday",
    "title": "Wednesday 35",
    "image": "file:///android_asset/image/wednesday/wednesday (40).jpg"
+ },
+ {
+   "id": 82,
+   "name_category": "Photo",
+   "title": "Photo 14",
+   "image": "file:///android_asset/image/photo/photo (3).jpg"
+ },
+ {
+   "id": 110,
+   "name_category": "Display",
+   "title": "Display 14",
+   "image": "file:///android_asset/image/display/display (7).jpg"
+ },
+ {
+   "id": 29,
+   "name_category": "Wednesday",
+   "title": "Wednesday 29",
+   "image": "file:///android_asset/image/wednesday/wednesday (35).jpg"
+ },
+ {
+   "id": 20,
+   "name_category": "Wednesday",
+   "title": "Wednesday 20",
+   "image": "file:///android_asset/image/wednesday/wednesday (27).jpg"
+ },
+ {
+   "id": 80,
+   "name_category": "Photo",
+   "title": "Photo 12",
+   "image": "file:///android_asset/image/photo/photo (2).jpg"
+ },
+ {
+   "id": 26,
+   "name_category": "Wednesday",
+   "title": "Wednesday 26",
+   "image": "file:///android_asset/image/wednesday/wednesday (32).jpg"
+ },
+ {
+   "id": 9,
+   "name_category": "Wednesday",
+   "title": "Wednesday 9",
+   "image": "file:///android_asset/image/wednesday/wednesday (17).jpg"
+ },
+ {
+   "id": 13,
+   "name_category": "Wednesday",
+   "title": "Wednesday 13",
+   "image": "file:///android_asset/image/wednesday/wednesday (20).jpg"
+ },
+ {
+   "id": 46,
+   "name_category": "Wednesday",
+   "title": "Wednesday 46",
+   "image": "file:///android_asset/image/wednesday/wednesday (8).jpg"
+ },
+ {
+   "id": 103,
+   "name_category": "Display",
+   "title": "Display 7",
+   "image": "file:///android_asset/image/display/display (3).png"
+ },
+ {
+   "id": 96,
+   "name_category": "Monochrome",
+   "title": "Monochrom 8",
+   "image": "file:///android_asset/image/monochrom/monochrom (8).jpg"
+ },
+ {
+   "id": 69,
+   "name_category": "Photo",
+   "title": "Photo 1",
+   "image": "file:///android_asset/image/photo/photo (1).jpg"
+ },
+ {
+   "id": 111,
+   "name_category": "Display",
+   "title": "Display 15",
+   "image": "file:///android_asset/image/display/display (7).png"
+ },
+ {
+   "id": 76,
+   "name_category": "Photo",
+   "title": "Photo 8",
+   "image": "file:///android_asset/image/photo/photo (16).jpg"
+ },
+ {
+   "id": 12,
+   "name_category": "Wednesday",
+   "title": "Wednesday 12",
+   "image": "file:///android_asset/image/wednesday/wednesday (2).jpg"
+ },
+ {
+   "id": 47,
+   "name_category": "Wednesday",
+   "title": "Wednesday 47",
+   "image": "file:///android_asset/image/wednesday/wednesday (9).jpg"
+ },
+ {
+   "id": 16,
+   "name_category": "Wednesday",
+   "title": "Wednesday 16",
+   "image": "file:///android_asset/image/wednesday/wednesday (23).jpg"
+ },
+ {
+   "id": 79,
+   "name_category": "Photo",
+   "title": "Photo 11",
+   "image": "file:///android_asset/image/photo/photo (19).jpg"
+ },
+ {
+   "id": 17,
+   "name_category": "Wednesday",
+   "title": "Wednesday 17",
+   "image": "file:///android_asset/image/wednesday/wednesday (24).jpg"
+ },
+ {
+   "id": 74,
+   "name_category": "Photo",
+   "title": "Photo 6",
+   "image": "file:///android_asset/image/photo/photo (14).jpg"
+ },
+ {
+   "id": 109,
+   "name_category": "Display",
+   "title": "Display 13",
+   "image": "file:///android_asset/image/display/display (6).png"
+ },
+ {
+   "id": 52,
+   "name_category": "Fun Art",
+   "title": "Fun Art 5",
+   "image": "file:///android_asset/image/funart/funart (12).jpg"
  },
  {
    "id": 36,
@@ -384,10 +754,10 @@
    "image": "file:///android_asset/image/wednesday/wednesday (42).jpg"
  },
  {
-   "id": 38,
-   "name_category": "Wednesday",
-   "title": "Wednesday 38",
-   "image": "file:///android_asset/image/wednesday/wednesday (43).jpg"
+   "id": 97,
+   "name_category": "Display",
+   "title": "Display 1",
+   "image": "file:///android_asset/image/display/display (1).jpg"
  },
  {
    "id": 39,
@@ -396,406 +766,10 @@
    "image": "file:///android_asset/image/wednesday/wednesday (44).jpg"
  },
  {
-   "id": 40,
-   "name_category": "Wednesday",
-   "title": "Wednesday 40",
-   "image": "file:///android_asset/image/wednesday/wednesday (45).jpg"
- },
- {
-   "id": 41,
-   "name_category": "Wednesday",
-   "title": "Wednesday 41",
-   "image": "file:///android_asset/image/wednesday/wednesday (46).jpg"
- },
- {
-   "id": 42,
-   "name_category": "Wednesday",
-   "title": "Wednesday 42",
-   "image": "file:///android_asset/image/wednesday/wednesday (47).jpg"
- },
- {
-   "id": 43,
-   "name_category": "Wednesday",
-   "title": "Wednesday 43",
-   "image": "file:///android_asset/image/wednesday/wednesday (5).jpg"
- },
- {
-   "id": 44,
-   "name_category": "Wednesday",
-   "title": "Wednesday 44",
-   "image": "file:///android_asset/image/wednesday/wednesday (6).jpg"
- },
- {
-   "id": 45,
-   "name_category": "Wednesday",
-   "title": "Wednesday 45",
-   "image": "file:///android_asset/image/wednesday/wednesday (7).jpg"
- },
- {
-   "id": 46,
-   "name_category": "Wednesday",
-   "title": "Wednesday 46",
-   "image": "file:///android_asset/image/wednesday/wednesday (8).jpg"
- },
- {
-   "id": 47,
-   "name_category": "Wednesday",
-   "title": "Wednesday 47",
-   "image": "file:///android_asset/image/wednesday/wednesday (9).jpg"
- },
- {
-   "id": 48,
-   "name_category": "Fun Art",
-   "title": "Fun Art 1",
-   "image": "file:///android_asset/image/funart/funart (1).jpg"
- },
- {
-   "id": 49,
-   "name_category": "Fun Art",
-   "title": "Fun Art 2",
-   "image": "file:///android_asset/image/funart/funart (1).png"
- },
- {
-   "id": 50,
-   "name_category": "Fun Art",
-   "title": "Fun Art 3",
-   "image": "file:///android_asset/image/funart/funart (10).jpg"
- },
- {
-   "id": 51,
-   "name_category": "Fun Art",
-   "title": "Fun Art 4",
-   "image": "file:///android_asset/image/funart/funart (11).jpg"
- },
- {
-   "id": 52,
-   "name_category": "Fun Art",
-   "title": "Fun Art 5",
-   "image": "file:///android_asset/image/funart/funart (12).jpg"
- },
- {
-   "id": 53,
-   "name_category": "Fun Art",
-   "title": "Fun Art 6",
-   "image": "file:///android_asset/image/funart/funart (13).jpg"
- },
- {
-   "id": 54,
-   "name_category": "Fun Art",
-   "title": "Fun Art 7",
-   "image": "file:///android_asset/image/funart/funart (14).jpg"
- },
- {
-   "id": 55,
-   "name_category": "Fun Art",
-   "title": "Fun Art 8",
-   "image": "file:///android_asset/image/funart/funart (15).jpg"
- },
- {
-   "id": 56,
-   "name_category": "Fun Art",
-   "title": "Fun Art 9",
-   "image": "file:///android_asset/image/funart/funart (16).jpg"
- },
- {
    "id": 57,
    "name_category": "Fun Art",
    "title": "Fun Art 10",
    "image": "file:///android_asset/image/funart/funart (2).jpg"
- },
- {
-   "id": 58,
-   "name_category": "Fun Art",
-   "title": "Fun Art 11",
-   "image": "file:///android_asset/image/funart/funart (2).png"
- },
- {
-   "id": 59,
-   "name_category": "Fun Art",
-   "title": "Fun Art 12",
-   "image": "file:///android_asset/image/funart/funart (3).jpg"
- },
- {
-   "id": 60,
-   "name_category": "Fun Art",
-   "title": "Fun Art 13",
-   "image": "file:///android_asset/image/funart/funart (3).png"
- },
- {
-   "id": 61,
-   "name_category": "Fun Art",
-   "title": "Fun Art 14",
-   "image": "file:///android_asset/image/funart/funart (4).jpg"
- },
- {
-   "id": 62,
-   "name_category": "Fun Art",
-   "title": "Fun Art 15",
-   "image": "file:///android_asset/image/funart/funart (4).png"
- },
- {
-   "id": 63,
-   "name_category": "Fun Art",
-   "title": "Fun Art 16",
-   "image": "file:///android_asset/image/funart/funart (5).jpg"
- },
- {
-   "id": 64,
-   "name_category": "Fun Art",
-   "title": "Fun Art 17",
-   "image": "file:///android_asset/image/funart/funart (5).png"
- },
- {
-   "id": 65,
-   "name_category": "Fun Art",
-   "title": "Fun Art 18",
-   "image": "file:///android_asset/image/funart/funart (6).jpg"
- },
- {
-   "id": 66,
-   "name_category": "Fun Art",
-   "title": "Fun Art 19",
-   "image": "file:///android_asset/image/funart/funart (7).jpg"
- },
- {
-   "id": 67,
-   "name_category": "Fun Art",
-   "title": "Fun Art 20",
-   "image": "file:///android_asset/image/funart/funart (8).jpg"
- },
- {
-   "id": 68,
-   "name_category": "Fun Art",
-   "title": "Fun Art 21",
-   "image": "file:///android_asset/image/funart/funart (9).jpg"
- },
- {
-   "id": 69,
-   "name_category": "Photo",
-   "title": "Photo 1",
-   "image": "file:///android_asset/image/photo/photo (1).jpg"
- },
- {
-   "id": 70,
-   "name_category": "Photo",
-   "title": "Photo 2",
-   "image": "file:///android_asset/image/photo/photo (10).jpg"
- },
- {
-   "id": 71,
-   "name_category": "Photo",
-   "title": "Photo 3",
-   "image": "file:///android_asset/image/photo/photo (11).jpg"
- },
- {
-   "id": 72,
-   "name_category": "Photo",
-   "title": "Photo 4",
-   "image": "file:///android_asset/image/photo/photo (12).jpg"
- },
- {
-   "id": 73,
-   "name_category": "Photo",
-   "title": "Photo 5",
-   "image": "file:///android_asset/image/photo/photo (13).jpg"
- },
- {
-   "id": 74,
-   "name_category": "Photo",
-   "title": "Photo 6",
-   "image": "file:///android_asset/image/photo/photo (14).jpg"
- },
- {
-   "id": 75,
-   "name_category": "Photo",
-   "title": "Photo 7",
-   "image": "file:///android_asset/image/photo/photo (15).jpg"
- },
- {
-   "id": 76,
-   "name_category": "Photo",
-   "title": "Photo 8",
-   "image": "file:///android_asset/image/photo/photo (16).jpg"
- },
- {
-   "id": 77,
-   "name_category": "Photo",
-   "title": "Photo 9",
-   "image": "file:///android_asset/image/photo/photo (17).jpg"
- },
- {
-   "id": 78,
-   "name_category": "Photo",
-   "title": "Photo 10",
-   "image": "file:///android_asset/image/photo/photo (18).jpg"
- },
- {
-   "id": 79,
-   "name_category": "Photo",
-   "title": "Photo 11",
-   "image": "file:///android_asset/image/photo/photo (19).jpg"
- },
- {
-   "id": 80,
-   "name_category": "Photo",
-   "title": "Photo 12",
-   "image": "file:///android_asset/image/photo/photo (2).jpg"
- },
- {
-   "id": 81,
-   "name_category": "Photo",
-   "title": "Photo 13",
-   "image": "file:///android_asset/image/photo/photo (20).jpg"
- },
- {
-   "id": 82,
-   "name_category": "Photo",
-   "title": "Photo 14",
-   "image": "file:///android_asset/image/photo/photo (3).jpg"
- },
- {
-   "id": 83,
-   "name_category": "Photo",
-   "title": "Photo 15",
-   "image": "file:///android_asset/image/photo/photo (4).jpg"
- },
- {
-   "id": 84,
-   "name_category": "Photo",
-   "title": "Photo 16",
-   "image": "file:///android_asset/image/photo/photo (5).jpg"
- },
- {
-   "id": 85,
-   "name_category": "Photo",
-   "title": "Photo 17",
-   "image": "file:///android_asset/image/photo/photo (6).jpg"
- },
- {
-   "id": 86,
-   "name_category": "Photo",
-   "title": "Photo 18",
-   "image": "file:///android_asset/image/photo/photo (7).jpg"
- },
- {
-   "id": 87,
-   "name_category": "Photo",
-   "title": "Photo 19",
-   "image": "file:///android_asset/image/photo/photo (8).jpg"
- },
- {
-   "id": 88,
-   "name_category": "Photo",
-   "title": "Photo 20",
-   "image": "file:///android_asset/image/photo/photo (9).jpg"
- },
- {
-   "id": 89,
-   "name_category": "Monochrome",
-   "title": "Monochrom 1",
-   "image": "file:///android_asset/image/monochrom/monochrom (1).jpg"
- },
- {
-   "id": 90,
-   "name_category": "Monochrome",
-   "title": "Monochrom 2",
-   "image": "file:///android_asset/image/monochrom/monochrom (2).jpg"
- },
- {
-   "id": 91,
-   "name_category": "Monochrome",
-   "title": "Monochrom 3",
-   "image": "file:///android_asset/image/monochrom/monochrom (3).jpg"
- },
- {
-   "id": 92,
-   "name_category": "Monochrome",
-   "title": "Monochrom 4",
-   "image": "file:///android_asset/image/monochrom/monochrom (4).jpg"
- },
- {
-   "id": 93,
-   "name_category": "Monochrome",
-   "title": "Monochrom 5",
-   "image": "file:///android_asset/image/monochrom/monochrom (5).jpg"
- },
- {
-   "id": 94,
-   "name_category": "Monochrome",
-   "title": "Monochrom 6",
-   "image": "file:///android_asset/image/monochrom/monochrom (6).jpg"
- },
- {
-   "id": 95,
-   "name_category": "Monochrome",
-   "title": "Monochrom 7",
-   "image": "file:///android_asset/image/monochrom/monochrom (7).jpg"
- },
- {
-   "id": 96,
-   "name_category": "Monochrome",
-   "title": "Monochrom 8",
-   "image": "file:///android_asset/image/monochrom/monochrom (8).jpg"
- },
- {
-   "id": 97,
-   "name_category": "Display",
-   "title": "Display 1",
-   "image": "file:///android_asset/image/display/display (1).jpg"
- },
- {
-   "id": 98,
-   "name_category": "Display",
-   "title": "Display 2",
-   "image": "file:///android_asset/image/display/display (1).png"
- },
- {
-   "id": 99,
-   "name_category": "Display",
-   "title": "Display 3",
-   "image": "file:///android_asset/image/display/display (10).jpg"
- },
- {
-   "id": 100,
-   "name_category": "Display",
-   "title": "Display 4",
-   "image": "file:///android_asset/image/display/display (2).jpg"
- },
- {
-   "id": 101,
-   "name_category": "Display",
-   "title": "Display 5",
-   "image": "file:///android_asset/image/display/display (2).png"
- },
- {
-   "id": 102,
-   "name_category": "Display",
-   "title": "Display 6",
-   "image": "file:///android_asset/image/display/display (3).jpg"
- },
- {
-   "id": 103,
-   "name_category": "Display",
-   "title": "Display 7",
-   "image": "file:///android_asset/image/display/display (3).png"
- },
- {
-   "id": 104,
-   "name_category": "Display",
-   "title": "Display 8",
-   "image": "file:///android_asset/image/display/display (4).jpg"
- },
- {
-   "id": 105,
-   "name_category": "Display",
-   "title": "Display 9",
-   "image": "file:///android_asset/image/display/display (4).png"
- },
- {
-   "id": 106,
-   "name_category": "Display",
-   "title": "Display 10",
-   "image": "file:///android_asset/image/display/display (5).jpg"
  },
  {
    "id": 107,
@@ -804,42 +778,64 @@
    "image": "file:///android_asset/image/display/display (5).png"
  },
  {
-   "id": 108,
-   "name_category": "Display",
-   "title": "Display 12",
-   "image": "file:///android_asset/image/display/display (6).jpg"
+   "id": 64,
+   "name_category": "Fun Art",
+   "title": "Fun Art 17",
+   "image": "file:///android_asset/image/funart/funart (5).png"
  },
  {
-   "id": 109,
-   "name_category": "Display",
-   "title": "Display 13",
-   "image": "file:///android_asset/image/display/display (6).png"
+   "id": 1,
+   "name_category": "Wednesday",
+   "title": "Wednesday 1",
+   "image": "file:///android_asset/image/wednesday/wednesday (1).jpg"
  },
  {
-   "id": 110,
-   "name_category": "Display",
-   "title": "Display 14",
-   "image": "file:///android_asset/image/display/display (7).jpg"
+   "id": 67,
+   "name_category": "Fun Art",
+   "title": "Fun Art 20",
+   "image": "file:///android_asset/image/funart/funart (8).jpg"
  },
  {
-   "id": 111,
+   "id": 105,
    "name_category": "Display",
-   "title": "Display 15",
-   "image": "file:///android_asset/image/display/display (7).png"
+   "title": "Display 9",
+   "image": "file:///android_asset/image/display/display (4).png"
  },
  {
-   "id": 112,
-   "name_category": "Display",
-   "title": "Display 16",
-   "image": "file:///android_asset/image/display/display (8).jpg"
+   "id": 65,
+   "name_category": "Fun Art",
+   "title": "Fun Art 18",
+   "image": "file:///android_asset/image/funart/funart (6).jpg"
  },
  {
-   "id": 113,
-   "name_category": "Display",
-   "title": "Display 17",
-   "image": "file:///android_asset/image/display/display (9).png"
+   "id": 71,
+   "name_category": "Photo",
+   "title": "Photo 3",
+   "image": "file:///android_asset/image/photo/photo (11).jpg"
+ },
+ {
+   "id": 10,
+   "name_category": "Wednesday",
+   "title": "Wednesday 10",
+   "image": "file:///android_asset/image/wednesday/wednesday (18).jpg"
+ },
+ {
+   "id": 91,
+   "name_category": "Monochrome",
+   "title": "Monochrom 3",
+   "image": "file:///android_asset/image/monochrom/monochrom (3).jpg"
+ },
+ {
+   "id": 18,
+   "name_category": "Wednesday",
+   "title": "Wednesday 18",
+   "image": "file:///android_asset/image/wednesday/wednesday (25).jpg"
+ },
+ {
+   "id": 62,
+   "name_category": "Fun Art",
+   "title": "Fun Art 15",
+   "image": "file:///android_asset/image/funart/funart (4).png"
  }
-
-
-     ]
+]
 }
