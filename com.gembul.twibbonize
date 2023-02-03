@@ -60,12 +60,302 @@
       "title": "Hari Batik Nasional",
       "image_link": "frame/batik.webp"
     },
-   
-  {
+    {
+      "id": 2,
+      "category": "Hari Raya",
+      "title": "Idul Fitri",
+      "image_link": "frame/idul.webp"
+    },
+    {
+      "id": 3,
+      "category": "Pendidikan",
+      "title": "Olimpiade SAINS",
+      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
+    },
+    {
+      "id": 4,
+      "category": "Pendidikan",
+      "title": "Olimpiade Biologi",
+      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade2.png"
+    },
+    {
+      "id": 5,
+      "category": "Hari Nasional",
+      "title": "Hari Kebangkitan Pancasila",
+      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
+    },
+    {
+      "id": 6,
+      "category": "Hari Nasional",
+      "title": "Hari Sumpah Pemuda",
+      "image_link": "frame/pemuda.webp"
+    },
+    {
+      "id": 7,
+      "category": "Lainnya",
+      "title": "PKKTB 2021",
+      "image_link": "frame/pkktb.webp"
+    },
+    {
+      "id": 8,
+      "category": "Lainnya",
+      "title": "Ribut Bikin Kangen",
+      "image_link": "frame/ribut.webp"
+    },
+    {
+      "id": 9,
+      "category": "Hari Nasional",
+      "title": "Hari Santri Nasional",
+      "image_link": "frame/santri2.webp"
+    },
+    {
+      "id": 10,
+      "category": "Hari Raya",
+      "title": "Natal 1",
+      "image_link": "http://archive.org/download/7_20221109_202211/2.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Raya",
+      "title": "Natal 2",
+      "image_link": "http://archive.org/download/7_20221109_202211/1.png"
+    },
+    {
+      "id": 12,
+      "category": "Hari Raya",
+      "title": "Natal 3",
+      "image_link": "http://archive.org/download/7_20221109_202211/3.png"
+    },
+    {
+      "id": 13,
+      "category": "Hari Raya",
+      "title": "Natal 4",
+      "image_link": "http://archive.org/download/7_20221109_202211/4.png"
+    },
+    {
+      "id": 14,
+      "category": "Hari Raya",
+      "title": "Natal 5",
+      "image_link": "http://archive.org/download/7_20221109_202211/5.png"
+    },
+    {
+      "id": 15,
+      "category": "Hari Raya",
+      "title": "Natal 6",
+      "image_link": "http://archive.org/download/7_20221109_202211/6.png"
+    },
+    {
+      "id": 16,
+      "category": "Hari Raya",
+      "title": "Natal 7",
+      "image_link": "http://archive.org/download/7_20221109_202211/7.png"
+    },
+    {
+      "id": 17,
+      "category": "Hari Raya",
+      "title": "Natal 8",
+      "image_link": "http://archive.org/download/7_20221109_202211/8.png"
+    },
+    {
+      "id": 18,
+      "category": "Hari Raya",
+      "title": "Natal 9",
+      "image_link": "http://archive.org/download/7_20221109_202211/9.png"
+    },
+    {
+      "id": 19,
+      "category": "Hari Raya",
+      "title": "Natal 10",
+      "image_link": "http://archive.org/download/7_20221109_202211/10.png"
+    },
+     {
+      "id": 20,
+      "category": "Hari Raya",
+      "title": "Natal 11",
+      "image_link": "http://archive.org/download/7_20221109_202211/11.png"
+    },
+    {
+      "id": 21,
+      "category": "Hari Raya",
+      "title": "Natal 12",
+      "image_link": "http://archive.org/download/7_20221109_202211/12.png"
+    },
+   {
+      "id": 22,
+      "category": "Hari Raya",
+      "title": "Natal 13",
+      "image_link": "http://archive.org/download/7_20221109_202211/13.png"
+    },
+     {
+      "id": 23,
+      "category": "Hari Raya",
+      "title": "Natal 14",
+      "image_link": "http://archive.org/download/7_20221109_202211/14.png"
+    },
+    {
+      "id": 24,
+      "category": "Hari Raya",
+      "title": "Natal 15",
+      "image_link": "http://archive.org/download/7_20221109_202211/15.png"
+    },
+    {
+      "id": 25,
+      "category": "Hari Raya",
+      "title": "Natal 16",
+      "image_link": "http://archive.org/download/7_20221109_202211/16.png"
+    },
+     {
+      "id": 26,
+      "category": "Hari Raya",
+      "title": "Natal 17",
+      "image_link": "http://archive.org/download/7_20221109_202211/17.png"
+    },
+    {
+      "id": 27,
+      "category": "Hari Raya",
+      "title": "Natal 18",
+      "image_link": "http://archive.org/download/7_20221109_202211/18.png"
+    },
+    {
+      "id": 28,
+      "category": "Hari Raya",
+      "title": "Natal 19",
+      "image_link": "http://archive.org/download/7_20221109_202211/19.png"
+    },
+     {
+      "id": 29,
+      "category": "Hari Raya",
+      "title": "Natal 20",
+      "image_link": "http://archive.org/download/7_20221109_202211/20.png"
+    },
+    {
+      "id": 30,
+      "category": "Hari Raya",
+      "title": "Natal 21",
+      "image_link": "http://archive.org/download/7_20221109_202211/21.png"
+    },
+    {
+      "id": 31,
+      "category": "Hari Raya",
+      "title": "Natal 22",
+      "image_link": "http://archive.org/download/7_20221109_202211/22.png"
+    },
+     {
+      "id": 32,
+      "category": "Hari Raya",
+      "title": "Natal 23",
+      "image_link": "http://archive.org/download/7_20221109_202211/23.png"
+    },
+    {
+      "id": 33,
+      "category": "Hari Raya",
+      "title": "Natal 24",
+      "image_link": "http://archive.org/download/7_20221109_202211/24.png"
+    },
+    {
+      "id": 34,
+      "category": "Hari Raya",
+      "title": "Natal 25",
+      "image_link": "http://archive.org/download/7_20221109_202211/25.png"
+    },
+    
+ {
+   "id": 1,
+   "category": "Hari Nasional",
+   "title": "Hapy New Year 2023 1",
+   "image_link": "https://frame.twibbonize.com/5708562d-5172-459d-95d1-6e6c786e6c4e.png"
+ },
+ {
+   "id": 2,
+   "category": "Hari Nasional",
+   "title": "Hapy New Year 2023 2",
+   "image_link": "https://frame.twibbonize.com/f1fee90a-fa04-4fde-9820-951fa9840dfd.png"
+ },
+ {
+   "id": 3,
+   "category": "Hari Nasional",
+   "title": "Hapy New Year 2023 3",
+   "image_link": "https://frame.twibbonize.com/e33e5734-9715-4fbd-82f7-12c2f328ffb7.png"
+ },
+ {
+   "id": 4,
+   "category": "Hari Nasional",
+   "title": "Hapy New Year 2023 4",
+   "image_link": "https://frame.twibbonize.com/a30cf107-dd5f-4259-9eff-b58571c7a47e.png"
+ },
+ {
+   "id": 5,
+   "category": "Hari Nasional",
+   "title": "Hapy New Year 2023 5",
+   "image_link": "https://frame.twibbonize.com/1cbed727-1a9f-4190-974c-658b5f13424e.png"
+ },
+ {
+   "id": 6,
+   "category": "Hari Nasional",
+   "title": "Hapy New Year 2023 6",
+   "image_link": "https://frame.twibbonize.com/77a4ba51-0493-4d01-bcdb-4ad2e854899b.png"
+ },
+ {
+   "id": 7,
+   "category": "Hari Nasional",
+   "title": "Hapy New Year 2023 7",
+   "image_link": "https://frame.twibbonize.com/b5ccd9d7-91da-4351-96f0-fd102003d395.png"
+ },
+ {
+   "id": 8,
+   "category": "Hari Nasional",
+   "title": "Hapy New Year 2023 8",
+   "image_link": "https://frame.twibbonize.com/14d94fe6-af16-4602-8c91-4f208d24b7ab.png"
+ },
+ {
+   "id": 9,
+   "category": "Hari Nasional",
+   "title": "Hapy New Year 2023 9",
+   "image_link": "https://frame.twibbonize.com/7df5ac0a-081e-499d-884b-9c76e219866d.png"
+ },
+ {
+   "id": 10,
+   "category": "Hari Nasional",
+   "title": "Hapy New Year 2023 10",
+   "image_link": "https://frame.twibbonize.com/0ee0756e-d21e-4531-912b-cf91ff427c78.png"
+ },
+ {
+   "id": 11,
+   "category": "Hari Nasional",
+   "title": "Hapy New Year 2023 11",
+   "image_link": "https://frame.twibbonize.com/ba1eea2b-7880-4da4-afc5-457657ed491c.png"
+ },
+ {
    "id": 12,
-   "category": "Lainnya"
-   "title": "Satu Abad NU - Harlah NU__100",
-   "image_link": "https://frame.twibbonize.com/66836c18-3dc6-406e-8b58-0ad1c7f4d576.png"
+   "category": "Hari Nasional",
+   "title": "1 Abad NU",
+   "image_link": "https://frame.twibbonize.com/15f674cd-172f-4a96-9755-c6ab977e2b6b.png"
+ },
+
+ {
+   "id": 1,
+   "category": "Lainnya",
+   "title": "Bulan K3 Nasional",
+   "image_link": "https://frame.twibbonize.com/519329b9-19cf-4d20-82b1-d4047d1bec70.png"
+ },
+ {
+   "id": 2,
+   "category": "Lainnya",
+   "title": "Peringatan Bulan K3",
+   "image_link": "https://frame.twibbonize.com/e7272eca-6ed5-4452-b4ca-ec8a4ad466d6.png"
+ },
+ {
+   "id": 3,
+   "category": "Lainnya",
+   "title": "Satu Abad NU - Harlah NU ke 100",
+   "image_link": "https://asset.twibbonize.com/9672bab2-dab4-4202-ad55-d1e2ad9cbaa0_b0028d3f-8f4d-4ba5-aa09-697563860466.png"
+ },
+ {
+   "id": 4,
+   "category": "Lainnya",
+   "title": "Satu Abad NU - Harlah NU ke100",
+   "image_link": "https://asset.twibbonize.com/9672bab2-dab4-4202-ad55-d1e2ad9cbaa0_07c79bdd-4a72-4d7d-897f-c3bc514effa4.png"
  }
+
   ]
 }
