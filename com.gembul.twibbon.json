@@ -466,7 +466,7 @@
    "title": "7 Abad NU-1",
    "image_link": "https://frame.twibbonize.com/c2ddd0f3-3f32-4a29-b0a0-b395598ad69c.png"
  },
-  {
+ {
    "id": 33,
    "category": "Politik",
    "title": "Cek DPT Online",
@@ -492,9 +492,45 @@
  },
  {
    "id": 37,
-   "category": "Hari Raya",
+   "category": "Hatri Raya",
    "title": "Marhaban Ramadhan",
    "image_link": "https://asset.twibbonize.com/9672bab2-dab4-4202-ad55-d1e2ad9cbaa0_d5594d16-0b64-494c-ab21-ceb3fd3cd6a7.png"
+ },
+ {
+   "id": 38,
+   "category": "Love",
+   "title": "Bucin 1",
+   "image_link": "https://frame.twibbonize.com/95199f8e-ca1c-47da-af67-9f18162b79c8.png"
+ },
+ {
+   "id": 39,
+   "category": "Love",
+   "title": "Bucin 2",
+   "image_link": "https://frame.twibbonize.com/3bdb9fd7-d4c7-474a-a600-2fac1c0886bc.png"
+ },
+ {
+   "id": 40,
+   "category": "Love",
+   "title": "Ribut 1",
+   "image_link": "https://frame.twibbonize.com/24237097-7fca-4feb-affc-c3bd004871b9.png"
+ },
+ {
+   "id": 41,
+   "category": "Love",
+   "title": "Ribut 2",
+   "image_link": "https://frame.twibbonize.com/d64cacb6-749c-4761-a372-a4df24bab0c5.png"
+ },
+ {
+   "id": 42,
+   "category": "Love",
+   "title": "Couple 1",
+   "image_link": "https://frame.twibbonize.com/aa268668-18b0-454c-9f86-2718e8fdcbae.png"
+ },
+ {
+   "id": 43,
+   "category": "Love",
+   "title": "Couple 2",
+   "image_link": "https://frame.twibbonize.com/47ada930-1c0a-448b-9e97-71f587e05cd2.png"
  }
 
   ]
