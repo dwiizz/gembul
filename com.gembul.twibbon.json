@@ -34,6 +34,11 @@
 
     },
     {
+      "category": "Politik",
+      "image_link": "http://archive.org/download/7_20221109_202211/icon.png"
+
+    },
+    {
       "category": "Hari Nasional",
       "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
 
@@ -461,17 +466,35 @@
    "title": "7 Abad NU-1",
    "image_link": "https://frame.twibbonize.com/c2ddd0f3-3f32-4a29-b0a0-b395598ad69c.png"
  },
- {
-   "id": 21,
-   "category": "Lainnya",
-   "title": "8 Abad NU-1",
-   "image_link": "https://frame.twibbonize.com/bae1988a-97c4-40cc-b206-050b6cd00ff8.png"
+  {
+   "id": 33,
+   "category": "Politik",
+   "title": "Cek DPT Online",
+   "image_link": "https://frame.twibbonize.com/8bdb71d0-715a-4194-ba4a-5c6d3d8e4f44.png"
  },
  {
-   "id": 22,
-   "category": "Lainnya",
-   "title": "9 Abad NU-1",
-   "image_link": "https://frame.twibbonize.com/0774fb22-b04a-4e20-96e2-e95204b19781.png"
+   "id": 34,
+   "category": "Politik",
+   "title": "cekdptonline",
+   "image_link": "https://frame.twibbonize.com/2874bc15-6e65-4560-8f69-800f68cffad8.png"
+ },
+ {
+   "id": 35,
+   "category": "Hari Raya",
+   "title": "Marhaban Ramadhan 1444 H",
+   "image_link": "https://asset.twibbonize.com/9672bab2-dab4-4202-ad55-d1e2ad9cbaa0_97f701cc-5635-45c7-bc90-f4f5df1e5c0b.png"
+ },
+ {
+   "id": 36,
+   "category": "Hari Nasional",
+   "title": "IPDI World Kidney Day 2023",
+   "image_link": "https://frame.twibbonize.com/6fa006d7-9a5f-4d1b-8e55-eb803824ef9f.png"
+ },
+ {
+   "id": 37,
+   "category": "Hatri Raya",
+   "title": "Marhaban Ramadhan",
+   "image_link": "https://asset.twibbonize.com/9672bab2-dab4-4202-ad55-d1e2ad9cbaa0_d5594d16-0b64-494c-ab21-ceb3fd3cd6a7.png"
  }
 
   ]
