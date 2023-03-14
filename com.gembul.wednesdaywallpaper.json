@@ -33,9 +33,9 @@
   [
      {
    "id": 1,
-   "title": "Love Wallpaper 4K",
-   "image": "https://play-lh.googleusercontent.com/0eHW8CXg4aI_mBqP7sxiiR-_6_6bdy2RX2PfLDMID7gn1FVoBFBCFTMeKISH8T0BPvXH=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.lovewallpaper"
+   "title": "DragonBall",
+   "image": "https://play-lh.googleusercontent.com/JIZAJER9vCxmtiNBHBS47ef5KTLccGx60ccg4sksdYQFSEz8IxJnZoTnOVV_56KnpDs=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.dragon_ultra"
  },
     {
    "id": 1,
@@ -60,6 +60,12 @@
    "title": "Pastel Cute Wallpaper",
    "image": "https://play-lh.googleusercontent.com/H-0TQJ8QpFzY5nm3vAm95QNUxHGui0EW7-hASvIjeoiEGkp5BOfLaA6LwWa9PqAIpliy=w240-h480",
    "link": "https://play.google.com/store/apps/details?id=com.gembul.pastelwallpaper"
+ },
+     {
+   "id": 1,
+   "title": "Love Wallpaper 4K",
+   "image": "https://play-lh.googleusercontent.com/0eHW8CXg4aI_mBqP7sxiiR-_6_6bdy2RX2PfLDMID7gn1FVoBFBCFTMeKISH8T0BPvXH=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.lovewallpaper"
  },
  {
    "id": 2,
@@ -167,6 +173,12 @@
       "image": "file:///android_asset/image/monochrom/monochrom (1).jpg"
 
     },
+     {
+      "id": 6,
+      "name_category": "Wadinha",
+      "image": "https://i.pinimg.com/736x/63/96/d3/6396d36ce496ffa570a9ec42f8b57084.jpg"
+
+    },
     {
       "id": 5,
       "name_category": "Display",
@@ -177,7 +189,72 @@
 
   "Data":
  [
-   
+    {
+   "id": 379,
+   "name_category": "Wednesday",
+   "title": "Wednesday200",
+   "image": "https://i.pinimg.com/736x/10/53/54/1053549ad98c15c1465d9de270116eff.jpg"
+ },
+ {
+   "id": 380,
+   "name_category": " Fun Art",
+   "title": "Art100",
+   "image": "https://i.pinimg.com/736x/fe/9e/da/fe9eda72debff37dbba0c20236ef3a7a.jpg"
+ },
+ {
+   "id": 381,
+   "name_category": "Wednesday",
+   "title": "Wednesday201",
+   "image": "https://i.pinimg.com/736x/74/5c/e3/745ce39f048f21bda36a9e062421919d.jpg"
+ },
+ {
+   "id": 382,
+   "name_category": "Wadinha",
+   "title": "Wadinha",
+   "image": "https://i.pinimg.com/736x/63/96/d3/6396d36ce496ffa570a9ec42f8b57084.jpg"
+ },
+ {
+   "id": 383,
+   "name_category": "Wednesday",
+   "title": "Wednesday202",
+   "image": "https://i.pinimg.com/736x/a8/8c/d8/a88cd85b64a506eb2290f01b7edf6712.jpg"
+ },
+ {
+   "id": 384,
+   "name_category": "Wednesday",
+   "title": "Wednesday203",
+   "image": "https://i.pinimg.com/736x/13/f2/be/13f2be9487940159a50bdbeae0f17af9.jpg"
+ },
+ {
+   "id": 385,
+   "name_category": "Fun Art",
+   "title": "Art101",
+   "image": "https://i.pinimg.com/736x/d9/13/50/d9135098f39634a0a680942d33f080dc.jpg"
+ },
+ {
+   "id": 386,
+   "name_category": "Fun Art",
+   "title": "Art102",
+   "image": "https://i.pinimg.com/736x/e0/eb/e1/e0ebe1343544a6c9df9f5d542a162576.jpg"
+ },
+ {
+   "id": 387,
+   "name_category": "Wednesday",
+   "title": "Wednesday204",
+   "image": "https://i.pinimg.com/736x/08/4b/74/084b743c6c5bb3a0b18a5c7e4112c987.jpg"
+ },
+ {
+   "id": 388,
+   "name_category": "Wednesday",
+   "title": "Wednesday205",
+   "image": "https://i.pinimg.com/736x/91/05/e4/9105e4f056e754fc5895ea69d9c1de6b.jpg"
+ },
+ {
+   "id": 389,
+   "name_category": "Romance",
+   "title": "Tyler10",
+   "image": "https://i.pinimg.com/736x/1c/1c/91/1c1c91f9fabbe3a2346a8518e46cf844.jpg"
+ },
     {
    "id": 99,
    "name_category": "Enid",
