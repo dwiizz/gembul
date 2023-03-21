@@ -43,41 +43,18 @@
    "image": "https://play-lh.googleusercontent.com/1EoU8raGSrgij-8t4uItR0L8EhJXVrg45A2IoGts98bidpdEbNkyxbAiWLRgkfXDAtlt=w240-h480",
    "link": "https://play.google.com/store/apps/details?id=com.gembul.fake.wednesday.addams"
  },
-    {
+    
+{
    "id": 1,
    "title": "JUICE WRLD Songs",
    "image": "https://play-lh.googleusercontent.com/nYVgo8Hp-GBRSYpZv5xfC2h7-XpAMGAo5yi1xhWjD-WIS-t_Py5oKKYeV1jyy-BHIg=w2560-h1440",
    "link": "https://play.google.com/store/apps/details?id=com.sitilight.juice"
  },
-{
-   "id": 1,
-   "title": "Valentine Wallpaper 4K",
-   "image": "https://play-lh.googleusercontent.com/r4lJHrBMva39CmtyPD0FC-whnYbVTf-oh4hJBaTk5LuvMFEeNVvUp72Z7_tBbBXShPLL=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.valentine"
- },
-     {
-   "id": 1,
-   "title": "Pastel Cute Wallpaper",
-   "image": "https://play-lh.googleusercontent.com/H-0TQJ8QpFzY5nm3vAm95QNUxHGui0EW7-hASvIjeoiEGkp5BOfLaA6LwWa9PqAIpliy=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.pastelwallpaper"
- },
-     {
-   "id": 1,
-   "title": "Love Wallpaper 4K",
-   "image": "https://play-lh.googleusercontent.com/0eHW8CXg4aI_mBqP7sxiiR-_6_6bdy2RX2PfLDMID7gn1FVoBFBCFTMeKISH8T0BPvXH=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.lovewallpaper"
- },
  {
-   "id": 2,
-   "title": "HD Wallpaper n Vivid Wallpaper",
-   "image": "https://play-lh.googleusercontent.com/0ht4CqVoR3EaK7zh9VBX3Y_Do_K4My1qAMVcUDgIU5BXqlhDhhxXxs6LWWKw-nqKJew=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.hdwallpaper"
- },
- {
-   "id": 3,
-   "title": "Preppy Wallpapers Blue",
-   "image": "https://play-lh.googleusercontent.com/Ra7bzITG047OGlM-q9JQErvixoRBPhxWCdk4dQeVWOmgeb_bd2vbS9f5YQNeeC3bH2o=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembulblue.pastelwallpaper"
+   "id": 1,
+   "title": "Gacha GL Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/Ru_Ca70wgdxOLSsvh3JEAMjm1OmgSWsbjMu0jtjKNvgFzTTIfnY6-6KHZrKrwR8m_Hbr=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.gacha"
  },
  {
    "id": 4,
@@ -120,20 +97,8 @@
    "title": "HD Wallpaper n Vivid Wallpaper",
    "image": "https://play-lh.googleusercontent.com/0ht4CqVoR3EaK7zh9VBX3Y_Do_K4My1qAMVcUDgIU5BXqlhDhhxXxs6LWWKw-nqKJew=w240-h480",
    "link": "https://play.google.com/store/apps/details?id=com.gembul.hdwallpaper"
- },
- {
-   "id": 11,
-   "title": "Twibbon Maker : NatalTahunBaru",
-   "image": "https://play-lh.googleusercontent.com/oUzs2ANz8ubhgDlOecDuxAmrpjgCiXf9ZnM2i9xhVRKdim7_FACHa3vIowyojaqKgw=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.twibbonize"
- },
- 
- {
-   "id": 13,
-   "title": "Cek BPKB Online",
-   "image": "https://play-lh.googleusercontent.com/ucZiZNiTtjTkNRG8PjoapeJEzEMeJuRJIVAKzN5bO_51GB8ngecNYhRQuLAzIueQSQ=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.cekbpkbonline"
  }
+ 
   ],
 
   "Categories": [
