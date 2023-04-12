@@ -127,26 +127,26 @@
  },
  {
    "id": 2,
-   "name_category": "Syarat",
-   "title": "Syarat dan Ketentuan",
+   "name_category": "Cek",
+   "title": "Cek BPKB Secara Visual",
    "image": "https://i.pinimg.com/736x/4d/7e/9d/4d7e9d9ed7899ab2e209f390bfe30874.jpg",
-   "description": "Silakan Dibaca Sebelum Menggunakan Aplikasi Ini",
-   "link": "file:///android_asset/syarat.html"
+   "description": "Untuk mengetahui keaslian BPKB dengan cara Berikut",
+   "link": "file:///android_asset/caraCekManual.html"
  },
  {
    "id": 3,
-   "name_category": "Petunjuk",
-   "title": "Pertanyaan Yang sering Ditanyakan",
+   "name_category": "Cek",
+   "title": "Cek BPKB Semua Plat B",
    "image": "https://i.pinimg.com/736x/fb/66/11/fb6611b21dedcbb6756016ad21edd997.jpg",
-   "description": "Kumpulan pertanyaan yang sering ditanyakan dan jawabannya",
-   "link": "file:///android_asset/tanya.html"
+   "description": "Semua Kendaraan Berplat B bisa cek disini",
+   "link": "https://bpkb.net/niknopolck.php"
  },
    {
    "id": 32,
-   "name_category": "Pajak",
-   "title": "PAPUA",
+   "name_category": "Cek",
+   "title": "Periksa Data Registrasi Kendaraan",
    "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
-   "description": "Cek Pajak Kendaraan Provinsi PAPUA",
+   "description": "Untuk mengetahui kendaraan tercatat di data induk Kepolisian atau tidak",
    "link": "http://180.250.219.60:81/cekpajak/"
  }
 ]
