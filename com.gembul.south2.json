@@ -1,0 +1,64 @@
+{
+  "Ads": [
+   {
+      "select_main_ads": "-ADMOB",
+      "select_backup_ads":"-APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-4854064161928888/8654007688",
+      "main_ads_intertitial":"ca-app-pub-4854064161928888/6027844343",
+      "main_ads_natives":"ca-app-pub-4854064161928888/3401681000",
+      "main_ads_rewards":"ca-app-pub-4854064161928888/5357722515",
+      "backup_ads_natives":"2d520de26907a332",
+      "backup_ads_banner":"0c5c909bff244ca2",
+      "backup_ads_intertitial":"c10644528bef7955",
+      "backup_ads_rewards":"0edcf77701ce3c76",
+      "open_ads_admob":"ca-app-pub-4854064161928888/1937352255",
+      "open_ads_alien":"560f9789eb62abe8",
+      "open_ads_max":"560f9789eb62abe8",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 6,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"J-lVpXbHyumUWsu1bwEwtGn2hHmLx6C2bqOJf981D837_yX93nmJClSRkUOCB875OFCUFQbqimV8KhnTquqV56",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+     {
+   "id": 1,
+   "title": "Wednesday Addams Fake VCall",
+   "image": "https://play-lh.googleusercontent.com/1EoU8raGSrgij-8t4uItR0L8EhJXVrg45A2IoGts98bidpdEbNkyxbAiWLRgkfXDAtlt=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.fake.wednesday.addams"
+ }
+     ],
+
+  "Categories": [
+   {
+   "id": 1,
+   "name_category": "South Park 1",
+   "image": "http://archive.org/download/sp-64_202304/sp%20%2814%29.jpg"
+ }
+    ],
+
+  "Data":
+  [
+ {
+   "id": 87,
+   "name_category": "South Park 5",
+   "title": "South Park 5.8",
+   "image": "http://archive.org/download/sp-64_202304/sp%20%2887%29.jpg"
+ },
+    {
+   "id": 26,
+   "name_category": "South Park 2",
+   "title": "South Park 2.7",
+   "image": "http://archive.org/download/sp-64_202304/sp%20%2831%29.jpg"
+ }
+]
+}
