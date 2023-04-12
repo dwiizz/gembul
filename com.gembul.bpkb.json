@@ -1,0 +1,153 @@
+{
+  "Ads": [
+    {
+      
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "ca-app-pub-2365282461254996/1579883746",
+      "main_ads_intertitial":"ca-app-pub-2365282461254996/6704217918",
+      "main_ads_natives":"ca-app-pub-2365282461254996/6477859347",
+      "backup_ads_natives":"123456",
+      "backup_ads_banner":"123456",
+      "backup_ads_intertitial":"123456",
+      "open_ads_admob":"ca-app-pub-2365282461254996/6891944855",
+      "open_ads_alien":"123",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 9,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"203773357",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.ydf.samonline"
+    }
+  ],
+    "More": [
+     {
+   "id": 1,
+   "title": "Cewe Sexy Wallpaper 4K",
+   "image": "https://play-lh.googleusercontent.com/LA_KXSg7PO3e-lkwmZtt-fxgzUxctC6BMenEkRFSuN3qfLwkUSRAH7T4tSfkkRu6mg=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.cutegirlwallpaper"
+ },
+     
+{
+   "id": 4,
+   "title": "Wednesday Adams Wallpapers",
+   "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
+ },
+
+ 
+ {
+   "id": 9,
+   "title": "Cek Pajak Kendaraan Nasional",
+   "image": "https://play-lh.googleusercontent.com/8fn6CkLA1VT7N_dszIVhNAzEVPeDqfpakyDgqKsQr9H2Em99s5clCPQyce5e-nA5bosO=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.ydf.samonline"
+ },
+  {
+   "id": 13,
+   "title": "Gacha GL Free",
+   "image": "https://play-lh.googleusercontent.com/Ru_Ca70wgdxOLSsvh3JEAMjm1OmgSWsbjMu0jtjKNvgFzTTIfnY6-6KHZrKrwR8m_Hbr=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.gacha"
+ },
+       {
+   "id": 16,
+   "title": "Sholawat Ning Umi Laila",
+   "image": "https://play-lh.googleusercontent.com/U9Mwom_pEjYvhPULdlpkxNS1dPnTMQVQPVAvwQdiw6tg9pOaC5j_cMIxxUcj0tX3JUo=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.ning_umi_laila"
+ },
+       {
+   "id": 17,
+   "title": "Video Call bareng Ning Umi Cantik",
+   "image": "https://play-lh.googleusercontent.com/bqWD7MsvGNqF7lY3hNL8BNeSeJYMRezbl9t4TaZnP7yYvyMIK4U1lZUv3K_0xiKd1glL=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.fake.ning_umi_laila"
+ },
+       {
+   "id": 18,
+   "title": "Full Album Adella Terbaru",
+   "image": "https://play-lh.googleusercontent.com/6O74VpJ19ho22wCeXhofek-ARBGzinlo9bT93X9QIFqrlWnX1T4YvLqSebSZioQpMc4=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.adella"
+ },
+ {
+   "id": 11,
+   "title": "Twibbon Maker : Photo Frame",
+   "image": "https://play-lh.googleusercontent.com/oUzs2ANz8ubhgDlOecDuxAmrpjgCiXf9ZnM2i9xhVRKdim7_FACHa3vIowyojaqKgw=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.twibbonize"
+ },
+
+ {
+   "id": 13,
+   "title": "Cek BPKB Online",
+   "image": "https://play-lh.googleusercontent.com/ucZiZNiTtjTkNRG8PjoapeJEzEMeJuRJIVAKzN5bO_51GB8ngecNYhRQuLAzIueQSQ=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.cekbpkbonline"
+ }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Informasi",
+      "image": "https://w7.pngwing.com/pngs/617/409/png-transparent-round-black-i-logo-computer-icons-symbol-details-free-miscellaneous-text-trademark.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Petunjuk",
+      "image": "https://img.lovepik.com/free-png/20210918/lovepik-book-book-png-image_400238641_wh1200.png"
+    },
+    {
+      "id": 3,
+      "name_category": "Pajak",
+      "image": "https://idalamat.com/images/addresses/6218641-samsat-garut-jawa-barat.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Kode Bayar",
+      "image": "https://img.lovepik.com/free-png/20211214/lovepik-female-white-collar-showing-mobile-phone-png-image_401612364_wh860.png"
+    },
+    {
+      "id": 5,
+      "name_category": "Cetak",
+      "image": "https://www.pngitem.com/pimgs/m/197-1973039_manage-print-services-print-icon-in-computer-hd.png"
+    }
+    
+  ],
+  "Data": 
+     
+[
+ {
+   "id": 1,
+   "name_category": "Informasi",
+   "title": "Informasi Pemutihan Terbaru 2023",
+   "image": "https://i.pinimg.com/736x/5c/49/4f/5c494f52a37d3f77ad3c21b6dd9d63e5.jpg",
+   "description": "Berikut beberapa wilayah yang sedang melaksanakan pemutihan :",
+   "link": "https://samolnas.wordpress.com/?s=pemutihan"
+ },
+ {
+   "id": 2,
+   "name_category": "Syarat",
+   "title": "Syarat dan Ketentuan",
+   "image": "https://i.pinimg.com/736x/4d/7e/9d/4d7e9d9ed7899ab2e209f390bfe30874.jpg",
+   "description": "Silakan Dibaca Sebelum Menggunakan Aplikasi Ini",
+   "link": "file:///android_asset/syarat.html"
+ },
+ {
+   "id": 3,
+   "name_category": "Petunjuk",
+   "title": "Pertanyaan Yang sering Ditanyakan",
+   "image": "https://i.pinimg.com/736x/fb/66/11/fb6611b21dedcbb6756016ad21edd997.jpg",
+   "description": "Kumpulan pertanyaan yang sering ditanyakan dan jawabannya",
+   "link": "file:///android_asset/tanya.html"
+ },
+   {
+   "id": 32,
+   "name_category": "Pajak",
+   "title": "PAPUA",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi PAPUA",
+   "link": "http://180.250.219.60:81/cekpajak/"
+ }
+]
+}
