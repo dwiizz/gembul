@@ -41,8 +41,8 @@
   "Categories": [
    {
    "id": 1,
-   "name_category": "South Park 1",
-   "image": "http://archive.org/download/sp-64_202304/sp%20%2814%29.jpg"
+   "name_category": "South Africa",
+   "image": "https://i.pinimg.com/736x/16/8a/c3/168ac39fbcd6556b15f63b71637aef9c.jpg"
  }
     ],
 
@@ -50,15 +50,33 @@
   [
  {
    "id": 87,
-   "name_category": "South Park 5",
-   "title": "South Park 5.8",
-   "image": "http://archive.org/download/sp-64_202304/sp%20%2887%29.jpg"
+   "name_category": "South Africa",
+   "title": "South Africa 1",
+   "image": "https://i.pinimg.com/736x/a2/18/57/a218578973278ed0623a4a331990abcc.jpg"
+ },
+    {
+   "id": 87,
+   "name_category": "South Africa",
+   "title": "South Africa 2",
+   "image": "https://i.pinimg.com/736x/7a/e3/bf/7ae3bf2598109a707237df0c731c686e.jpg"
+ },
+    {
+   "id": 87,
+   "name_category": "South Africa",
+   "title": "South Africa 3",
+   "image": "https://i.pinimg.com/736x/16/8a/c3/168ac39fbcd6556b15f63b71637aef9c.jpg"
+ },
+    {
+   "id": 87,
+   "name_category": "South Africa",
+   "title": "South Africa 4",
+   "image": "https://i.pinimg.com/736x/5f/de/31/5fde313bae15d4bb19ca3cd95bf489bb.jpg"
  },
     {
    "id": 26,
-   "name_category": "South Park 2",
-   "title": "South Park 2.7",
-   "image": "http://archive.org/download/sp-64_202304/sp%20%2831%29.jpg"
+   "name_category": "South Africa",
+   "title": "South Africa 5",
+   "image": "https://i.pinimg.com/736x/fb/be/a6/fbbea69d17de33029b8d4f18c5a28e7b.jpg"
  }
 ]
 }
