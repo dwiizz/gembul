@@ -133,22 +133,190 @@
   
  [
  {
-   "id": 200,
-   "name_category": "Gacha3",
-   "title": "Gacha3 3",
-   "image": "http://archive.org/download/3-18_20230316/3%20%2811%29.jpg"
+   "id": 1,
+   "name_category": "Amanda",
+   "title": "Amanda 1",
+   "image": "http://archive.org/download/g_20230507/a.jpg"
  },
  {
-   "id": 164,
-   "name_category": "Gacha4",
-   "title": "Gacha4 9",
-   "image": "http://archive.org/download/4-20_20230315/4%20%2817%29.jpg"
+   "id": 2,
+   "name_category": "Amanda",
+   "title": "Amanda 2",
+   "image": "http://archive.org/download/g_20230507/b.jpg"
  },
  {
-   "id": 41,
-   "name_category": "Gacha",
-   "title": "Gacha 41",
-   "image": "http://archive.org/download/72_20230314/45.jpg"
+   "id": 3,
+   "name_category": "Amanda",
+   "title": "Amanda 3",
+   "image": "http://archive.org/download/g_20230507/c.jpg"
+ },
+ {
+   "id": 4,
+   "name_category": "Amanda",
+   "title": "Amanda 4",
+   "image": "http://archive.org/download/g_20230507/d.jpg"
+ },
+ {
+   "id": 5,
+   "name_category": "Amanda",
+   "title": "Amanda 5",
+   "image": "http://archive.org/download/g_20230507/e.jpg"
+ },
+ {
+   "id": 6,
+   "name_category": "Amanda",
+   "title": "Amanda 6",
+   "image": "http://archive.org/download/g_20230507/f.jpg"
+ },
+ {
+   "id": 7,
+   "name_category": "Amanda",
+   "title": "Amanda 7",
+   "image": "http://archive.org/download/g_20230507/file_1655532951114.jpg"
+ },
+ {
+   "id": 8,
+   "name_category": "Amanda",
+   "title": "Amanda 8",
+   "image": "http://archive.org/download/g_20230507/file_1655532951310.jpg"
+ },
+ {
+   "id": 9,
+   "name_category": "Amanda",
+   "title": "Amanda 9",
+   "image": "http://archive.org/download/g_20230507/file_1655532951436.jpg"
+ },
+ {
+   "id": 10,
+   "name_category": "Amanda",
+   "title": "Amanda 10",
+   "image": "http://archive.org/download/g_20230507/file_1655532951539.jpg"
+ },
+ {
+   "id": 11,
+   "name_category": "Amanda",
+   "title": "Amanda 11",
+   "image": "http://archive.org/download/g_20230507/file_1655532951662.jpg"
+ },
+ {
+   "id": 12,
+   "name_category": "Amanda",
+   "title": "Amanda 12",
+   "image": "http://archive.org/download/g_20230507/file_1655532951770.jpg"
+ },
+ {
+   "id": 13,
+   "name_category": "Amanda",
+   "title": "Amanda 13",
+   "image": "http://archive.org/download/g_20230507/file_1655532951934.jpg"
+ },
+ {
+   "id": 14,
+   "name_category": "Amanda",
+   "title": "Amanda 14",
+   "image": "http://archive.org/download/g_20230507/file_1655532952085.jpg"
+ },
+ {
+   "id": 15,
+   "name_category": "Amanda",
+   "title": "Amanda 15",
+   "image": "http://archive.org/download/g_20230507/file_1655532952224.jpg"
+ },
+ {
+   "id": 16,
+   "name_category": "Amanda",
+   "title": "Amanda 16",
+   "image": "http://archive.org/download/g_20230507/file_1655532952312.jpg"
+ },
+ {
+   "id": 17,
+   "name_category": "Amanda",
+   "title": "Amanda 17",
+   "image": "http://archive.org/download/g_20230507/file_1655532952425.jpg"
+ },
+ {
+   "id": 18,
+   "name_category": "Amanda",
+   "title": "Amanda 18",
+   "image": "http://archive.org/download/g_20230507/file_1655532952522.jpg"
+ },
+ {
+   "id": 19,
+   "name_category": "Amanda",
+   "title": "Amanda 19",
+   "image": "http://archive.org/download/g_20230507/file_1655532952599.jpg"
+ },
+ {
+   "id": 20,
+   "name_category": "Amanda",
+   "title": "Amanda 20",
+   "image": "http://archive.org/download/g_20230507/file_1655532952675.jpg"
+ },
+ {
+   "id": 21,
+   "name_category": "Amanda",
+   "title": "Amanda 21",
+   "image": "http://archive.org/download/g_20230507/file_1655532952765.jpg"
+ },
+ {
+   "id": 22,
+   "name_category": "Amanda",
+   "title": "Amanda 22",
+   "image": "http://archive.org/download/g_20230507/file_1655532952845.jpg"
+ },
+ {
+   "id": 23,
+   "name_category": "Amanda",
+   "title": "Amanda 23",
+   "image": "http://archive.org/download/g_20230507/file_1655532952981.jpg"
+ },
+ {
+   "id": 24,
+   "name_category": "Amanda",
+   "title": "Amanda 24",
+   "image": "http://archive.org/download/g_20230507/file_1655532953071.jpg"
+ },
+ {
+   "id": 25,
+   "name_category": "Amanda",
+   "title": "Amanda 25",
+   "image": "http://archive.org/download/g_20230507/file_1655532953148.jpg"
+ },
+ {
+   "id": 26,
+   "name_category": "Amanda",
+   "title": "Amanda 26",
+   "image": "http://archive.org/download/g_20230507/file_1655532953274.jpg"
+ },
+ {
+   "id": 27,
+   "name_category": "Amanda",
+   "title": "Amanda 27",
+   "image": "http://archive.org/download/g_20230507/file_1655532953380.jpg"
+ },
+ {
+   "id": 28,
+   "name_category": "Amanda",
+   "title": "Amanda 28",
+   "image": "http://archive.org/download/g_20230507/file_1655532953545.jpg"
+ },
+ {
+   "id": 29,
+   "name_category": "Amanda",
+   "title": "Amanda 29",
+   "image": "http://archive.org/download/g_20230507/file_1655533112371.jpg"
+ },
+ {
+   "id": 30,
+   "name_category": "Amanda",
+   "title": "Amanda 30",
+   "image": "http://archive.org/download/g_20230507/g.jpg"
+ },
+ {
+   "id": 31,
+   "name_category": "Amanda",
+   "title": "Amanda 31",
+   "image": "http://archive.org/download/g_20230507/h.jpg"
  }
 ]
   
