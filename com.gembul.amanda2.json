@@ -1,0 +1,323 @@
+{
+  "Ads": [
+   {
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "0c5c909bff244ca2",
+      "main_ads_intertitial":"c10644528bef7955",
+      "main_ads_natives":"2d520de26907a332",
+      "main_ads_rewards":"0edcf77701ce3c76",
+      "backup_ads_natives":"2d520de26907a332",
+      "backup_ads_banner":"0c5c909bff244ca2",
+      "backup_ads_intertitial":"c10644528bef7955",
+      "backup_ads_rewards":"0edcf77701ce3c76",
+      "open_ads_admob":"ca-app-pub-4854064161928888/1937352255",
+      "open_ads_alien":"560f9789eb62abe8",
+      "open_ads_max":"560f9789eb62abe8",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 6,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"J-lVpXbHyumUWsu1bwEwtGn2hHmLx6C2bqOJf981D837_yX93nmJClSRkUOCB875OFCUFQbqimV8KhnTquqV56",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+     {
+   "id": 4,
+   "title": "Toca Boca Outfit Ideas",
+   "image": "https://play-lh.googleusercontent.com/jfieKnJ6L-7oYYM_6TWH4SZ81xkIXNdezV2JOnOPI7vs9ZBEz_kJfua5YV444p1SyMg=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.toca_outfit"
+ },
+     {
+   "id": 1,
+   "title": "Wednesday Addams Fake VCall",
+   "image": "https://play-lh.googleusercontent.com/1EoU8raGSrgij-8t4uItR0L8EhJXVrg45A2IoGts98bidpdEbNkyxbAiWLRgkfXDAtlt=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.fake.wednesday.addams"
+ },
+     {
+   "id": 1,
+   "title": "Wednesday Addams HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/QaIkWPuN9qfDjL8coR5yAHEV0pg0w9LKYz4PvTCCR4aRGTxj8jbRqarFbjzMtE-NWYE=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.wednesday_addams"
+ },
+     {
+   "id": 13,
+   "title": "Jenna Ortega in Scream 6",
+   "image": "https://play-lh.googleusercontent.com/34xmdFOHcagfo2TdjDs6_1i2WiwEa-sqbp2ISPidWeok7wBrIYduw2_l4YdtHqou5_I=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.scream6"
+ },
+     {
+   "id": 1,
+   "title": "Toca Boca Wednesday",
+   "image": "https://play-lh.googleusercontent.com/k95VZlu_7cYSxneTk2WI-nhnzbielE7CYyjQjFQDVgab1Fbod8Y6NzvmDfumAvV1YOYM=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.tocaboca_wednesday"
+ },
+    {
+   "id": 1,
+   "title": "Gacha 2 HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/GXceIh263PKyU5CIoUdhx0shN68qf3GnD1ofwvxmh-qQN-uCuy03MrXa-yA7Md0PKQ=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.gacha"
+ },
+     {
+   "id": 1,
+   "title": "Broken Screen 4K",
+   "image": "https://play-lh.googleusercontent.com/sgktEtXjuVE8KNb6BwtN1Gt0U-1tB2YetPyu6fEfvghHy65obe39vCTaYYJkAmOXPAIy=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.broken_screen"
+ },
+     {
+   "id": 1,
+   "title": "DragonBall",
+   "image": "https://play-lh.googleusercontent.com/JIZAJER9vCxmtiNBHBS47ef5KTLccGx60ccg4sksdYQFSEz8IxJnZoTnOVV_56KnpDs=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.dragon_ultra"
+ },
+   
+    
+{
+   "id": 1,
+   "title": "Creed 3 HD",
+   "image": "https://play-lh.googleusercontent.com/WkjfxzGDZbX4JT-5F6gKDUGHewWpLSPxSPI7cHVuC44uY-JjfE71U6CY2xZaDWYbu20=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.creed3"
+ },
+
+ {
+   "id": 4,
+   "title": "Wednesday Adams Wallpapers",
+   "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
+ },
+ {
+   "id": 5,
+   "title": "Preppy Wallpapers Pink",
+   "image": "https://play-lh.googleusercontent.com/XWzmWnW6sbirBe5KNZVqyrhpDaiKjdVuumDr3BFZWYAoPN0WGxR-JhcY1Qc-JtkYHA=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaper"
+ }
+  ],
+
+  "Categories": [
+   {
+   "id": 1,
+   "name_category": "Gacha",
+   "image": "http://archive.org/download/72_20230314/18.jpg"
+ },
+     {
+   "id": 2,
+   "name_category": "Gacha2",
+   "image": "http://archive.org/download/2-22_20230316/2%20%2827%29.jpg"
+ },
+     {
+   "id": 3,
+   "name_category": "Gacha3",
+   "image": "http://archive.org/download/3-18_20230316/3%20%2837%29.jpg"
+ },
+     {
+   "id": 4,
+   "name_category": "Gacha4",
+   "image": "http://archive.org/download/4-20_20230315/4%20%2817%29.jpg"
+ },
+ {
+   "id": 5,
+   "name_category": "Gacha 5",
+   "image": "http://archive.org/download/5-39_20230315/5%20%2849%29.jpg"
+ }
+  ],
+
+  "Data":
+  
+ [
+ {
+   "id": 1,
+   "name_category": "Amanda",
+   "title": "Amanda 1",
+   "image": "http://archive.org/download/g_20230507/a.jpg"
+ },
+ {
+   "id": 2,
+   "name_category": "Amanda",
+   "title": "Amanda 2",
+   "image": "http://archive.org/download/g_20230507/b.jpg"
+ },
+ {
+   "id": 3,
+   "name_category": "Amanda",
+   "title": "Amanda 3",
+   "image": "http://archive.org/download/g_20230507/c.jpg"
+ },
+ {
+   "id": 4,
+   "name_category": "Amanda",
+   "title": "Amanda 4",
+   "image": "http://archive.org/download/g_20230507/d.jpg"
+ },
+ {
+   "id": 5,
+   "name_category": "Amanda",
+   "title": "Amanda 5",
+   "image": "http://archive.org/download/g_20230507/e.jpg"
+ },
+ {
+   "id": 6,
+   "name_category": "Amanda",
+   "title": "Amanda 6",
+   "image": "http://archive.org/download/g_20230507/f.jpg"
+ },
+ {
+   "id": 7,
+   "name_category": "Amanda",
+   "title": "Amanda 7",
+   "image": "http://archive.org/download/g_20230507/file_1655532951114.jpg"
+ },
+ {
+   "id": 8,
+   "name_category": "Amanda",
+   "title": "Amanda 8",
+   "image": "http://archive.org/download/g_20230507/file_1655532951310.jpg"
+ },
+ {
+   "id": 9,
+   "name_category": "Amanda",
+   "title": "Amanda 9",
+   "image": "http://archive.org/download/g_20230507/file_1655532951436.jpg"
+ },
+ {
+   "id": 10,
+   "name_category": "Amanda",
+   "title": "Amanda 10",
+   "image": "http://archive.org/download/g_20230507/file_1655532951539.jpg"
+ },
+ {
+   "id": 11,
+   "name_category": "Amanda",
+   "title": "Amanda 11",
+   "image": "http://archive.org/download/g_20230507/file_1655532951662.jpg"
+ },
+ {
+   "id": 12,
+   "name_category": "Amanda",
+   "title": "Amanda 12",
+   "image": "http://archive.org/download/g_20230507/file_1655532951770.jpg"
+ },
+ {
+   "id": 13,
+   "name_category": "Amanda",
+   "title": "Amanda 13",
+   "image": "http://archive.org/download/g_20230507/file_1655532951934.jpg"
+ },
+ {
+   "id": 14,
+   "name_category": "Amanda",
+   "title": "Amanda 14",
+   "image": "http://archive.org/download/g_20230507/file_1655532952085.jpg"
+ },
+ {
+   "id": 15,
+   "name_category": "Amanda",
+   "title": "Amanda 15",
+   "image": "http://archive.org/download/g_20230507/file_1655532952224.jpg"
+ },
+ {
+   "id": 16,
+   "name_category": "Amanda",
+   "title": "Amanda 16",
+   "image": "http://archive.org/download/g_20230507/file_1655532952312.jpg"
+ },
+ {
+   "id": 17,
+   "name_category": "Amanda",
+   "title": "Amanda 17",
+   "image": "http://archive.org/download/g_20230507/file_1655532952425.jpg"
+ },
+ {
+   "id": 18,
+   "name_category": "Amanda",
+   "title": "Amanda 18",
+   "image": "http://archive.org/download/g_20230507/file_1655532952522.jpg"
+ },
+ {
+   "id": 19,
+   "name_category": "Amanda",
+   "title": "Amanda 19",
+   "image": "http://archive.org/download/g_20230507/file_1655532952599.jpg"
+ },
+ {
+   "id": 20,
+   "name_category": "Amanda",
+   "title": "Amanda 20",
+   "image": "http://archive.org/download/g_20230507/file_1655532952675.jpg"
+ },
+ {
+   "id": 21,
+   "name_category": "Amanda",
+   "title": "Amanda 21",
+   "image": "http://archive.org/download/g_20230507/file_1655532952765.jpg"
+ },
+ {
+   "id": 22,
+   "name_category": "Amanda",
+   "title": "Amanda 22",
+   "image": "http://archive.org/download/g_20230507/file_1655532952845.jpg"
+ },
+ {
+   "id": 23,
+   "name_category": "Amanda",
+   "title": "Amanda 23",
+   "image": "http://archive.org/download/g_20230507/file_1655532952981.jpg"
+ },
+ {
+   "id": 24,
+   "name_category": "Amanda",
+   "title": "Amanda 24",
+   "image": "http://archive.org/download/g_20230507/file_1655532953071.jpg"
+ },
+ {
+   "id": 25,
+   "name_category": "Amanda",
+   "title": "Amanda 25",
+   "image": "http://archive.org/download/g_20230507/file_1655532953148.jpg"
+ },
+ {
+   "id": 26,
+   "name_category": "Amanda",
+   "title": "Amanda 26",
+   "image": "http://archive.org/download/g_20230507/file_1655532953274.jpg"
+ },
+ {
+   "id": 27,
+   "name_category": "Amanda",
+   "title": "Amanda 27",
+   "image": "http://archive.org/download/g_20230507/file_1655532953380.jpg"
+ },
+ {
+   "id": 28,
+   "name_category": "Amanda",
+   "title": "Amanda 28",
+   "image": "http://archive.org/download/g_20230507/file_1655532953545.jpg"
+ },
+ {
+   "id": 29,
+   "name_category": "Amanda",
+   "title": "Amanda 29",
+   "image": "http://archive.org/download/g_20230507/file_1655533112371.jpg"
+ },
+ {
+   "id": 30,
+   "name_category": "Amanda",
+   "title": "Amanda 30",
+   "image": "http://archive.org/download/g_20230507/g.jpg"
+ },
+ {
+   "id": 31,
+   "name_category": "Amanda",
+   "title": "Amanda 31",
+   "image": "http://archive.org/download/g_20230507/h.jpg"
+ }
+]
+  
+  }
