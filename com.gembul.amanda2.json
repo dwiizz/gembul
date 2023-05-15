@@ -104,29 +104,10 @@
   "Categories": [
    {
    "id": 1,
-   "name_category": "Gacha",
+   "name_category": "Amanda",
    "image": "http://archive.org/download/72_20230314/18.jpg"
- },
-     {
-   "id": 2,
-   "name_category": "Gacha2",
-   "image": "http://archive.org/download/2-22_20230316/2%20%2827%29.jpg"
- },
-     {
-   "id": 3,
-   "name_category": "Gacha3",
-   "image": "http://archive.org/download/3-18_20230316/3%20%2837%29.jpg"
- },
-     {
-   "id": 4,
-   "name_category": "Gacha4",
-   "image": "http://archive.org/download/4-20_20230315/4%20%2817%29.jpg"
- },
- {
-   "id": 5,
-   "name_category": "Gacha 5",
-   "image": "http://archive.org/download/5-39_20230315/5%20%2849%29.jpg"
  }
+    
   ],
 
   "Data":
