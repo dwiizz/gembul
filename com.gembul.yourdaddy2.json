@@ -106,6 +106,11 @@
    "id": 1,
    "name_category": "Your Daddy",
    "image": "http://archive.org/download/daddy1_202305/daddy5.png"
+ },
+    {
+   "id": 2,
+   "name_category": "Your Daddy 2",
+   "image": "http://archive.org/download/w27_20230518/w7.jpg"
  }
      
   ],
@@ -130,6 +135,222 @@
    "name_category": "Your Daddy",
    "title": "Your Daddy 3",
    "image": "http://archive.org/download/daddy1_202305/daddy3.png"
+ },
+    {
+   "id": 50,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.1",
+   "image": "http://archive.org/download/w27_20230518/w1.jpg"
+ },
+ {
+   "id": 51,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.2",
+   "image": "http://archive.org/download/w27_20230518/w10.jpg"
+ },
+ {
+   "id": 52,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.3",
+   "image": "http://archive.org/download/w27_20230518/w11.jpg"
+ },
+ {
+   "id": 53,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.4",
+   "image": "http://archive.org/download/w27_20230518/w12.jpg"
+ },
+ {
+   "id": 54,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.5",
+   "image": "http://archive.org/download/w27_20230518/w13.jpg"
+ },
+ {
+   "id": 55,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.6",
+   "image": "http://archive.org/download/w27_20230518/w14.jpg"
+ },
+ {
+   "id": 56,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.7",
+   "image": "http://archive.org/download/w27_20230518/w15.jpg"
+ },
+ {
+   "id": 57,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.8",
+   "image": "http://archive.org/download/w27_20230518/w16.jpg"
+ },
+ {
+   "id": 58,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.9",
+   "image": "http://archive.org/download/w27_20230518/w17.jpg"
+ },
+ {
+   "id": 59,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.10",
+   "image": "http://archive.org/download/w27_20230518/w18.jpg"
+ },
+ {
+   "id": 60,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.11",
+   "image": "http://archive.org/download/w27_20230518/w19.jpg"
+ },
+ {
+   "id": 61,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.12",
+   "image": "http://archive.org/download/w27_20230518/w2.jpg"
+ },
+ {
+   "id": 62,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.13",
+   "image": "http://archive.org/download/w27_20230518/w20.jpg"
+ },
+ {
+   "id": 63,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.14",
+   "image": "http://archive.org/download/w27_20230518/w21.jpg"
+ },
+ {
+   "id": 64,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.15",
+   "image": "http://archive.org/download/w27_20230518/w22.jpg"
+ },
+ {
+   "id": 65,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.16",
+   "image": "http://archive.org/download/w27_20230518/w23.jpg"
+ },
+ {
+   "id": 66,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.17",
+   "image": "http://archive.org/download/w27_20230518/w24.jpg"
+ },
+ {
+   "id": 67,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.18",
+   "image": "http://archive.org/download/w27_20230518/w25.jpg"
+ },
+ {
+   "id": 68,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.19",
+   "image": "http://archive.org/download/w27_20230518/w26.jpg"
+ },
+ {
+   "id": 69,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.20",
+   "image": "http://archive.org/download/w27_20230518/w27.jpg"
+ },
+ {
+   "id": 70,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.21",
+   "image": "http://archive.org/download/w27_20230518/w28.jpg"
+ },
+ {
+   "id": 71,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.22",
+   "image": "http://archive.org/download/w27_20230518/w29.jpg"
+ },
+ {
+   "id": 72,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.23",
+   "image": "http://archive.org/download/w27_20230518/w3.jpg"
+ },
+ {
+   "id": 73,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.24",
+   "image": "http://archive.org/download/w27_20230518/w30.jpg"
+ },
+ {
+   "id": 74,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.25",
+   "image": "http://archive.org/download/w27_20230518/w31.jpg"
+ },
+ {
+   "id": 75,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.26",
+   "image": "http://archive.org/download/w27_20230518/w32.jpg"
+ },
+ {
+   "id": 76,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.27",
+   "image": "http://archive.org/download/w27_20230518/w33.jpg"
+ },
+ {
+   "id": 77,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.28",
+   "image": "http://archive.org/download/w27_20230518/w34.jpg"
+ },
+ {
+   "id": 78,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.29",
+   "image": "http://archive.org/download/w27_20230518/w35.jpg"
+ },
+ {
+   "id": 79,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.30",
+   "image": "http://archive.org/download/w27_20230518/w36.jpg"
+ },
+ {
+   "id": 80,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.31",
+   "image": "http://archive.org/download/w27_20230518/w4.jpg"
+ },
+ {
+   "id": 81,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.32",
+   "image": "http://archive.org/download/w27_20230518/w5.jpg"
+ },
+ {
+   "id": 82,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.33",
+   "image": "http://archive.org/download/w27_20230518/w6.jpg"
+ },
+ {
+   "id": 83,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.34",
+   "image": "http://archive.org/download/w27_20230518/w7.jpg"
+ },
+ {
+   "id": 84,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.35",
+   "image": "http://archive.org/download/w27_20230518/w8.jpg"
+ },
+ {
+   "id": 85,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.36",
+   "image": "http://archive.org/download/w27_20230518/w9.jpg"
  },
  {
    "id": 4,
