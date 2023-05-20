@@ -104,48 +104,88 @@
   "Categories": [
    {
    "id": 1,
-   "name_category": "Room 1",
-   "image": "https://cdn.statically.io/gh/dewol0/tocabocaroomideas/main/6.webp"
+   "name_category": "Outfit 1",
+   "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/31.webp"
  },
      {
    "id": 2,
-   "name_category": "Room 2",
-   "image": "https://cdn.statically.io/gh/dewol0/tocabocaroomideas/main/46.webp"
+   "name_category": "Outfit 2",
+   "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/134.webp"
  },
      {
    "id": 3,
-   "name_category": "Room 3",
-   "image": "https://cdn.statically.io/gh/dewol0/tocabocaroomideas/main/91.webp"
+   "name_category": "Outfit 3",
+   "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/157.webp"
  },
      {
    "id": 4,
-   "name_category": "Room 4",
-   "image": "https://cdn.statically.io/gh/dewol0/tocabocaroomideas/main/108.webp"
+   "name_category": "Outfit 4",
+   "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/280.webp"
  },
      {
    "id": 1,
-   "name_category": "Room 5",
-   "image": "https://cdn.statically.io/gh/dewol0/tocabocaroomideas/main/132.webp"
+   "name_category": "Outfit 5",
+   "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/298.webp"
  },
      {
    "id": 2,
-   "name_category": "Room 6",
-   "image": "https://cdn.statically.io/gh/dewol0/tocabocaroomideas/main/135.webp"
+   "name_category": "Outfit 6",
+   "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/321.webp"
  },
      {
    "id": 3,
-   "name_category": "Room 7",
-   "image": "https://cdn.statically.io/gh/dewol0/tocabocaroomideas/main/151.webp"
+   "name_category": "Outfit 7",
+   "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/365.webp"
  },
      {
    "id": 4,
-   "name_category": "Room 8",
-   "image": "https://cdn.statically.io/gh/dewol0/tocabocaroomideas/main/169.webp"
+   "name_category": "Outfit 8",
+   "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/407.webp"
+ },
+     {
+   "id": 1,
+   "name_category": "Outfit 9",
+   "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/436.webp"
+ },
+     {
+   "id": 2,
+   "name_category": "Outfit 10",
+   "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/508.webp"
+ },
+     {
+   "id": 3,
+   "name_category": "Outfit 11",
+   "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/545.webp"
+ },
+     {
+   "id": 4,
+   "name_category": "Outfit 12",
+   "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/619.webp"
+ },
+     {
+   "id": 1,
+   "name_category": "Outfit 13",
+   "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/729.webp"
+ },
+     {
+   "id": 2,
+   "name_category": "Outfit 14",
+   "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/799.webp"
+ },
+     {
+   "id": 3,
+   "name_category": "Outfit 15",
+   "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/835.webp"
+ },
+     {
+   "id": 4,
+   "name_category": "Outfit 16",
+   "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/884.webp"
  },
  {
    "id": 5,
-   "name_category": "Room 9",
-   "image": "https://cdn.statically.io/gh/dewol0/tocabocaroomideas/main/189.webp"
+   "name_category": "Outfit 17",
+   "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/962.webp"
  }
   ],
 
