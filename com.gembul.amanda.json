@@ -1,23 +1,23 @@
 {
   "Ads": [
    {
-      "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "0c5c909bff244ca2",
-      "main_ads_intertitial":"c10644528bef7955",
-      "main_ads_natives":"2d520de26907a332",
-      "main_ads_rewards":"0edcf77701ce3c76",
-      "backup_ads_natives":"2d520de26907a332",
-      "backup_ads_banner":"0c5c909bff244ca2",
-      "backup_ads_intertitial":"c10644528bef7955",
-      "backup_ads_rewards":"0edcf77701ce3c76",
-      "open_ads_admob":"ca-app-pub-4854064161928888/1937352255",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "ca-app-pub-2365282461254996/6429156215",
+      "main_ads_intertitial":"ca-app-pub-2365282461254996/3802992873",
+      "main_ads_natives":"ca-app-pub-2365282461254996/8805351190",
+      "main_ads_rewards":"ca-app-pub-2365282461254996/7000001856",
+      "backup_ads_natives":"123456",
+      "backup_ads_banner":"123456",
+      "backup_ads_intertitial":"123456",
+      "backup_ads_rewards":"123456",
+      "open_ads_admob":"ca-app-pub-2365282461254996/3797439233",
       "open_ads_alien":"560f9789eb62abe8",
       "open_ads_max":"560f9789eb62abe8",
       "on_off_native_listview":"1",
       "interval_intertitial": 6,
       "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"J-lVpXbHyumUWsu1bwEwtGn2hHmLx6C2bqOJf981D837_yX93nmJClSRkUOCB875OFCUFQbqimV8KhnTquqV56",
+      "initialize_sdk_backup_ads":"203773357",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -104,29 +104,10 @@
   "Categories": [
    {
    "id": 1,
-   "name_category": "Gacha",
+   "name_category": "Amanda",
    "image": "http://archive.org/download/72_20230314/18.jpg"
- },
-     {
-   "id": 2,
-   "name_category": "Gacha2",
-   "image": "http://archive.org/download/2-22_20230316/2%20%2827%29.jpg"
- },
-     {
-   "id": 3,
-   "name_category": "Gacha3",
-   "image": "http://archive.org/download/3-18_20230316/3%20%2837%29.jpg"
- },
-     {
-   "id": 4,
-   "name_category": "Gacha4",
-   "image": "http://archive.org/download/4-20_20230315/4%20%2817%29.jpg"
- },
- {
-   "id": 5,
-   "name_category": "Gacha 5",
-   "image": "http://archive.org/download/5-39_20230315/5%20%2849%29.jpg"
  }
+    
   ],
 
   "Data":
