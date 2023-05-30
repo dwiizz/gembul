@@ -2,22 +2,22 @@
   "Ads": [
    {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"STARTAPP",
+      "select_backup_ads":"FAN",
       "main_ads_banner": "ca-app-pub-2365282461254996/6429156215",
       "main_ads_intertitial":"ca-app-pub-2365282461254996/3802992873",
       "main_ads_natives":"ca-app-pub-2365282461254996/8805351190",
       "main_ads_rewards":"ca-app-pub-2365282461254996/7000001856",
-      "backup_ads_natives":"123456",
-      "backup_ads_banner":"123456",
-      "backup_ads_intertitial":"123456",
-      "backup_ads_rewards":"123456",
+      "backup_ads_natives":"225339753616285_225340640282863",
+      "backup_ads_banner":"225339753616285_225340366949557",
+      "backup_ads_intertitial":"225339753616285_225340450282882",
+      "backup_ads_rewards":"225339753616285_225340670282860",
       "open_ads_admob":"ca-app-pub-2365282461254996/3797439233",
       "open_ads_alien":"560f9789eb62abe8",
       "open_ads_max":"560f9789eb62abe8",
       "on_off_native_listview":"1",
       "interval_intertitial": 6,
       "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"203773357",
+      "initialize_sdk_backup_ads":"225339753616285",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -30,6 +30,30 @@
   ],
   "More":
   [
+     {
+   "id": 4,
+   "title": "Gacha Plus HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/l6hjuoZqetQyJQAJ381mklSMHBPX77aqGXGW_4itKeMtq10bz53Er3UuhCD_sRnPZg=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.gachaplus"
+ },
+     {
+   "id": 4,
+   "title": "Toca Boca Room Ideas",
+   "image": "https://play-lh.googleusercontent.com/cguCjlxWtdD2Uxa_pz0QdLVQ1UyV7clWDjxdqNrAf3pbLLu37PVRy0HY8Y8jAZQ_maE=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.toca_room"
+ },
+     {
+   "id": 4,
+   "title": "Gacha Life Outfit Ideas",
+   "image": "https://play-lh.googleusercontent.com/siwIwkxwSLp-Rx1ZYgdaLKWYRkm0sR1brsNHsux0ID0uh--321pt-dBN8m89y3FmoZI=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.gacha_outfit"
+ },
+     {
+   "id": 4,
+   "title": "Who's Your Daddy 2 HD",
+   "image": "https://play-lh.googleusercontent.com/56FVlinI091lWoG26bULUV7eOO4C7ml-TSUJQoqdSy1QnTFGxPYSc9o-gs25p-4ZSzI=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.daddy"
+ },
      {
    "id": 4,
    "title": "Toca Boca Outfit Ideas",
@@ -106,6 +130,11 @@
    "id": 1,
    "name_category": "Amanda",
    "image": "http://archive.org/download/72_20230314/18.jpg"
+ },
+    {
+   "id": 2,
+   "name_category": "Amanda 2",
+   "image": "http://archive.org/download/da-12/da%20%2825%29.png"
  }
     
   ],
@@ -154,6 +183,174 @@
    "name_category": "Amanda",
    "title": "Amanda 7",
    "image": "http://archive.org/download/g_20230507/file_1655532951114.jpg"
+ },
+    {
+   "id": 54,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.1",
+   "image": "http://archive.org/download/da-12/da%20%281%29.png"
+ },
+ {
+   "id": 55,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.2",
+   "image": "http://archive.org/download/da-12/da%20%2810%29.png"
+ },
+ {
+   "id": 56,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.3",
+   "image": "http://archive.org/download/da-12/da%20%2811%29.png"
+ },
+ {
+   "id": 57,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.4",
+   "image": "http://archive.org/download/da-12/da%20%2812%29.png"
+ },
+ {
+   "id": 58,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.5",
+   "image": "http://archive.org/download/da-12/da%20%2813%29.png"
+ },
+ {
+   "id": 59,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.6",
+   "image": "http://archive.org/download/da-12/da%20%2814%29.png"
+ },
+ {
+   "id": 60,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.7",
+   "image": "http://archive.org/download/da-12/da%20%2815%29.png"
+ },
+ {
+   "id": 61,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.8",
+   "image": "http://archive.org/download/da-12/da%20%2816%29.png"
+ },
+ {
+   "id": 62,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.9",
+   "image": "http://archive.org/download/da-12/da%20%2817%29.png"
+ },
+ {
+   "id": 63,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.10",
+   "image": "http://archive.org/download/da-12/da%20%2818%29.png"
+ },
+ {
+   "id": 64,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.11",
+   "image": "http://archive.org/download/da-12/da%20%2819%29.png"
+ },
+ {
+   "id": 65,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.12",
+   "image": "http://archive.org/download/da-12/da%20%282%29.png"
+ },
+ {
+   "id": 66,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.13",
+   "image": "http://archive.org/download/da-12/da%20%2820%29.png"
+ },
+ {
+   "id": 67,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.14",
+   "image": "http://archive.org/download/da-12/da%20%2821%29.png"
+ },
+ {
+   "id": 68,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.15",
+   "image": "http://archive.org/download/da-12/da%20%2822%29.png"
+ },
+ {
+   "id": 69,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.16",
+   "image": "http://archive.org/download/da-12/da%20%2823%29.png"
+ },
+ {
+   "id": 70,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.17",
+   "image": "http://archive.org/download/da-12/da%20%2824%29.png"
+ },
+ {
+   "id": 71,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.18",
+   "image": "http://archive.org/download/da-12/da%20%2825%29.png"
+ },
+ {
+   "id": 72,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.19",
+   "image": "http://archive.org/download/da-12/da%20%2826%29.png"
+ },
+ {
+   "id": 73,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.20",
+   "image": "http://archive.org/download/da-12/da%20%2827%29.png"
+ },
+ {
+   "id": 74,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.21",
+   "image": "http://archive.org/download/da-12/da%20%2828%29.png"
+ },
+ {
+   "id": 75,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.22",
+   "image": "http://archive.org/download/da-12/da%20%283%29.png"
+ },
+ {
+   "id": 76,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.23",
+   "image": "http://archive.org/download/da-12/da%20%284%29.png"
+ },
+ {
+   "id": 77,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.24",
+   "image": "http://archive.org/download/da-12/da%20%285%29.png"
+ },
+ {
+   "id": 78,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.25",
+   "image": "http://archive.org/download/da-12/da%20%286%29.png"
+ },
+ {
+   "id": 79,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.26",
+   "image": "http://archive.org/download/da-12/da%20%287%29.png"
+ },
+ {
+   "id": 80,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.27",
+   "image": "http://archive.org/download/da-12/da%20%288%29.png"
+ },
+ {
+   "id": 81,
+   "name_category": "Amanda 2",
+   "title": "Amanda 2.28",
+   "image": "http://archive.org/download/da-12/da%20%289%29.png"
  },
  {
    "id": 8,
