@@ -1,0 +1,605 @@
+{
+  "Ads": [
+   {
+      "select_main_ads": "-ADMOB",
+      "select_backup_ads":"-STARTAPP",
+      "main_ads_banner": "ca-app-pub-2365282461254996/9793686159",
+      "main_ads_intertitial":"ca-app-pub-2365282461254996/4674534491",
+      "main_ads_natives":"ca-app-pub-2365282461254996/5979877304",
+      "main_ads_rewards":"ca-app-pub-2365282461254996/3745468344",
+      "backup_ads_natives":"123456",
+      "backup_ads_banner":"123456",
+      "backup_ads_intertitial":"123456",
+      "backup_ads_rewards":"123456",
+      "open_ads_admob":"ca-app-pub-2365282461254996/2101214180",
+      "open_ads_alien":"560f9789eb62abe8",
+      "open_ads_max":"560f9789eb62abe8",
+      "on_off_native_listview":"0",
+      "interval_intertitial": 6,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"203773357",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    
+     {
+   "id": 4,
+   "title": "Gacha Plus HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/l6hjuoZqetQyJQAJ381mklSMHBPX77aqGXGW_4itKeMtq10bz53Er3UuhCD_sRnPZg=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.gachaplus"
+ },
+     {
+   "id": 4,
+   "title": "Toca Boca Room Ideas",
+   "image": "https://play-lh.googleusercontent.com/cguCjlxWtdD2Uxa_pz0QdLVQ1UyV7clWDjxdqNrAf3pbLLu37PVRy0HY8Y8jAZQ_maE=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.toca_room"
+ },
+     {
+   "id": 4,
+   "title": "Gacha Life Outfit Ideas",
+   "image": "https://play-lh.googleusercontent.com/siwIwkxwSLp-Rx1ZYgdaLKWYRkm0sR1brsNHsux0ID0uh--321pt-dBN8m89y3FmoZI=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.gacha_outfit"
+ },
+    
+   
+    {
+   "id": 4,
+   "title": "Amanda Adventurer 2 Wallpapper",
+   "image": "https://play-lh.googleusercontent.com/L8sojGG2Jg94P7b1dSDHYMYG_QizuwlT21fUxpgSTSld08yv8i1ImrSH5oVXTptDk4w=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.amanda"
+ },
+     {
+   "id": 4,
+   "title": "Toca Boca Outfit Ideas",
+   "image": "https://play-lh.googleusercontent.com/jfieKnJ6L-7oYYM_6TWH4SZ81xkIXNdezV2JOnOPI7vs9ZBEz_kJfua5YV444p1SyMg=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.toca_outfit"
+ },
+     {
+   "id": 1,
+   "title": "Wednesday Addams Fake VCall",
+   "image": "https://play-lh.googleusercontent.com/1EoU8raGSrgij-8t4uItR0L8EhJXVrg45A2IoGts98bidpdEbNkyxbAiWLRgkfXDAtlt=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.fake.wednesday.addams"
+ },
+     {
+   "id": 1,
+   "title": "Wednesday Addams HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/QaIkWPuN9qfDjL8coR5yAHEV0pg0w9LKYz4PvTCCR4aRGTxj8jbRqarFbjzMtE-NWYE=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.wednesday_addams"
+ },
+     {
+   "id": 13,
+   "title": "Jenna Ortega in Scream 6",
+   "image": "https://play-lh.googleusercontent.com/34xmdFOHcagfo2TdjDs6_1i2WiwEa-sqbp2ISPidWeok7wBrIYduw2_l4YdtHqou5_I=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.scream6"
+ },
+     {
+   "id": 1,
+   "title": "Toca Boca Wednesday",
+   "image": "https://play-lh.googleusercontent.com/k95VZlu_7cYSxneTk2WI-nhnzbielE7CYyjQjFQDVgab1Fbod8Y6NzvmDfumAvV1YOYM=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.tocaboca_wednesday"
+ },
+    {
+   "id": 1,
+   "title": "Gacha 2 HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/GXceIh263PKyU5CIoUdhx0shN68qf3GnD1ofwvxmh-qQN-uCuy03MrXa-yA7Md0PKQ=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.gacha"
+ },
+     {
+   "id": 1,
+   "title": "Broken Screen 4K",
+   "image": "https://play-lh.googleusercontent.com/sgktEtXjuVE8KNb6BwtN1Gt0U-1tB2YetPyu6fEfvghHy65obe39vCTaYYJkAmOXPAIy=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.broken_screen"
+ },
+     {
+   "id": 1,
+   "title": "DragonBall",
+   "image": "https://play-lh.googleusercontent.com/JIZAJER9vCxmtiNBHBS47ef5KTLccGx60ccg4sksdYQFSEz8IxJnZoTnOVV_56KnpDs=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.dragon_ultra"
+ },
+   
+    
+{
+   "id": 1,
+   "title": "Creed 3 HD",
+   "image": "https://play-lh.googleusercontent.com/WkjfxzGDZbX4JT-5F6gKDUGHewWpLSPxSPI7cHVuC44uY-JjfE71U6CY2xZaDWYbu20=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.creed3"
+ },
+
+ {
+   "id": 4,
+   "title": "Wednesday Adams Wallpapers",
+   "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
+ },
+ {
+   "id": 5,
+   "title": "Preppy Wallpapers Pink",
+   "image": "https://play-lh.googleusercontent.com/XWzmWnW6sbirBe5KNZVqyrhpDaiKjdVuumDr3BFZWYAoPN0WGxR-JhcY1Qc-JtkYHA=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaper"
+ }
+  ],
+
+  "Categories": [
+   {
+   "id": 1,
+   "name_category": "Your Daddy",
+   "image": "http://archive.org/download/daddy1_202305/daddy5.png"
+ },
+    {
+   "id": 2,
+   "name_category": "Your Daddy 2",
+   "image": "http://archive.org/download/w27_20230518/w7.jpg"
+ },
+     {
+   "id": 3,
+   "name_category": "Your Daddy 3",
+   "image": "https://i.pinimg.com/564x/68/04/b7/6804b7ecd7edb3a332054a4dc3c38879.jpg"
+ }
+     
+  ],
+
+  "Data":
+  
+ [
+ {
+   "id": 1,
+   "name_category": "Your Daddy",
+   "title": "Your Daddy 1",
+   "image": "http://archive.org/download/daddy1_202305/daddy1.png"
+ },
+ {
+   "id": 2,
+   "name_category": "Your Daddy",
+   "title": "Your Daddy 2",
+   "image": "http://archive.org/download/daddy1_202305/daddy2.png"
+ },
+ {
+   "id": 3,
+   "name_category": "Your Daddy",
+   "title": "Your Daddy 3",
+   "image": "http://archive.org/download/daddy1_202305/daddy3.png"
+ },
+    {
+   "id": 50,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.1",
+   "image": "http://archive.org/download/w27_20230518/w1.jpg"
+ },
+    {
+   "id": 100,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.1",
+   "image": "https://i.pinimg.com/564x/84/b8/75/84b875cfcbc3e9bafc789c96dd69d960.jpg"
+ },
+ {
+   "id": 101,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.2",
+   "image": "https://i.pinimg.com/564x/32/7c/74/327c74259d495c82b8ebfd75a1f8e10c.jpg"
+ },
+ {
+   "id": 102,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.3",
+   "image": "https://i.pinimg.com/564x/68/04/b7/6804b7ecd7edb3a332054a4dc3c38879.jpg"
+ },
+ {
+   "id": 103,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.4",
+   "image": "https://i.pinimg.com/564x/40/f1/8a/40f18aaf6354add99e202c5024110d9b.jpg"
+ },
+ {
+   "id": 104,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.5",
+   "image": "https://i.pinimg.com/564x/70/9b/34/709b342c2de2b040d107409fab19cbe1.jpg"
+ },
+ {
+   "id": 105,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.6",
+   "image": "https://i.pinimg.com/564x/8d/b1/01/8db10172b820799bafd7c8d65c7b890d.jpg"
+ },
+ {
+   "id": 106,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.7",
+   "image": "https://i.pinimg.com/564x/42/61/0e/42610e4fddd29315dc482d30d316776a.jpg"
+ },
+ {
+   "id": 107,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.8",
+   "image": "https://i.pinimg.com/564x/86/2d/d3/862dd3df531b1e6237cb85dd90455854.jpg"
+ },
+ {
+   "id": 108,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.9",
+   "image": "https://i.pinimg.com/564x/30/10/9a/30109a0e8dd8fa620beb077387e2ede7.jpg"
+ },
+ {
+   "id": 109,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.10",
+   "image": "https://i.pinimg.com/564x/43/d7/6e/43d76e22d08a89eeaa8788b1301e74b5.jpg"
+ },
+ {
+   "id": 110,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.11",
+   "image": "https://i.pinimg.com/564x/11/77/b9/1177b905f2b64c42d32e09e81d07a44a.jpg"
+ },
+ {
+   "id": 111,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.12",
+   "image": "https://i.pinimg.com/564x/43/05/88/4305886f410ce3b21feae054ce0246d9.jpg"
+ },
+ {
+   "id": 112,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.13",
+   "image": "https://i.pinimg.com/564x/7f/46/da/7f46da7defd23ef24c06d6c0fdd8f5c0.jpg"
+ },
+ {
+   "id": 113,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.14",
+   "image": "https://i.pinimg.com/564x/a8/96/46/a896469af73d3b19e9620bedbcca42a7.jpg"
+ },
+ {
+   "id": 114,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.15",
+   "image": "https://i.pinimg.com/564x/d4/ba/e4/d4bae4ecad6600de0113e048f66af61f.jpg"
+ },
+ {
+   "id": 115,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.16",
+   "image": "https://i.pinimg.com/564x/b8/21/a0/b821a0db67b1b25267a4346d9115ec76.jpg"
+ },
+ {
+   "id": 116,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.17",
+   "image": "https://i.pinimg.com/564x/6d/47/f7/6d47f70eba3bc32ce7008b16da7b0b13.jpg"
+ },
+ {
+   "id": 117,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.18",
+   "image": "https://i.pinimg.com/564x/66/22/78/662278a57e9e41d730e44a6d2b1864fb.jpg"
+ },
+ {
+   "id": 118,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.19",
+   "image": "https://i.pinimg.com/564x/25/6b/aa/256baad0e2d4966be3120f64a1ce62c2.jpg"
+ },
+ {
+   "id": 119,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.20",
+   "image": "https://i.pinimg.com/564x/79/b9/8a/79b98af6f72c75ece70ad4e78da19c26.jpg"
+ },
+ {
+   "id": 120,
+   "name_category": "Your Daddy 3",
+   "title": "Your Daddy 3.21",
+   "image": "https://i.pinimg.com/564x/5a/16/14/5a1614aa0d3f46894b98e281c028fe06.jpg"
+ },
+ {
+   "id": 51,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.2",
+   "image": "http://archive.org/download/w27_20230518/w10.jpg"
+ },
+ {
+   "id": 52,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.3",
+   "image": "http://archive.org/download/w27_20230518/w11.jpg"
+ },
+ {
+   "id": 53,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.4",
+   "image": "http://archive.org/download/w27_20230518/w12.jpg"
+ },
+ {
+   "id": 54,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.5",
+   "image": "http://archive.org/download/w27_20230518/w13.jpg"
+ },
+ {
+   "id": 55,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.6",
+   "image": "http://archive.org/download/w27_20230518/w14.jpg"
+ },
+ {
+   "id": 56,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.7",
+   "image": "http://archive.org/download/w27_20230518/w15.jpg"
+ },
+ {
+   "id": 57,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.8",
+   "image": "http://archive.org/download/w27_20230518/w16.jpg"
+ },
+ {
+   "id": 58,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.9",
+   "image": "http://archive.org/download/w27_20230518/w17.jpg"
+ },
+ {
+   "id": 59,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.10",
+   "image": "http://archive.org/download/w27_20230518/w18.jpg"
+ },
+ {
+   "id": 60,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.11",
+   "image": "http://archive.org/download/w27_20230518/w19.jpg"
+ },
+ {
+   "id": 61,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.12",
+   "image": "http://archive.org/download/w27_20230518/w2.jpg"
+ },
+ {
+   "id": 62,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.13",
+   "image": "http://archive.org/download/w27_20230518/w20.jpg"
+ },
+ {
+   "id": 63,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.14",
+   "image": "http://archive.org/download/w27_20230518/w21.jpg"
+ },
+ {
+   "id": 64,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.15",
+   "image": "http://archive.org/download/w27_20230518/w22.jpg"
+ },
+ {
+   "id": 65,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.16",
+   "image": "http://archive.org/download/w27_20230518/w23.jpg"
+ },
+ {
+   "id": 66,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.17",
+   "image": "http://archive.org/download/w27_20230518/w24.jpg"
+ },
+ {
+   "id": 67,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.18",
+   "image": "http://archive.org/download/w27_20230518/w25.jpg"
+ },
+ {
+   "id": 68,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.19",
+   "image": "http://archive.org/download/w27_20230518/w26.jpg"
+ },
+ {
+   "id": 69,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.20",
+   "image": "http://archive.org/download/w27_20230518/w27.jpg"
+ },
+ {
+   "id": 70,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.21",
+   "image": "http://archive.org/download/w27_20230518/w28.jpg"
+ },
+ {
+   "id": 71,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.22",
+   "image": "http://archive.org/download/w27_20230518/w29.jpg"
+ },
+ {
+   "id": 72,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.23",
+   "image": "http://archive.org/download/w27_20230518/w3.jpg"
+ },
+ {
+   "id": 73,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.24",
+   "image": "http://archive.org/download/w27_20230518/w30.jpg"
+ },
+ {
+   "id": 74,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.25",
+   "image": "http://archive.org/download/w27_20230518/w31.jpg"
+ },
+ {
+   "id": 75,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.26",
+   "image": "http://archive.org/download/w27_20230518/w32.jpg"
+ },
+ {
+   "id": 76,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.27",
+   "image": "http://archive.org/download/w27_20230518/w33.jpg"
+ },
+ {
+   "id": 77,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.28",
+   "image": "http://archive.org/download/w27_20230518/w34.jpg"
+ },
+ {
+   "id": 78,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.29",
+   "image": "http://archive.org/download/w27_20230518/w35.jpg"
+ },
+ {
+   "id": 79,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.30",
+   "image": "http://archive.org/download/w27_20230518/w36.jpg"
+ },
+ {
+   "id": 80,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.31",
+   "image": "http://archive.org/download/w27_20230518/w4.jpg"
+ },
+ {
+   "id": 81,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.32",
+   "image": "http://archive.org/download/w27_20230518/w5.jpg"
+ },
+ {
+   "id": 82,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.33",
+   "image": "http://archive.org/download/w27_20230518/w6.jpg"
+ },
+ {
+   "id": 83,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.34",
+   "image": "http://archive.org/download/w27_20230518/w7.jpg"
+ },
+ {
+   "id": 84,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.35",
+   "image": "http://archive.org/download/w27_20230518/w8.jpg"
+ },
+ {
+   "id": 85,
+   "name_category": "Your Daddy 2",
+   "title": "Your Daddy 2.36",
+   "image": "http://archive.org/download/w27_20230518/w9.jpg"
+ },
+ {
+   "id": 4,
+   "name_category": "Your Daddy",
+   "title": "Your Daddy 4",
+   "image": "http://archive.org/download/daddy1_202305/daddy4.png"
+ },
+ {
+   "id": 5,
+   "name_category": "Your Daddy",
+   "title": "Your Daddy 5",
+   "image": "http://archive.org/download/daddy1_202305/daddy5.png"
+ },
+ {
+   "id": 6,
+   "name_category": "Your Daddy",
+   "title": "Your Daddy 6",
+   "image": "http://archive.org/download/daddy1_202305/daddy6.png"
+ },
+ {
+   "id": 7,
+   "name_category": "Your Daddy",
+   "title": "Your Daddy 7",
+   "image": "http://archive.org/download/daddy1_202305/daddy7.png"
+ },
+ {
+   "id": 8,
+   "name_category": "Your Daddy",
+   "title": "Your Daddy 8",
+   "image": "http://archive.org/download/daddy1_202305/daddy8.png"
+ },
+ {
+   "id": 9,
+   "name_category": "Your Daddy",
+   "title": "Your Daddy 9",
+   "image": "http://archive.org/download/daddy1_202305/im1.jpg"
+ },
+ {
+   "id": 10,
+   "name_category": "Your Daddy",
+   "title": "Your Daddy 10",
+   "image": "http://archive.org/download/daddy1_202305/im10.jpg"
+ },
+ {
+   "id": 11,
+   "name_category": "Your Daddy",
+   "title": "Your Daddy 11",
+   "image": "http://archive.org/download/daddy1_202305/im2.jpg"
+ },
+ {
+   "id": 12,
+   "name_category": "Your Daddy",
+   "title": "Your Daddy 12",
+   "image": "http://archive.org/download/daddy1_202305/im3.jpg"
+ },
+ {
+   "id": 13,
+   "name_category": "Your Daddy",
+   "title": "Your Daddy 13",
+   "image": "http://archive.org/download/daddy1_202305/im4.jpg"
+ },
+ {
+   "id": 14,
+   "name_category": "Your Daddy",
+   "title": "Your Daddy 14",
+   "image": "http://archive.org/download/daddy1_202305/im5.jpg"
+ },
+ {
+   "id": 15,
+   "name_category": "Your Daddy",
+   "title": "Your Daddy 15",
+   "image": "http://archive.org/download/daddy1_202305/im6.jpg"
+ },
+ {
+   "id": 16,
+   "name_category": "Your Daddy",
+   "title": "Your Daddy 16",
+   "image": "http://archive.org/download/daddy1_202305/im7.jpg"
+ },
+ {
+   "id": 17,
+   "name_category": "Your Daddy",
+   "title": "Your Daddy 17",
+   "image": "http://archive.org/download/daddy1_202305/im8.jpg"
+ },
+ {
+   "id": 18,
+   "name_category": "Your Daddy",
+   "title": "Your Daddy 18",
+   "image": "http://archive.org/download/daddy1_202305/im9.jpg"
+ }
+]
+  
+  }
