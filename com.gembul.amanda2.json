@@ -1,507 +1,1165 @@
 {
-  "Ads": [
-   {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"FAN",
-      "main_ads_banner": "ca-app-pub-2365282461254996/6429156215",
-      "main_ads_intertitial":"ca-app-pub-2365282461254996/3802992873",
-      "main_ads_natives":"ca-app-pub-2365282461254996/8805351190",
-      "main_ads_rewards":"ca-app-pub-2365282461254996/7000001856",
-      "backup_ads_natives":"225339753616285_225340640282863",
-      "backup_ads_banner":"225339753616285_225340366949557",
-      "backup_ads_intertitial":"225339753616285_225340450282882",
-      "backup_ads_rewards":"225339753616285_225340670282860",
-      "open_ads_admob":"ca-app-pub-2365282461254996/3797439233",
-      "open_ads_alien":"560f9789eb62abe8",
-      "open_ads_max":"560f9789eb62abe8",
-      "on_off_native_listview":"1",
-      "interval_intertitial": 6,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"225339753616285",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://",
-      "on_off_category":""
-    }
-  ],
-  "More":
-  [
-     {
-   "id": 4,
-   "title": "Toca Boca Skibidi Toilet HD",
-   "image": "https://play-lh.googleusercontent.com/edPddJXUuWl9R7_OTZqGa7_mdACbQRNQ5eOurzgSqGSnFOGu7dMUrsljMrZ2nYQtOIA=w2560-h1440",
-   "link": "https://play.google.com/store/apps/details?id=com.sitilight.toca_skibidi"
- },
-     {
-   "id": 4,
-   "title": "Gacha Plus HD Wallpaper",
-   "image": "https://play-lh.googleusercontent.com/l6hjuoZqetQyJQAJ381mklSMHBPX77aqGXGW_4itKeMtq10bz53Er3UuhCD_sRnPZg=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.sitilight.gachaplus"
- },
-     {
-   "id": 4,
-   "title": "Toca Boca Room Ideas",
-   "image": "https://play-lh.googleusercontent.com/cguCjlxWtdD2Uxa_pz0QdLVQ1UyV7clWDjxdqNrAf3pbLLu37PVRy0HY8Y8jAZQ_maE=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.toca_room"
- },
-     {
-   "id": 4,
-   "title": "Gacha Life Outfit Ideas",
-   "image": "https://play-lh.googleusercontent.com/siwIwkxwSLp-Rx1ZYgdaLKWYRkm0sR1brsNHsux0ID0uh--321pt-dBN8m89y3FmoZI=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.gacha_outfit"
- },
-     {
-   "id": 4,
-   "title": "Who's Your Daddy 2 HD",
-   "image": "https://play-lh.googleusercontent.com/56FVlinI091lWoG26bULUV7eOO4C7ml-TSUJQoqdSy1QnTFGxPYSc9o-gs25p-4ZSzI=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.daddy"
- },
-     {
-   "id": 4,
-   "title": "Toca Boca Outfit Ideas",
-   "image": "https://play-lh.googleusercontent.com/jfieKnJ6L-7oYYM_6TWH4SZ81xkIXNdezV2JOnOPI7vs9ZBEz_kJfua5YV444p1SyMg=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.sitilight.toca_outfit"
- },
-     {
-   "id": 1,
-   "title": "Wednesday Addams Fake VCall",
-   "image": "https://play-lh.googleusercontent.com/1EoU8raGSrgij-8t4uItR0L8EhJXVrg45A2IoGts98bidpdEbNkyxbAiWLRgkfXDAtlt=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.fake.wednesday.addams"
- },
-     {
-   "id": 1,
-   "title": "Wednesday Addams HD Wallpaper",
-   "image": "https://play-lh.googleusercontent.com/QaIkWPuN9qfDjL8coR5yAHEV0pg0w9LKYz4PvTCCR4aRGTxj8jbRqarFbjzMtE-NWYE=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.sitilight.wednesday_addams"
- },
-     {
-   "id": 13,
-   "title": "Jenna Ortega in Scream 6",
-   "image": "https://play-lh.googleusercontent.com/34xmdFOHcagfo2TdjDs6_1i2WiwEa-sqbp2ISPidWeok7wBrIYduw2_l4YdtHqou5_I=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.sitilight.scream6"
- },
-     {
-   "id": 1,
-   "title": "Toca Boca Wednesday",
-   "image": "https://play-lh.googleusercontent.com/k95VZlu_7cYSxneTk2WI-nhnzbielE7CYyjQjFQDVgab1Fbod8Y6NzvmDfumAvV1YOYM=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.sitilight.tocaboca_wednesday"
- },
-    {
-   "id": 1,
-   "title": "Gacha 2 HD Wallpaper",
-   "image": "https://play-lh.googleusercontent.com/GXceIh263PKyU5CIoUdhx0shN68qf3GnD1ofwvxmh-qQN-uCuy03MrXa-yA7Md0PKQ=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.gacha"
- },
-     {
-   "id": 1,
-   "title": "Broken Screen 4K",
-   "image": "https://play-lh.googleusercontent.com/sgktEtXjuVE8KNb6BwtN1Gt0U-1tB2YetPyu6fEfvghHy65obe39vCTaYYJkAmOXPAIy=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.sitilight.broken_screen"
- },
-     {
-   "id": 1,
-   "title": "DragonBall",
-   "image": "https://play-lh.googleusercontent.com/JIZAJER9vCxmtiNBHBS47ef5KTLccGx60ccg4sksdYQFSEz8IxJnZoTnOVV_56KnpDs=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.sitilight.dragon_ultra"
- },
-   
-    
-{
-   "id": 1,
-   "title": "Creed 3 HD",
-   "image": "https://play-lh.googleusercontent.com/WkjfxzGDZbX4JT-5F6gKDUGHewWpLSPxSPI7cHVuC44uY-JjfE71U6CY2xZaDWYbu20=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.sitilight.creed3"
- },
-
- {
-   "id": 4,
-   "title": "Wednesday Adams Wallpapers",
-   "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
- },
- {
-   "id": 5,
-   "title": "Preppy Wallpapers Pink",
-   "image": "https://play-lh.googleusercontent.com/XWzmWnW6sbirBe5KNZVqyrhpDaiKjdVuumDr3BFZWYAoPN0WGxR-JhcY1Qc-JtkYHA=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaper"
- }
-  ],
-
-  "Categories": [
-   {
-   "id": 1,
-   "name_category": "Amanda",
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "FAN",
+			"main_ads_banner": "ca-app-pub-2365282461254996/6429156215",
+			"main_ads_intertitial": "ca-app-pub-2365282461254996/3802992873",
+			"main_ads_natives": "ca-app-pub-2365282461254996/8805351190",
+			"main_ads_rewards": "ca-app-pub-2365282461254996/7000001856",
+			"backup_ads_natives": "225339753616285_225340640282863",
+			"backup_ads_banner": "225339753616285_225340366949557",
+			"backup_ads_intertitial": "225339753616285_225340450282882",
+			"backup_ads_rewards": "225339753616285_225340670282860",
+			"open_ads_admob": "ca-app-pub-2365282461254996/3797439233",
+			"open_ads_alien": "560f9789eb62abe8",
+			"open_ads_max": "560f9789eb62abe8",
+			"on_off_native_listview": "1",
+			"interval_intertitial": 6,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "225339753616285",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://",
+			"on_off_category": ""
+		}
+	],
+	"More": [
+		{
+			"id": 4,
+			"title": "Toca Boca Skibidi Toilet HD",
+			"image": "https://play-lh.googleusercontent.com/edPddJXUuWl9R7_OTZqGa7_mdACbQRNQ5eOurzgSqGSnFOGu7dMUrsljMrZ2nYQtOIA=w2560-h1440",
+			"link": "https://play.google.com/store/apps/details?id=com.sitilight.toca_skibidi"
+		},
+		{
+			"id": 4,
+			"title": "Gacha Plus HD Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/l6hjuoZqetQyJQAJ381mklSMHBPX77aqGXGW_4itKeMtq10bz53Er3UuhCD_sRnPZg=w240-h480",
+			"link": "https://play.google.com/store/apps/details?id=com.sitilight.gachaplus"
+		},
+		{
+			"id": 4,
+			"title": "Toca Boca Room Ideas",
+			"image": "https://play-lh.googleusercontent.com/cguCjlxWtdD2Uxa_pz0QdLVQ1UyV7clWDjxdqNrAf3pbLLu37PVRy0HY8Y8jAZQ_maE=w240-h480",
+			"link": "https://play.google.com/store/apps/details?id=com.gembul.toca_room"
+		},
+		{
+			"id": 4,
+			"title": "Gacha Life Outfit Ideas",
+			"image": "https://play-lh.googleusercontent.com/siwIwkxwSLp-Rx1ZYgdaLKWYRkm0sR1brsNHsux0ID0uh--321pt-dBN8m89y3FmoZI=w240-h480",
+			"link": "https://play.google.com/store/apps/details?id=com.gembul.gacha_outfit"
+		},
+		{
+			"id": 4,
+			"title": "Who's Your Daddy 2 HD",
+			"image": "https://play-lh.googleusercontent.com/56FVlinI091lWoG26bULUV7eOO4C7ml-TSUJQoqdSy1QnTFGxPYSc9o-gs25p-4ZSzI=w240-h480",
+			"link": "https://play.google.com/store/apps/details?id=com.gembul.daddy"
+		},
+		{
+			"id": 4,
+			"title": "Toca Boca Outfit Ideas",
+			"image": "https://play-lh.googleusercontent.com/jfieKnJ6L-7oYYM_6TWH4SZ81xkIXNdezV2JOnOPI7vs9ZBEz_kJfua5YV444p1SyMg=w240-h480",
+			"link": "https://play.google.com/store/apps/details?id=com.sitilight.toca_outfit"
+		},
+		{
+			"id": 1,
+			"title": "Wednesday Addams Fake VCall",
+			"image": "https://play-lh.googleusercontent.com/1EoU8raGSrgij-8t4uItR0L8EhJXVrg45A2IoGts98bidpdEbNkyxbAiWLRgkfXDAtlt=w240-h480",
+			"link": "https://play.google.com/store/apps/details?id=com.gembul.fake.wednesday.addams"
+		},
+		{
+			"id": 1,
+			"title": "Wednesday Addams HD Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/QaIkWPuN9qfDjL8coR5yAHEV0pg0w9LKYz4PvTCCR4aRGTxj8jbRqarFbjzMtE-NWYE=w240-h480",
+			"link": "https://play.google.com/store/apps/details?id=com.sitilight.wednesday_addams"
+		},
+		{
+			"id": 13,
+			"title": "Jenna Ortega in Scream 6",
+			"image": "https://play-lh.googleusercontent.com/34xmdFOHcagfo2TdjDs6_1i2WiwEa-sqbp2ISPidWeok7wBrIYduw2_l4YdtHqou5_I=w240-h480",
+			"link": "https://play.google.com/store/apps/details?id=com.sitilight.scream6"
+		},
+		{
+			"id": 1,
+			"title": "Toca Boca Wednesday",
+			"image": "https://play-lh.googleusercontent.com/k95VZlu_7cYSxneTk2WI-nhnzbielE7CYyjQjFQDVgab1Fbod8Y6NzvmDfumAvV1YOYM=w240-h480",
+			"link": "https://play.google.com/store/apps/details?id=com.sitilight.tocaboca_wednesday"
+		},
+		{
+			"id": 1,
+			"title": "Gacha 2 HD Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/GXceIh263PKyU5CIoUdhx0shN68qf3GnD1ofwvxmh-qQN-uCuy03MrXa-yA7Md0PKQ=w240-h480",
+			"link": "https://play.google.com/store/apps/details?id=com.gembul.gacha"
+		},
+		{
+			"id": 1,
+			"title": "Broken Screen 4K",
+			"image": "https://play-lh.googleusercontent.com/sgktEtXjuVE8KNb6BwtN1Gt0U-1tB2YetPyu6fEfvghHy65obe39vCTaYYJkAmOXPAIy=w240-h480",
+			"link": "https://play.google.com/store/apps/details?id=com.sitilight.broken_screen"
+		},
+		{
+			"id": 1,
+			"title": "DragonBall",
+			"image": "https://play-lh.googleusercontent.com/JIZAJER9vCxmtiNBHBS47ef5KTLccGx60ccg4sksdYQFSEz8IxJnZoTnOVV_56KnpDs=w240-h480",
+			"link": "https://play.google.com/store/apps/details?id=com.sitilight.dragon_ultra"
+		},
+		{
+			"id": 1,
+			"title": "Creed 3 HD",
+			"image": "https://play-lh.googleusercontent.com/WkjfxzGDZbX4JT-5F6gKDUGHewWpLSPxSPI7cHVuC44uY-JjfE71U6CY2xZaDWYbu20=w240-h480",
+			"link": "https://play.google.com/store/apps/details?id=com.sitilight.creed3"
+		},
+		{
+			"id": 4,
+			"title": "Wednesday Adams Wallpapers",
+			"image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
+			"link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
+		},
+		{
+			"id": 5,
+			"title": "Preppy Wallpapers Pink",
+			"image": "https://play-lh.googleusercontent.com/XWzmWnW6sbirBe5KNZVqyrhpDaiKjdVuumDr3BFZWYAoPN0WGxR-JhcY1Qc-JtkYHA=w240-h480",
+			"link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaper"
+		}
+	],
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "Amanda",
+			"image": "http://archive.org/download/72_20230314/18.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "Amanda 2",
+			"image": "http://archive.org/download/da-12/da%20%2825%29.png"
+		},
+		{
+			"id": 1,
+			"name_category": "Amanda 3",
+			"image": "http://archive.org/download/72_20230314/18.jpg"
+		},
+		{
+			"id": 1,
+			"name_category": "Amanda 4",
    "image": "http://archive.org/download/72_20230314/18.jpg"
- },
-    {
-   "id": 2,
-   "name_category": "Amanda 2",
-   "image": "http://archive.org/download/da-12/da%20%2825%29.png"
- }
-    
-  ],
-
-  "Data":
-  
-[
- {
-   "id": 9,
-   "name_category": "Amanda",
-   "title": "Amanda 9",
-   "image": "http://archive.org/download/g_20230507/file_1655532951436.jpg"
- },
- {
-   "id": 22,
-   "name_category": "Amanda",
-   "title": "Amanda 22",
-   "image": "http://archive.org/download/g_20230507/file_1655532952845.jpg"
- },
- {
-   "id": 14,
-   "name_category": "Amanda",
-   "title": "Amanda 14",
-   "image": "http://archive.org/download/g_20230507/file_1655532952085.jpg"
- },
- {
-   "id": 58,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.5",
-   "image": "http://archive.org/download/da-12/da%20%2813%29.png"
- },
- {
-   "id": 70,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.17",
-   "image": "http://archive.org/download/da-12/da%20%2824%29.png"
- },
- {
-   "id": 64,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.11",
-   "image": "http://archive.org/download/da-12/da%20%2819%29.png"
- },
- {
-   "id": 23,
-   "name_category": "Amanda",
-   "title": "Amanda 23",
-   "image": "http://archive.org/download/g_20230507/file_1655532952981.jpg"
- },
- {
-   "id": 81,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.28",
-   "image": "http://archive.org/download/da-12/da%20%289%29.png"
- },
- {
-   "id": 16,
-   "name_category": "Amanda",
-   "title": "Amanda 16",
-   "image": "http://archive.org/download/g_20230507/file_1655532952312.jpg"
- },
- {
-   "id": 27,
-   "name_category": "Amanda",
-   "title": "Amanda 27",
-   "image": "http://archive.org/download/g_20230507/file_1655532953380.jpg"
- },
- {
-   "id": 13,
-   "name_category": "Amanda",
-   "title": "Amanda 13",
-   "image": "http://archive.org/download/g_20230507/file_1655532951934.jpg"
- },
- {
-   "id": 68,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.15",
-   "image": "http://archive.org/download/da-12/da%20%2822%29.png"
- },
- {
-   "id": 12,
-   "name_category": "Amanda",
-   "title": "Amanda 12",
-   "image": "http://archive.org/download/g_20230507/file_1655532951770.jpg"
- },
- {
-   "id": 19,
-   "name_category": "Amanda",
-   "title": "Amanda 19",
-   "image": "http://archive.org/download/g_20230507/file_1655532952599.jpg"
- },
- {
-   "id": 56,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.3",
-   "image": "http://archive.org/download/da-12/da%20%2811%29.png"
- },
- {
-   "id": 77,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.24",
-   "image": "http://archive.org/download/da-12/da%20%285%29.png"
- },
- {
-   "id": 30,
-   "name_category": "Amanda",
-   "title": "Amanda 30",
-   "image": "http://archive.org/download/g_20230507/g.jpg"
- },
- {
-   "id": 2,
-   "name_category": "Amanda",
-   "title": "Amanda 2",
-   "image": "http://archive.org/download/g_20230507/b.jpg"
- },
- {
-   "id": 3,
-   "name_category": "Amanda",
-   "title": "Amanda 3",
-   "image": "http://archive.org/download/g_20230507/c.jpg"
- },
- {
-   "id": 73,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.20",
-   "image": "http://archive.org/download/da-12/da%20%2827%29.png"
- },
- {
-   "id": 5,
-   "name_category": "Amanda",
-   "title": "Amanda 5",
-   "image": "http://archive.org/download/g_20230507/e.jpg"
- },
- {
-   "id": 10,
-   "name_category": "Amanda",
-   "title": "Amanda 10",
-   "image": "http://archive.org/download/g_20230507/file_1655532951539.jpg"
- },
- {
-   "id": 28,
-   "name_category": "Amanda",
-   "title": "Amanda 28",
-   "image": "http://archive.org/download/g_20230507/file_1655532953545.jpg"
- },
- {
-   "id": 4,
-   "name_category": "Amanda",
-   "title": "Amanda 4",
-   "image": "http://archive.org/download/g_20230507/d.jpg"
- },
- {
-   "id": 62,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.9",
-   "image": "http://archive.org/download/da-12/da%20%2817%29.png"
- },
- {
-   "id": 60,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.7",
-   "image": "http://archive.org/download/da-12/da%20%2815%29.png"
- },
- {
-   "id": 55,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.2",
-   "image": "http://archive.org/download/da-12/da%20%2810%29.png"
- },
- {
-   "id": 21,
-   "name_category": "Amanda",
-   "title": "Amanda 21",
-   "image": "http://archive.org/download/g_20230507/file_1655532952765.jpg"
- },
- {
-   "id": 20,
-   "name_category": "Amanda",
-   "title": "Amanda 20",
-   "image": "http://archive.org/download/g_20230507/file_1655532952675.jpg"
- },
- {
-   "id": 31,
-   "name_category": "Amanda",
-   "title": "Amanda 31",
-   "image": "http://archive.org/download/g_20230507/h.jpg"
- },
- {
-   "id": 69,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.16",
-   "image": "http://archive.org/download/da-12/da%20%2823%29.png"
- },
- {
-   "id": 59,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.6",
-   "image": "http://archive.org/download/da-12/da%20%2814%29.png"
- },
- {
-   "id": 18,
-   "name_category": "Amanda",
-   "title": "Amanda 18",
-   "image": "http://archive.org/download/g_20230507/file_1655532952522.jpg"
- },
- {
-   "id": 25,
-   "name_category": "Amanda",
-   "title": "Amanda 25",
-   "image": "http://archive.org/download/g_20230507/file_1655532953148.jpg"
- },
- {
-   "id": 15,
-   "name_category": "Amanda",
-   "title": "Amanda 15",
-   "image": "http://archive.org/download/g_20230507/file_1655532952224.jpg"
- },
- {
-   "id": 65,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.12",
-   "image": "http://archive.org/download/da-12/da%20%282%29.png"
- },
- {
-   "id": 63,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.10",
-   "image": "http://archive.org/download/da-12/da%20%2818%29.png"
- },
- {
-   "id": 67,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.14",
-   "image": "http://archive.org/download/da-12/da%20%2821%29.png"
- },
- {
-   "id": 24,
-   "name_category": "Amanda",
-   "title": "Amanda 24",
-   "image": "http://archive.org/download/g_20230507/file_1655532953071.jpg"
- },
- {
-   "id": 79,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.26",
-   "image": "http://archive.org/download/da-12/da%20%287%29.png"
- },
- {
-   "id": 80,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.27",
-   "image": "http://archive.org/download/da-12/da%20%288%29.png"
- },
- {
-   "id": 72,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.19",
-   "image": "http://archive.org/download/da-12/da%20%2826%29.png"
- },
- {
-   "id": 57,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.4",
-   "image": "http://archive.org/download/da-12/da%20%2812%29.png"
- },
- {
-   "id": 75,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.22",
-   "image": "http://archive.org/download/da-12/da%20%283%29.png"
- },
- {
-   "id": 78,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.25",
-   "image": "http://archive.org/download/da-12/da%20%286%29.png"
- },
- {
-   "id": 6,
-   "name_category": "Amanda",
-   "title": "Amanda 6",
-   "image": "http://archive.org/download/g_20230507/f.jpg"
- },
- {
-   "id": 54,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.1",
-   "image": "http://archive.org/download/da-12/da%20%281%29.png"
- },
- {
-   "id": 1,
-   "name_category": "Amanda",
-   "title": "Amanda 1",
-   "image": "http://archive.org/download/g_20230507/a.jpg"
- },
- {
-   "id": 71,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.18",
-   "image": "http://archive.org/download/da-12/da%20%2825%29.png"
- },
- {
-   "id": 8,
-   "name_category": "Amanda",
-   "title": "Amanda 8",
-   "image": "http://archive.org/download/g_20230507/file_1655532951310.jpg"
- },
- {
-   "id": 29,
-   "name_category": "Amanda",
-   "title": "Amanda 29",
-   "image": "http://archive.org/download/g_20230507/file_1655533112371.jpg"
- },
- {
-   "id": 7,
-   "name_category": "Amanda",
-   "title": "Amanda 7",
-   "image": "http://archive.org/download/g_20230507/file_1655532951114.jpg"
- },
- {
-   "id": 26,
-   "name_category": "Amanda",
-   "title": "Amanda 26",
-   "image": "http://archive.org/download/g_20230507/file_1655532953274.jpg"
- },
- {
-   "id": 74,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.21",
-   "image": "http://archive.org/download/da-12/da%20%2828%29.png"
- },
- {
-   "id": 76,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.23",
-   "image": "http://archive.org/download/da-12/da%20%284%29.png"
- },
- {
-   "id": 17,
-   "name_category": "Amanda",
-   "title": "Amanda 17",
-   "image": "http://archive.org/download/g_20230507/file_1655532952425.jpg"
- },
- {
-   "id": 66,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.13",
-   "image": "http://archive.org/download/da-12/da%20%2820%29.png"
- },
- {
-   "id": 61,
-   "name_category": "Amanda 2",
-   "title": "Amanda 2.8",
-   "image": "http://archive.org/download/da-12/da%20%2816%29.png"
- },
- {
-   "id": 11,
-   "name_category": "Amanda",
-   "title": "Amanda 11",
-   "image": "http://archive.org/download/g_20230507/file_1655532951662.jpg"
- }
-]
-  
-  }
+		},
+		{
+			"id": 1,
+			"name_category": "Amanda 5",
+			"image": "http://archive.org/download/72_20230314/18.jpg"
+		},
+		{
+			"id": 1,
+			"name_category": "Amanda 6",
+			"image": "http://archive.org/download/72_20230314/18.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 258,
+			"name_category": "Amanda 6",
+			"title": "3.37",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2852%29.jpg"
+		},
+		{
+			"id": 312,
+			"name_category": "Amanda 5",
+			"title": "4.42",
+			"image": "http://archive.org/download/a-87_20230412/lan%20%288%29.jpg"
+		},
+		{
+			"id": 301,
+			"name_category": "Amanda 4",
+			"title": "4.31",
+			"image": "http://archive.org/download/a-87_20230412/lagi%20%287%29.jpg"
+		},
+		{
+			"id": 268,
+			"name_category": "Amanda 6",
+			"title": "3.47",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2884%29.jpg"
+		},
+		{
+			"id": 290,
+			"name_category": "Amanda 4",
+			"title": "4.20",
+			"image": "http://archive.org/download/a-87_20230412/iki%20%286%29.jpg"
+		},
+		{
+			"id": 282,
+			"name_category": "Amanda 6",
+			"title": "4.12",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2898%29.jpg"
+		},
+		{
+			"id": 324,
+			"name_category": "Amanda 5",
+			"title": "4.54",
+			"image": "http://archive.org/download/a-87_20230412/uhh%20%284%29.jpg"
+		},
+		{
+			"id": 325,
+			"name_category": "Amanda 5",
+			"title": "4.55",
+			"image": "http://archive.org/download/a-87_20230412/uhh%20%285%29.jpg"
+		},
+		{
+			"id": 305,
+			"name_category": "Amanda 4",
+			"title": "4.35",
+			"image": "http://archive.org/download/a-87_20230412/lan%20%2810%29.jpg"
+		},
+		{
+			"id": 289,
+			"name_category": "Amanda 4",
+			"title": "4.19",
+			"image": "http://archive.org/download/a-87_20230412/iki%20%285%29.jpg"
+		},
+		{
+			"id": 288,
+			"name_category": "Amanda 4",
+			"title": "4.18",
+			"image": "http://archive.org/download/a-87_20230412/iki%20%284%29.jpg"
+		},
+		{
+			"id": 273,
+			"name_category": "Amanda 6",
+			"title": "4.3",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2889%29.jpg"
+		},
+		{
+			"id": 270,
+			"name_category": "Amanda 6",
+			"title": "3.49",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2886%29.jpg"
+		},
+		{
+			"id": 317,
+			"name_category": "Amanda 5",
+			"title": "4.47",
+			"image": "http://archive.org/download/a-87_20230412/uhh%20%2812%29.jpg"
+		},
+		{
+			"id": 319,
+			"name_category": "Amanda 5",
+			"title": "4.49",
+			"image": "http://archive.org/download/a-87_20230412/uhh%20%2814%29.jpg"
+		},
+		{
+			"id": 297,
+			"name_category": "Amanda 4",
+			"title": "4.27",
+			"image": "http://archive.org/download/a-87_20230412/lagi%20%283%29.jpg"
+		},
+		{
+			"id": 314,
+			"name_category": "Amanda 5",
+			"title": "4.44",
+			"image": "http://archive.org/download/a-87_20230412/uhh%20%281%29.jpg"
+		},
+		{
+			"id": 300,
+			"name_category": "Amanda 4",
+			"title": "4.30",
+			"image": "http://archive.org/download/a-87_20230412/lagi%20%286%29.jpg"
+		},
+		{
+			"id": 318,
+			"name_category": "Amanda 5",
+			"title": "4.48",
+			"image": "http://archive.org/download/a-87_20230412/uhh%20%2813%29.jpg"
+		},
+		{
+			"id": 243,
+			"name_category": "Amanda 6",
+			"title": "3.22",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2834%29.jpg"
+		},
+		{
+			"id": 260,
+			"name_category": "Amanda 6",
+			"title": "3.39",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2876%29.jpg"
+		},
+		{
+			"id": 250,
+			"name_category": "Amanda 6",
+			"title": "3.29",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2840%29.jpg"
+		},
+		{
+			"id": 286,
+			"name_category": "Amanda 4",
+			"title": "4.16",
+			"image": "http://archive.org/download/a-87_20230412/iki%20%282%29.jpg"
+		},
+		{
+			"id": 279,
+			"name_category": "Amanda 6",
+			"title": "4.9",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2895%29.jpg"
+		},
+		{
+			"id": 271,
+			"name_category": "Amanda 6",
+			"title": "4.1",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2887%29.jpg"
+		},
+		{
+			"id": 296,
+			"name_category": "Amanda 4",
+			"title": "4.26",
+			"image": "http://archive.org/download/a-87_20230412/lagi%20%282%29.jpg"
+		},
+		{
+			"id": 259,
+			"name_category": "Amanda 6",
+			"title": "3.38",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2875%29.jpg"
+		},
+		{
+			"id": 274,
+			"name_category": "Amanda 6",
+			"title": "4.4",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2890%29.jpg"
+		},
+		{
+			"id": 234,
+			"name_category": "Amanda 3",
+			"title": "3.13",
+			"image": "http://archive.org/download/a-87_20230412/a%20%282%29.png"
+		},
+		{
+			"id": 322,
+			"name_category": "Amanda 5",
+			"title": "4.52",
+			"image": "http://archive.org/download/a-87_20230412/uhh%20%282%29.jpg"
+		},
+		{
+			"id": 321,
+			"name_category": "Amanda 5",
+			"title": "4.51",
+			"image": "http://archive.org/download/a-87_20230412/uhh%20%2816%29.jpg"
+		},
+		{
+			"id": 287,
+			"name_category": "Amanda 4",
+			"title": "4.17",
+			"image": "http://archive.org/download/a-87_20230412/iki%20%283%29.jpg"
+		},
+		{
+			"id": 313,
+			"name_category": "Amanda 5",
+			"title": "4.43",
+			"image": "http://archive.org/download/a-87_20230412/lan%20%289%29.jpg"
+		},
+		{
+			"id": 329,
+			"name_category": "Amanda 5",
+			"title": "4.59",
+			"image": "http://archive.org/download/a-87_20230412/uhh%20%289%29.jpg"
+		},
+		{
+			"id": 256,
+			"name_category": "Amanda 6",
+			"title": "3.35",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2850%29.jpg"
+		},
+		{
+			"id": 227,
+			"name_category": "Amanda 3",
+			"title": "3.6",
+			"image": "http://archive.org/download/a-87_20230412/R%20%286%29.jpg"
+		},
+		{
+			"id": 299,
+			"name_category": "Amanda 4",
+			"title": "4.29",
+			"image": "http://archive.org/download/a-87_20230412/lagi%20%285%29.jpg"
+		},
+		{
+			"id": 265,
+			"name_category": "Amanda 6",
+			"title": "3.44",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2881%29.jpg"
+		},
+		{
+			"id": 251,
+			"name_category": "Amanda 6",
+			"title": "3.30",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2841%29.jpg"
+		},
+		{
+			"id": 307,
+			"name_category": "Amanda 4",
+			"title": "4.37",
+			"image": "http://archive.org/download/a-87_20230412/lan%20%283%29.jpg"
+		},
+		{
+			"id": 242,
+			"name_category": "Amanda 6",
+			"title": "3.21",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2833%29.jpg"
+		},
+		{
+			"id": 328,
+			"name_category": "Amanda 5",
+			"title": "4.58",
+			"image": "http://archive.org/download/a-87_20230412/uhh%20%288%29.jpg"
+		},
+		{
+			"id": 264,
+			"name_category": "Amanda 6",
+			"title": "3.43",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2880%29.jpg"
+		},
+		{
+			"id": 232,
+			"name_category": "Amanda 3",
+			"title": "3.11",
+			"image": "http://archive.org/download/a-87_20230412/a%20%28101%29.jpg"
+		},
+		{
+			"id": 245,
+			"name_category": "Amanda 6",
+			"title": "3.24",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2836%29.jpg"
+		},
+		{
+			"id": 229,
+			"name_category": "Amanda 3",
+			"title": "3.8",
+			"image": "http://archive.org/download/a-87_20230412/R%20%288%29.jpg"
+		},
+		{
+			"id": 228,
+			"name_category": "Amanda 3",
+			"title": "3.7",
+			"image": "http://archive.org/download/a-87_20230412/R%20%287%29.jpg"
+		},
+		{
+			"id": 327,
+			"name_category": "Amanda 5",
+			"title": "4.57",
+			"image": "http://archive.org/download/a-87_20230412/uhh%20%287%29.jpg"
+		},
+		{
+			"id": 309,
+			"name_category": "Amanda 4",
+			"title": "4.39",
+			"image": "http://archive.org/download/a-87_20230412/lan%20%285%29.jpg"
+		},
+		{
+			"id": 303,
+			"name_category": "Amanda 4",
+			"title": "4.33",
+			"image": "http://archive.org/download/a-87_20230412/lagi%20%289%29.jpg"
+		},
+		{
+			"id": 298,
+			"name_category": "Amanda 4",
+			"title": "4.28",
+			"image": "http://archive.org/download/a-87_20230412/lagi%20%284%29.jpg"
+		},
+		{
+			"id": 284,
+			"name_category": "Amanda 6",
+			"title": "4.14",
+			"image": "http://archive.org/download/a-87_20230412/iki%20%281%29.jpg"
+		},
+		{
+			"id": 294,
+			"name_category": "Amanda 4",
+			"title": "4.24",
+			"image": "http://archive.org/download/a-87_20230412/lagi%20%281%29.jpg"
+		},
+		{
+			"id": 247,
+			"name_category": "Amanda 6",
+			"title": "3.26",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2838%29.jpg"
+		},
+		{
+			"id": 306,
+			"name_category": "Amanda 4",
+			"title": "4.36",
+			"image": "http://archive.org/download/a-87_20230412/lan%20%282%29.jpg"
+		},
+		{
+			"id": 267,
+			"name_category": "Amanda 6",
+			"title": "3.46",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2883%29.jpg"
+		},
+		{
+			"id": 295,
+			"name_category": "Amanda 4",
+			"title": "4.25",
+			"image": "http://archive.org/download/a-87_20230412/lagi%20%2810%29.jpg"
+		},
+		{
+			"id": 257,
+			"name_category": "Amanda 6",
+			"title": "3.36",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2851%29.jpg"
+		},
+		{
+			"id": 263,
+			"name_category": "Amanda 6",
+			"title": "3.42",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2879%29.jpg"
+		},
+		{
+			"id": 278,
+			"name_category": "Amanda 6",
+			"title": "4.8",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2894%29.jpg"
+		},
+		{
+			"id": 238,
+			"name_category": "Amanda 3",
+			"title": "3.17",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2828%29.jpg"
+		},
+		{
+			"id": 262,
+			"name_category": "Amanda 6",
+			"title": "3.41",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2878%29.jpg"
+		},
+		{
+			"id": 304,
+			"name_category": "Amanda 4",
+			"title": "4.34",
+			"image": "http://archive.org/download/a-87_20230412/lan%20%281%29.jpg"
+		},
+		{
+			"id": 291,
+			"name_category": "Amanda 4",
+			"title": "4.21",
+			"image": "http://archive.org/download/a-87_20230412/iki%20%287%29.jpg"
+		},
+		{
+			"id": 281,
+			"name_category": "Amanda 6",
+			"title": "4.11",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2897%29.jpg"
+		},
+		{
+			"id": 315,
+			"name_category": "Amanda 5",
+			"title": "4.45",
+			"image": "http://archive.org/download/a-87_20230412/uhh%20%2810%29.jpg"
+		},
+		{
+			"id": 244,
+			"name_category": "Amanda 6",
+			"title": "3.23",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2835%29.jpg"
+		},
+		{
+			"id": 280,
+			"name_category": "Amanda 6",
+			"title": "4.10",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2896%29.jpg"
+		},
+		{
+			"id": 269,
+			"name_category": "Amanda 6",
+			"title": "3.48",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2885%29.jpg"
+		},
+		{
+			"id": 239,
+			"name_category": "Amanda 3",
+			"title": "3.18",
+			"image": "http://archive.org/download/a-87_20230412/a%20%283%29.png"
+		},
+		{
+			"id": 283,
+			"name_category": "Amanda 6",
+			"title": "4.13",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2899%29.jpg"
+		},
+		{
+			"id": 316,
+			"name_category": "Amanda 5",
+			"title": "4.46",
+			"image": "http://archive.org/download/a-87_20230412/uhh%20%2811%29.jpg"
+		},
+		{
+			"id": 272,
+			"name_category": "Amanda 6",
+			"title": "4.2",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2888%29.jpg"
+		},
+		{
+			"id": 275,
+			"name_category": "Amanda 6",
+			"title": "4.5",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2891%29.jpg"
+		},
+		{
+			"id": 223,
+			"name_category": "Amanda 3",
+			"title": "3.2",
+			"image": "http://archive.org/download/a-87_20230412/R%20%282%29.jpg"
+		},
+		{
+			"id": 233,
+			"name_category": "Amanda 3",
+			"title": "3.12",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2819%29.jpg"
+		},
+		{
+			"id": 231,
+			"name_category": "Amanda 3",
+			"title": "3.10",
+			"image": "http://archive.org/download/a-87_20230412/a%20%28100%29.jpg"
+		},
+		{
+			"id": 224,
+			"name_category": "Amanda 3",
+			"title": "3.3",
+			"image": "http://archive.org/download/a-87_20230412/R%20%283%29.jpg"
+		},
+		{
+			"id": 241,
+			"name_category": "Amanda 6",
+			"title": "3.20",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2832%29.jpg"
+		},
+		{
+			"id": 276,
+			"name_category": "Amanda 6",
+			"title": "4.6",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2892%29.jpg"
+		},
+		{
+			"id": 266,
+			"name_category": "Amanda 6",
+			"title": "3.45",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2882%29.jpg"
+		},
+		{
+			"id": 252,
+			"name_category": "Amanda 6",
+			"title": "3.31",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2842%29.jpg"
+		},
+		{
+			"id": 292,
+			"name_category": "Amanda 4",
+			"title": "4.22",
+			"image": "http://archive.org/download/a-87_20230412/iki%20%288%29.jpg"
+		},
+		{
+			"id": 237,
+			"name_category": "Amanda 3",
+			"title": "3.16",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2827%29.jpg"
+		},
+		{
+			"id": 248,
+			"name_category": "Amanda 6",
+			"title": "3.27",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2839%29.jpg"
+		},
+		{
+			"id": 308,
+			"name_category": "Amanda 4",
+			"title": "4.38",
+			"image": "http://archive.org/download/a-87_20230412/lan%20%284%29.jpg"
+		},
+		{
+			"id": 249,
+			"name_category": "Amanda 6",
+			"title": "3.28",
+			"image": "http://archive.org/download/a-87_20230412/a%20%284%29.png"
+		},
+		{
+			"id": 225,
+			"name_category": "Amanda 3",
+			"title": "3.4",
+			"image": "http://archive.org/download/a-87_20230412/R%20%284%29.jpg"
+		},
+		{
+			"id": 320,
+			"name_category": "Amanda 5",
+			"title": "4.50",
+			"image": "http://archive.org/download/a-87_20230412/uhh%20%2815%29.jpg"
+		},
+		{
+			"id": 246,
+			"name_category": "Amanda 6",
+			"title": "3.25",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2837%29.jpg"
+		},
+		{
+			"id": 311,
+			"name_category": "Amanda 5",
+			"title": "4.41",
+			"image": "http://archive.org/download/a-87_20230412/lan%20%287%29.jpg"
+		},
+		{
+			"id": 254,
+			"name_category": "Amanda 6",
+			"title": "3.33",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2844%29.jpg"
+		},
+		{
+			"id": 255,
+			"name_category": "Amanda 6",
+			"title": "3.34",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2845%29.jpg"
+		},
+		{
+			"id": 261,
+			"name_category": "Amanda 6",
+			"title": "3.40",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2877%29.jpg"
+		},
+		{
+			"id": 310,
+			"name_category": "Amanda 4",
+			"title": "4.40",
+			"image": "http://archive.org/download/a-87_20230412/lan%20%286%29.jpg"
+		},
+		{
+			"id": 235,
+			"name_category": "Amanda 3",
+			"title": "3.14",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2822%29.jpg"
+		},
+		{
+			"id": 226,
+			"name_category": "Amanda 3",
+			"title": "3.5",
+			"image": "http://archive.org/download/a-87_20230412/R%20%285%29.jpg"
+		},
+		{
+			"id": 302,
+			"name_category": "Amanda 4",
+			"title": "4.32",
+			"image": "http://archive.org/download/a-87_20230412/lagi%20%288%29.jpg"
+		},
+		{
+			"id": 293,
+			"name_category": "Amanda 4",
+			"title": "4.23",
+			"image": "http://archive.org/download/a-87_20230412/iki%20%289%29.jpg"
+		},
+		{
+			"id": 323,
+			"name_category": "Amanda 5",
+			"title": "4.53",
+			"image": "http://archive.org/download/a-87_20230412/uhh%20%283%29.jpg"
+		},
+		{
+			"id": 222,
+			"name_category": "Amanda 3",
+			"title": "3.1",
+			"image": "http://archive.org/download/a-87_20230412/R%20%281%29.jpg"
+		},
+		{
+			"id": 285,
+			"name_category": "Amanda 6",
+			"title": "4.15",
+			"image": "http://archive.org/download/a-87_20230412/iki%20%2810%29.jpg"
+		},
+		{
+			"id": 277,
+			"name_category": "Amanda 6",
+			"title": "4.7",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2893%29.jpg"
+		},
+		{
+			"id": 240,
+			"name_category": "Amanda 3",
+			"title": "3.19",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2831%29.jpg"
+		},
+		{
+			"id": 236,
+			"name_category": "Amanda 3",
+			"title": "3.15",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2825%29.jpg"
+		},
+		{
+			"id": 326,
+			"name_category": "Amanda 5",
+			"title": "4.56",
+			"image": "http://archive.org/download/a-87_20230412/uhh%20%286%29.jpg"
+		},
+		{
+			"id": 253,
+			"name_category": "Amanda 6",
+			"title": "3.32",
+			"image": "http://archive.org/download/a-87_20230412/a%20%2843%29.jpg"
+		},
+		{
+			"id": 230,
+			"name_category": "Amanda 3",
+			"title": "3.9",
+			"image": "http://archive.org/download/a-87_20230412/a%20%281%29.png"
+		},
+		{
+			"id": 9,
+			"name_category": "Amanda",
+			"title": "Amanda 9",
+			"image": "http://archive.org/download/g_20230507/file_1655532951436.jpg"
+		},
+		{
+			"id": 22,
+			"name_category": "Amanda",
+			"title": "Amanda 22",
+			"image": "http://archive.org/download/g_20230507/file_1655532952845.jpg"
+		},
+		{
+			"id": 14,
+			"name_category": "Amanda",
+			"title": "Amanda 14",
+			"image": "http://archive.org/download/g_20230507/file_1655532952085.jpg"
+		},
+		{
+			"id": 58,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.5",
+			"image": "http://archive.org/download/da-12/da%20%2813%29.png"
+		},
+		{
+			"id": 70,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.17",
+			"image": "http://archive.org/download/da-12/da%20%2824%29.png"
+		},
+		{
+			"id": 64,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.11",
+			"image": "http://archive.org/download/da-12/da%20%2819%29.png"
+		},
+		{
+			"id": 23,
+			"name_category": "Amanda",
+			"title": "Amanda 23",
+			"image": "http://archive.org/download/g_20230507/file_1655532952981.jpg"
+		},
+		{
+			"id": 81,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.28",
+			"image": "http://archive.org/download/da-12/da%20%289%29.png"
+		},
+		{
+			"id": 16,
+			"name_category": "Amanda",
+			"title": "Amanda 16",
+			"image": "http://archive.org/download/g_20230507/file_1655532952312.jpg"
+		},
+		{
+			"id": 27,
+			"name_category": "Amanda",
+			"title": "Amanda 27",
+			"image": "http://archive.org/download/g_20230507/file_1655532953380.jpg"
+		},
+		{
+			"id": 13,
+			"name_category": "Amanda",
+			"title": "Amanda 13",
+			"image": "http://archive.org/download/g_20230507/file_1655532951934.jpg"
+		},
+		{
+			"id": 68,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.15",
+			"image": "http://archive.org/download/da-12/da%20%2822%29.png"
+		},
+		{
+			"id": 12,
+			"name_category": "Amanda",
+			"title": "Amanda 12",
+			"image": "http://archive.org/download/g_20230507/file_1655532951770.jpg"
+		},
+		{
+			"id": 19,
+			"name_category": "Amanda",
+			"title": "Amanda 19",
+			"image": "http://archive.org/download/g_20230507/file_1655532952599.jpg"
+		},
+		{
+			"id": 56,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.3",
+			"image": "http://archive.org/download/da-12/da%20%2811%29.png"
+		},
+		{
+			"id": 77,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.24",
+			"image": "http://archive.org/download/da-12/da%20%285%29.png"
+		},
+		{
+			"id": 30,
+			"name_category": "Amanda",
+			"title": "Amanda 30",
+			"image": "http://archive.org/download/g_20230507/g.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "Amanda",
+			"title": "Amanda 2",
+			"image": "http://archive.org/download/g_20230507/b.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "Amanda",
+			"title": "Amanda 3",
+			"image": "http://archive.org/download/g_20230507/c.jpg"
+		},
+		{
+			"id": 73,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.20",
+			"image": "http://archive.org/download/da-12/da%20%2827%29.png"
+		},
+		{
+			"id": 5,
+			"name_category": "Amanda",
+			"title": "Amanda 5",
+			"image": "http://archive.org/download/g_20230507/e.jpg"
+		},
+		{
+			"id": 10,
+			"name_category": "Amanda",
+			"title": "Amanda 10",
+			"image": "http://archive.org/download/g_20230507/file_1655532951539.jpg"
+		},
+		{
+			"id": 28,
+			"name_category": "Amanda",
+			"title": "Amanda 28",
+			"image": "http://archive.org/download/g_20230507/file_1655532953545.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "Amanda",
+			"title": "Amanda 4",
+			"image": "http://archive.org/download/g_20230507/d.jpg"
+		},
+		{
+			"id": 62,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.9",
+			"image": "http://archive.org/download/da-12/da%20%2817%29.png"
+		},
+		{
+			"id": 60,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.7",
+			"image": "http://archive.org/download/da-12/da%20%2815%29.png"
+		},
+		{
+			"id": 55,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.2",
+			"image": "http://archive.org/download/da-12/da%20%2810%29.png"
+		},
+		{
+			"id": 21,
+			"name_category": "Amanda",
+			"title": "Amanda 21",
+			"image": "http://archive.org/download/g_20230507/file_1655532952765.jpg"
+		},
+		{
+			"id": 20,
+			"name_category": "Amanda",
+			"title": "Amanda 20",
+			"image": "http://archive.org/download/g_20230507/file_1655532952675.jpg"
+		},
+		{
+			"id": 31,
+			"name_category": "Amanda",
+			"title": "Amanda 31",
+			"image": "http://archive.org/download/g_20230507/h.jpg"
+		},
+		{
+			"id": 69,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.16",
+			"image": "http://archive.org/download/da-12/da%20%2823%29.png"
+		},
+		{
+			"id": 59,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.6",
+			"image": "http://archive.org/download/da-12/da%20%2814%29.png"
+		},
+		{
+			"id": 18,
+			"name_category": "Amanda",
+			"title": "Amanda 18",
+			"image": "http://archive.org/download/g_20230507/file_1655532952522.jpg"
+		},
+		{
+			"id": 25,
+			"name_category": "Amanda",
+			"title": "Amanda 25",
+			"image": "http://archive.org/download/g_20230507/file_1655532953148.jpg"
+		},
+		{
+			"id": 15,
+			"name_category": "Amanda",
+			"title": "Amanda 15",
+			"image": "http://archive.org/download/g_20230507/file_1655532952224.jpg"
+		},
+		{
+			"id": 65,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.12",
+			"image": "http://archive.org/download/da-12/da%20%282%29.png"
+		},
+		{
+			"id": 63,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.10",
+			"image": "http://archive.org/download/da-12/da%20%2818%29.png"
+		},
+		{
+			"id": 67,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.14",
+			"image": "http://archive.org/download/da-12/da%20%2821%29.png"
+		},
+		{
+			"id": 24,
+			"name_category": "Amanda",
+			"title": "Amanda 24",
+			"image": "http://archive.org/download/g_20230507/file_1655532953071.jpg"
+		},
+		{
+			"id": 79,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.26",
+			"image": "http://archive.org/download/da-12/da%20%287%29.png"
+		},
+		{
+			"id": 80,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.27",
+			"image": "http://archive.org/download/da-12/da%20%288%29.png"
+		},
+		{
+			"id": 72,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.19",
+			"image": "http://archive.org/download/da-12/da%20%2826%29.png"
+		},
+		{
+			"id": 57,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.4",
+			"image": "http://archive.org/download/da-12/da%20%2812%29.png"
+		},
+		{
+			"id": 75,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.22",
+			"image": "http://archive.org/download/da-12/da%20%283%29.png"
+		},
+		{
+			"id": 78,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.25",
+			"image": "http://archive.org/download/da-12/da%20%286%29.png"
+		},
+		{
+			"id": 6,
+			"name_category": "Amanda",
+			"title": "Amanda 6",
+			"image": "http://archive.org/download/g_20230507/f.jpg"
+		},
+		{
+			"id": 54,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.1",
+			"image": "http://archive.org/download/da-12/da%20%281%29.png"
+		},
+		{
+			"id": 1,
+			"name_category": "Amanda",
+			"title": "Amanda 1",
+			"image": "http://archive.org/download/g_20230507/a.jpg"
+		},
+		{
+			"id": 71,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.18",
+			"image": "http://archive.org/download/da-12/da%20%2825%29.png"
+		},
+		{
+			"id": 8,
+			"name_category": "Amanda",
+			"title": "Amanda 8",
+			"image": "http://archive.org/download/g_20230507/file_1655532951310.jpg"
+		},
+		{
+			"id": 29,
+			"name_category": "Amanda",
+			"title": "Amanda 29",
+			"image": "http://archive.org/download/g_20230507/file_1655533112371.jpg"
+		},
+		{
+			"id": 7,
+			"name_category": "Amanda",
+			"title": "Amanda 7",
+			"image": "http://archive.org/download/g_20230507/file_1655532951114.jpg"
+		},
+		{
+			"id": 26,
+			"name_category": "Amanda",
+			"title": "Amanda 26",
+			"image": "http://archive.org/download/g_20230507/file_1655532953274.jpg"
+		},
+		{
+			"id": 74,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.21",
+			"image": "http://archive.org/download/da-12/da%20%2828%29.png"
+		},
+		{
+			"id": 76,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.23",
+			"image": "http://archive.org/download/da-12/da%20%284%29.png"
+		},
+		{
+			"id": 17,
+			"name_category": "Amanda",
+			"title": "Amanda 17",
+			"image": "http://archive.org/download/g_20230507/file_1655532952425.jpg"
+		},
+		{
+			"id": 66,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.13",
+			"image": "http://archive.org/download/da-12/da%20%2820%29.png"
+		},
+		{
+			"id": 61,
+			"name_category": "Amanda 2",
+			"title": "Amanda 2.8",
+			"image": "http://archive.org/download/da-12/da%20%2816%29.png"
+		},
+		{
+			"id": 11,
+			"name_category": "Amanda",
+			"title": "Amanda 11",
+			"image": "http://archive.org/download/g_20230507/file_1655532951662.jpg"
+		}
+	]
+}
