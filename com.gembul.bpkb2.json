@@ -23,8 +23,8 @@
       "name": "Home",
       "type": "url",
       "icon": "https://sahabat.pegadaian.co.id/wp-content/uploads/2017/11/Icon-16.png",
-      "url": "file:///android_asset/index.html",
-      "url_dark": "file:///android_asset/index.html",
+      "url": "file:///android_asset/2023/caraCekManual.html",
+      "url_dark": "file:///android_asset/2023/caraCekManual.html",
       "toolbar": true
     }
   ],
