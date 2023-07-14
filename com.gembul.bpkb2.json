@@ -22,9 +22,9 @@
     {
       "name": "Home",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/solodroid.png",
-      "url": "https://htmlpreview.github.io/?raw.githubusercontent.com/solodroidev/content/uploads/html/webview/light/home.html",
-      "url_dark": "https://htmlpreview.github.io/?raw.githubusercontent.com/solodroidev/content/uploads/html/webview/dark/home.html",
+      "icon": "https://sahabat.pegadaian.co.id/wp-content/uploads/2017/11/Icon-16.png",
+      "url": "file:///android_asset/index.html",
+      "url_dark": "file:///android_asset/index.html",
       "toolbar": true
     }
   ],
